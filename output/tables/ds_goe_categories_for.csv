@@ -1,0 +1,567 @@
+	id	for_v1_first_level	for_v1_first_level_code	for_v1_second_level	for_v1_second_level_code
+0	pub.1124079136	Chemical Sciences	03	Medicinal and Biomolecular Chemistry	0304
+1	pub.1124079136	Biological Sciences	06	Biochemistry and Cell Biology	0601
+2	pub.1124214819	Biological Sciences	06	Microbiology	0605
+3	pub.1124462509	Biological Sciences	06	Biochemistry and Cell Biology	0601
+4	pub.1125332949	Agricultural and Veterinary Sciences	07	Veterinary Sciences	0707
+5	pub.1125408257	Biological Sciences	06	Biochemistry and Cell Biology	0601
+6	pub.1125408257	Medical and Health Sciences	11	Medical Microbiology	1108
+7	pub.1125488589	Medical and Health Sciences	11	Immunology	1107
+8	pub.1125488589	Medical and Health Sciences	11	Medical Microbiology	1108
+9	pub.1125855652	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+10	pub.1125855652	Medical and Health Sciences	11	Clinical Sciences	1103
+11	pub.1125904816	Medical and Health Sciences	11	Clinical Sciences	1103
+12	pub.1125947072	Medical and Health Sciences	11	Clinical Sciences	1103
+13	pub.1125956690	Biological Sciences	06	Biochemistry and Cell Biology	0601
+14	pub.1125979993	Medical and Health Sciences	11		None
+15	pub.1126005102	Medical and Health Sciences	11	Clinical Sciences	1103
+16	pub.1126005102	Medical and Health Sciences	11	Public Health and Health Services	1117
+17	pub.1126024433	Medical and Health Sciences	11	Clinical Sciences	1103
+18	pub.1126172864	Medical and Health Sciences	11	Public Health and Health Services	1117
+19	pub.1126664345	Medical and Health Sciences	11	Clinical Sciences	1103
+20	pub.1126664345	Medical and Health Sciences	11	Human Movement and Sports Science	1106
+21	pub.1126664345	Medical and Health Sciences	11	Neurosciences	1109
+22	pub.1126693969	Medical and Health Sciences	11		None
+23	pub.1126701081	Medical and Health Sciences	11	Clinical Sciences	1103
+24	pub.1126701081	Medical and Health Sciences	11	Immunology	1107
+25	pub.1126701081	Medical and Health Sciences	11	Public Health and Health Services	1117
+26	pub.1126768313	Economics	14	Applied Economics	1402
+27	pub.1126843214	Biological Sciences	06	Microbiology	0605
+28	pub.1126843214	Medical and Health Sciences	11	Medical Microbiology	1108
+29	pub.1126843214	Medical and Health Sciences	11	Pharmacology and Pharmaceutical Sciences	1115
+30	pub.1126886855	Medical and Health Sciences	11	Medical Microbiology	1108
+31	pub.1126923209	Medical and Health Sciences	11		None
+32	pub.1127167480	Medical and Health Sciences	11	Clinical Sciences	1103
+33	pub.1127173148	Biological Sciences	06	Genetics	0604
+34	pub.1127181753	Medical and Health Sciences	11		None
+35	pub.1127239016	Medical and Health Sciences	11	Public Health and Health Services	1117
+36	pub.1127241353	Medical and Health Sciences	11	Public Health and Health Services	1117
+37	pub.1127244380	Medical and Health Sciences	11	Public Health and Health Services	1117
+38	pub.1127259675	Biological Sciences	06	Biochemistry and Cell Biology	0601
+39	pub.1127259675	Medical and Health Sciences	11	Medical Microbiology	1108
+40	pub.1127376888	Biological Sciences	06	Biochemistry and Cell Biology	0601
+41	pub.1127378322	Chemical Sciences	03	Organic Chemistry	0305
+42	pub.1127413820	Medical and Health Sciences	11		None
+43	pub.1127418584	Medical and Health Sciences	11		None
+44	pub.1127429502	Medical and Health Sciences	11	Medical Microbiology	1108
+45	pub.1127536832	Medical and Health Sciences	11	Public Health and Health Services	1117
+46	pub.1127575474	Medical and Health Sciences	11		None
+47	pub.1127578315	Technology	10	Medical Biotechnology	1004
+48	pub.1127594600	Medical and Health Sciences	11	Medical Microbiology	1108
+49	pub.1127626783	Medical and Health Sciences	11	Public Health and Health Services	1117
+50	pub.1127634639	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+51	pub.1127634639	Medical and Health Sciences	11	Public Health and Health Services	1117
+52	pub.1127764022	Biological Sciences	06	Biochemistry and Cell Biology	0601
+53	pub.1127764645	Medical and Health Sciences	11	Clinical Sciences	1103
+54	pub.1127769033	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+55	pub.1127813540	Biological Sciences	06	Genetics	0604
+56	pub.1127864358	Medical and Health Sciences	11	Clinical Sciences	1103
+57	pub.1127864358	Medical and Health Sciences	11	Public Health and Health Services	1117
+58	pub.1127950021	Medical and Health Sciences	11	Medical Microbiology	1108
+59	pub.1128016388	Biological Sciences	06	Biochemistry and Cell Biology	0601
+60	pub.1128016388	Biological Sciences	06	Microbiology	0605
+61	pub.1128016388	Biological Sciences	06	Plant Biology	0607
+62	pub.1128056758	Commerce, Management, Tourism and Services	15	Business and Management	1503
+63	pub.1128139864	Chemical Sciences	03		None
+64	pub.1128226593	Medical and Health Sciences	11	Clinical Sciences	1103
+65	pub.1128226593	Medical and Health Sciences	11	Human Movement and Sports Science	1106
+66	pub.1128226593	Medical and Health Sciences	11	Neurosciences	1109
+67	pub.1128251549	Medical and Health Sciences	11	Neurosciences	1109
+68	pub.1128252328	Medical and Health Sciences	11	Clinical Sciences	1103
+69	pub.1128252328	Medical and Health Sciences	11	Public Health and Health Services	1117
+70	pub.1128301421	Medical and Health Sciences	11	Clinical Sciences	1103
+71	pub.1128310447	Medical and Health Sciences	11	Medical Microbiology	1108
+72	pub.1128446122	Medical and Health Sciences	11	Clinical Sciences	1103
+73	pub.1128521242	Chemical Sciences	03	Medicinal and Biomolecular Chemistry	0304
+74	pub.1128521242	Biological Sciences	06	Biochemistry and Cell Biology	0601
+75	pub.1128590086	Medical and Health Sciences	11	Public Health and Health Services	1117
+76	pub.1128639227	Biological Sciences	06	Biochemistry and Cell Biology	0601
+77	pub.1128664332	Studies in Human Society	16	Human Geography	1604
+78	pub.1128698918	Built Environment and Design	12	Urban and Regional Planning	1205
+79	pub.1128698918	Studies in Human Society	16	Human Geography	1604
+80	pub.1128698918	Studies in Human Society	16	Policy and Administration	1605
+81	pub.1128714618	Physical Sciences	02	Other Physical Sciences	0299
+82	pub.1128714618	Information and Computing Sciences	08	Artificial Intelligence and Image Processing	0801
+83	pub.1128780897	Economics	14	Applied Economics	1402
+84	pub.1128797017	Medical and Health Sciences	11	Clinical Sciences	1103
+85	pub.1128797017	Medical and Health Sciences	11	Public Health and Health Services	1117
+86	pub.1128797017	Medical and Health Sciences	11	Other Medical and Health Sciences	1199
+87	pub.1128824876	Mathematical Sciences	01	Applied Mathematics	0102
+88	pub.1128827880	Medical and Health Sciences	11	Clinical Sciences	1103
+89	pub.1128827880	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+90	pub.1128871982	Medical and Health Sciences	11	Public Health and Health Services	1117
+91	pub.1128885114	Medical and Health Sciences	11	Public Health and Health Services	1117
+92	pub.1128941200	Mathematical Sciences	01	Statistics	0104
+93	pub.1128948855	Medical and Health Sciences	11	Public Health and Health Services	1117
+94	pub.1128948868	Medical and Health Sciences	11	Clinical Sciences	1103
+95	pub.1128948868	Medical and Health Sciences	11	Immunology	1107
+96	pub.1128948868	Medical and Health Sciences	11	Public Health and Health Services	1117
+97	pub.1128970798	Medical and Health Sciences	11	Clinical Sciences	1103
+98	pub.1128974858	Medical and Health Sciences	11	Clinical Sciences	1103
+99	pub.1128974858	Medical and Health Sciences	11	Neurosciences	1109
+100	pub.1128979707	Medical and Health Sciences	11	Clinical Sciences	1103
+101	pub.1129058378	Medical and Health Sciences	11	Clinical Sciences	1103
+102	pub.1129058378	Medical and Health Sciences	11	Public Health and Health Services	1117
+103	pub.1129098340	Medical and Health Sciences	11	Clinical Sciences	1103
+104	pub.1129098340	Medical and Health Sciences	11	Neurosciences	1109
+105	pub.1129098340	Medical and Health Sciences	11	Ophthalmology and Optometry	1113
+106	pub.1129135257	Medical and Health Sciences	11	Clinical Sciences	1103
+107	pub.1129135257	Medical and Health Sciences	11	Neurosciences	1109
+108	pub.1129135257	Medical and Health Sciences	11	Ophthalmology and Optometry	1113
+109	pub.1129330280	Medical and Health Sciences	11	Clinical Sciences	1103
+110	pub.1129330280	Medical and Health Sciences	11	Neurosciences	1109
+111	pub.1129362640	Medical and Health Sciences	11	Clinical Sciences	1103
+112	pub.1129381955	Medical and Health Sciences	11	Medical Microbiology	1108
+113	pub.1129386398	Medical and Health Sciences	11	Clinical Sciences	1103
+114	pub.1129386398	Medical and Health Sciences	11	Immunology	1107
+115	pub.1129386398	Medical and Health Sciences	11	Public Health and Health Services	1117
+116	pub.1129392550	Medical and Health Sciences	11	Immunology	1107
+117	pub.1129411242	Medical and Health Sciences	11	Clinical Sciences	1103
+118	pub.1129480028	Medical and Health Sciences	11	Medical Microbiology	1108
+119	pub.1129486798	Engineering	09	Biomedical Engineering	0903
+120	pub.1129486798	Medical and Health Sciences	11	Clinical Sciences	1103
+121	pub.1129507005	Medical and Health Sciences	11	Medical Microbiology	1108
+122	pub.1129535099	Medical and Health Sciences	11	Medical Microbiology	1108
+123	pub.1129540973	Medical and Health Sciences	11	Neurosciences	1109
+124	pub.1129565167	Mathematical Sciences	01	Statistics	0104
+125	pub.1129567644	Medical and Health Sciences	11	Public Health and Health Services	1117
+126	pub.1129571738	Medical and Health Sciences	11	Immunology	1107
+127	pub.1129571738	Medical and Health Sciences	11	Medical Microbiology	1108
+128	pub.1129579425	Medical and Health Sciences	11	Immunology	1107
+129	pub.1129584790	Philosophy and Religious Studies	22	Religion and Religious Studies	2204
+130	pub.1129664214	Medical and Health Sciences	11	Clinical Sciences	1103
+131	pub.1129664214	Medical and Health Sciences	11	Immunology	1107
+132	pub.1129665412	Medical and Health Sciences	11	Immunology	1107
+133	pub.1129670106	Economics	14	Applied Economics	1402
+134	pub.1129673636	Biological Sciences	06	Biochemistry and Cell Biology	0601
+135	pub.1129684001	Information and Computing Sciences	08	Information Systems	0806
+136	pub.1129684001	Commerce, Management, Tourism and Services	15	Business and Management	1503
+137	pub.1129824693	Medical and Health Sciences	11	Public Health and Health Services	1117
+138	pub.1129870290	Agricultural and Veterinary Sciences	07	Crop and Pasture Production	0703
+139	pub.1129870290	Engineering	09	Food Sciences	0908
+140	pub.1129897197	Medical and Health Sciences	11	Immunology	1107
+141	pub.1129903168	Medical and Health Sciences	11	Clinical Sciences	1103
+142	pub.1129903168	Medical and Health Sciences	11	Immunology	1107
+143	pub.1129903168	Medical and Health Sciences	11	Public Health and Health Services	1117
+144	pub.1129912096	Medical and Health Sciences	11	Medical Microbiology	1108
+145	pub.1129925107	Studies in Human Society	16	Political Science	1606
+146	pub.1129936821	Medical and Health Sciences	11	Clinical Sciences	1103
+147	pub.1129991152	Medical and Health Sciences	11	Immunology	1107
+148	pub.1129991152	Medical and Health Sciences	11	Neurosciences	1109
+149	pub.1130052340	Biological Sciences	06	Genetics	0604
+150	pub.1130128326	Medical and Health Sciences	11		None
+151	pub.1130153559	Medical and Health Sciences	11		None
+152	pub.1130167203	Medical and Health Sciences	11	Neurosciences	1109
+153	pub.1130204521	Medical and Health Sciences	11	Clinical Sciences	1103
+154	pub.1130216912	Biological Sciences	06	Biochemistry and Cell Biology	0601
+155	pub.1130232015	Biological Sciences	06	Biochemistry and Cell Biology	0601
+156	pub.1130237957	Medical and Health Sciences	11	Clinical Sciences	1103
+157	pub.1130237957	Medical and Health Sciences	11	Immunology	1107
+158	pub.1130238130	Medical and Health Sciences	11	Clinical Sciences	1103
+159	pub.1130238130	Medical and Health Sciences	11	Immunology	1107
+160	pub.1130238730	Medical and Health Sciences	11	Clinical Sciences	1103
+161	pub.1130238730	Medical and Health Sciences	11	Immunology	1107
+162	pub.1130254848	Medical and Health Sciences	11	Medical Microbiology	1108
+163	pub.1130327830	Psychology and Cognitive Sciences	17	Psychology	1701
+164	pub.1130327902	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+165	pub.1130340158	Medical and Health Sciences	11	Public Health and Health Services	1117
+166	pub.1130340744	Medical and Health Sciences	11	Clinical Sciences	1103
+167	pub.1130392179	Medical and Health Sciences	11		None
+168	pub.1130392179	Psychology and Cognitive Sciences	17		None
+169	pub.1130397336	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+170	pub.1130504966	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+171	pub.1130538308	Medical and Health Sciences	11	Clinical Sciences	1103
+172	pub.1130575443	Medical and Health Sciences	11		None
+173	pub.1130577951	Medical and Health Sciences	11	Immunology	1107
+174	pub.1130649899	Medical and Health Sciences	11	Ophthalmology and Optometry	1113
+175	pub.1130654923	Medical and Health Sciences	11	Clinical Sciences	1103
+176	pub.1130674538	Medical and Health Sciences	11	Clinical Sciences	1103
+177	pub.1130674538	Medical and Health Sciences	11	Neurosciences	1109
+178	pub.1130674538	Medical and Health Sciences	11	Ophthalmology and Optometry	1113
+179	pub.1130687096	Medical and Health Sciences	11	Immunology	1107
+180	pub.1130718178	Medical and Health Sciences	11	Immunology	1107
+181	pub.1130787494	Medical and Health Sciences	11	Medical Microbiology	1108
+182	pub.1130838131	Medical and Health Sciences	11	Immunology	1107
+183	pub.1130905765	Medical and Health Sciences	11	Pharmacology and Pharmaceutical Sciences	1115
+184	pub.1130928774	Medical and Health Sciences	11	Public Health and Health Services	1117
+185	pub.1130970490	Economics	14	Econometrics	1403
+186	pub.1130985011	Medical and Health Sciences	11	Public Health and Health Services	1117
+187	pub.1130993678	Medical and Health Sciences	11	Clinical Sciences	1103
+188	pub.1131077045	Medical and Health Sciences	11	Clinical Sciences	1103
+189	pub.1131077045	Medical and Health Sciences	11	Immunology	1107
+190	pub.1131077045	Medical and Health Sciences	11	Public Health and Health Services	1117
+191	pub.1131101178	Law and Legal Studies	18	Law	1801
+192	pub.1131202528	Commerce, Management, Tourism and Services	15	Business and Management	1503
+193	pub.1131204097	Biological Sciences	06	Microbiology	0605
+194	pub.1131204097	Medical and Health Sciences	11	Immunology	1107
+195	pub.1131215812	Chemical Sciences	03	Medicinal and Biomolecular Chemistry	0304
+196	pub.1131215812	Chemical Sciences	03	Organic Chemistry	0305
+197	pub.1131215812	Chemical Sciences	03	Theoretical and Computational Chemistry	0307
+198	pub.1131216008	Medical and Health Sciences	11	Public Health and Health Services	1117
+199	pub.1131255014	Environmental Sciences	05	Environmental Science and Management	0502
+200	pub.1131304301	Medical and Health Sciences	11	Immunology	1107
+201	pub.1131366772	Medical and Health Sciences	11	Medical Microbiology	1108
+202	pub.1131448655	Biological Sciences	06	Biochemistry and Cell Biology	0601
+203	pub.1131464447	Mathematical Sciences	01	Pure Mathematics	0101
+204	pub.1131471047	Environmental Sciences	05	Environmental Science and Management	0502
+205	pub.1131624623	Medical and Health Sciences	11	Clinical Sciences	1103
+206	pub.1131624623	Medical and Health Sciences	11	Public Health and Health Services	1117
+207	pub.1131624687	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+208	pub.1131721397	Medical and Health Sciences	11		None
+209	pub.1131748822	Economics	14	Applied Economics	1402
+210	pub.1131796221	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+211	pub.1131846614	Medical and Health Sciences	11		None
+212	pub.1131882484	Biological Sciences	06		None
+213	pub.1131882484	Medical and Health Sciences	11		None
+214	pub.1131920383	Medical and Health Sciences	11	Medical Microbiology	1108
+215	pub.1132018186	Medical and Health Sciences	11	Clinical Sciences	1103
+216	pub.1132023093	Medical and Health Sciences	11	Clinical Sciences	1103
+217	pub.1132036996	Medical and Health Sciences	11	Pharmacology and Pharmaceutical Sciences	1115
+218	pub.1132062920	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+219	pub.1132063999	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+220	pub.1132108378	Mathematical Sciences	01	Statistics	0104
+221	pub.1132108762	Medical and Health Sciences	11	Immunology	1107
+222	pub.1132108762	Medical and Health Sciences	11	Medical Microbiology	1108
+223	pub.1132109384	Medical and Health Sciences	11	Clinical Sciences	1103
+224	pub.1132127717	Medical and Health Sciences	11	Clinical Sciences	1103
+225	pub.1132127722	Medical and Health Sciences	11	Public Health and Health Services	1117
+226	pub.1132143651	Medical and Health Sciences	11	Medical Microbiology	1108
+227	pub.1132189732	Biological Sciences	06	Biochemistry and Cell Biology	0601
+228	pub.1132189732	Medical and Health Sciences	11	Medical Microbiology	1108
+229	pub.1132243796	Physical Sciences	02	Other Physical Sciences	0299
+230	pub.1132243796	Medical and Health Sciences	11	Clinical Sciences	1103
+231	pub.1132243829	Medical and Health Sciences	11	Clinical Sciences	1103
+232	pub.1132294775	Medical and Health Sciences	11	Paediatrics and Reproductive Medicine	1114
+233	pub.1132294775	Medical and Health Sciences	11	Public Health and Health Services	1117
+234	pub.1132321841	Economics	14	Applied Economics	1402
+235	pub.1132339010	Biological Sciences	06	Genetics	0604
+236	pub.1132339010	Medical and Health Sciences	11	Immunology	1107
+237	pub.1132420900	Medical and Health Sciences	11	Immunology	1107
+238	pub.1132451777	Medical and Health Sciences	11	Clinical Sciences	1103
+239	pub.1132451825	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+240	pub.1132452614	Medical and Health Sciences	11		None
+241	pub.1132490817	Medical and Health Sciences	11	Medical Microbiology	1108
+242	pub.1132496874	Medical and Health Sciences	11	Clinical Sciences	1103
+243	pub.1132502583	Economics	14	Applied Economics	1402
+244	pub.1132581290	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+245	pub.1132625841	Medical and Health Sciences	11	Clinical Sciences	1103
+246	pub.1132625841	Medical and Health Sciences	11	Public Health and Health Services	1117
+247	pub.1132625841	Medical and Health Sciences	11	Other Medical and Health Sciences	1199
+248	pub.1132635498	Medical and Health Sciences	11	Pharmacology and Pharmaceutical Sciences	1115
+249	pub.1132683657	Medical and Health Sciences	11	Medical Physiology	1116
+250	pub.1132714885	Medical and Health Sciences	11	Clinical Sciences	1103
+251	pub.1132727798	Education	13	Specialist Studies In Education	1303
+252	pub.1132826176	Medical and Health Sciences	11	Public Health and Health Services	1117
+253	pub.1132882180	Medical and Health Sciences	11	Neurosciences	1109
+254	pub.1132897150	Medical and Health Sciences	11	Clinical Sciences	1103
+255	pub.1132897150	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+256	pub.1132924631	Commerce, Management, Tourism and Services	15	Banking, Finance and Investment	1502
+257	pub.1132929229	Commerce, Management, Tourism and Services	15	Banking, Finance and Investment	1502
+258	pub.1132946915	Biological Sciences	06	Biochemistry and Cell Biology	0601
+259	pub.1132983513	Medical and Health Sciences	11	Neurosciences	1109
+260	pub.1133067852	Medical and Health Sciences	11	Immunology	1107
+261	pub.1133112967	Medical and Health Sciences	11	Clinical Sciences	1103
+262	pub.1133112967	Medical and Health Sciences	11	Public Health and Health Services	1117
+263	pub.1133248667	Medical and Health Sciences	11	Public Health and Health Services	1117
+264	pub.1133285298	Medical and Health Sciences	11	Public Health and Health Services	1117
+265	pub.1133301560	Biological Sciences	06	Genetics	0604
+266	pub.1133349434	Information and Computing Sciences	08	Artificial Intelligence and Image Processing	0801
+267	pub.1133349434	Information and Computing Sciences	08	Computation Theory and Mathematics	0802
+268	pub.1133402081	Medical and Health Sciences	11	Immunology	1107
+269	pub.1133443729	Medical and Health Sciences	11	Clinical Sciences	1103
+270	pub.1133449298	Medical and Health Sciences	11	Public Health and Health Services	1117
+271	pub.1133467647	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+272	pub.1133484455	Economics	14	Applied Economics	1402
+273	pub.1133490339	Medical and Health Sciences	11	Public Health and Health Services	1117
+274	pub.1133498574	Environmental Sciences	05	Environmental Science and Management	0502
+275	pub.1133498574	Biological Sciences	06	Ecology	0602
+276	pub.1133615541	Medical and Health Sciences	11	Public Health and Health Services	1117
+277	pub.1133652796	Medical and Health Sciences	11		None
+278	pub.1133882352	Biological Sciences	06	Genetics	0604
+279	pub.1134000714	Studies in Human Society	16	Political Science	1606
+280	pub.1134035248	Medical and Health Sciences	11	Public Health and Health Services	1117
+281	pub.1134044324	Medical and Health Sciences	11	Immunology	1107
+282	pub.1134156033	Built Environment and Design	12	Urban and Regional Planning	1205
+283	pub.1134156033	Commerce, Management, Tourism and Services	15	Transportation and Freight Services	1507
+284	pub.1134191518	Medical and Health Sciences	11	Clinical Sciences	1103
+285	pub.1134274782	Medical and Health Sciences	11	Public Health and Health Services	1117
+286	pub.1134294393	Education	13	Specialist Studies In Education	1303
+287	pub.1134385780	Medical and Health Sciences	11	Clinical Sciences	1103
+288	pub.1134385780	Medical and Health Sciences	11	Immunology	1107
+289	pub.1134385780	Medical and Health Sciences	11	Public Health and Health Services	1117
+290	pub.1134391163	Medical and Health Sciences	11	Public Health and Health Services	1117
+291	pub.1134394691	Medical and Health Sciences	11	Public Health and Health Services	1117
+292	pub.1134408786	Medical and Health Sciences	11	Medical Microbiology	1108
+293	pub.1134421067	Medical and Health Sciences	11	Clinical Sciences	1103
+294	pub.1134421067	Medical and Health Sciences	11	Immunology	1107
+295	pub.1134421067	Medical and Health Sciences	11	Public Health and Health Services	1117
+296	pub.1134445536	Medical and Health Sciences	11	Clinical Sciences	1103
+297	pub.1134472917	Medical and Health Sciences	11	Clinical Sciences	1103
+298	pub.1134492102	Biological Sciences	06	Biochemistry and Cell Biology	0601
+299	pub.1134492102	Medical and Health Sciences	11	Medical Microbiology	1108
+300	pub.1134522261	Medical and Health Sciences	11	Clinical Sciences	1103
+301	pub.1134556841	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+302	pub.1134556841	Medical and Health Sciences	11	Clinical Sciences	1103
+303	pub.1134589123	Medical and Health Sciences	11	Immunology	1107
+304	pub.1134598220	Chemical Sciences	03	Physical Chemistry (incl. Structural)	0306
+305	pub.1134683682	Economics	14	Applied Economics	1402
+306	pub.1134703864	Chemical Sciences	03	Analytical Chemistry	0301
+307	pub.1134703864	Chemical Sciences	03	Other Chemical Sciences	0399
+308	pub.1134705099	Biological Sciences	06	Biochemistry and Cell Biology	0601
+309	pub.1134705099	Medical and Health Sciences	11	Clinical Sciences	1103
+310	pub.1134710486	Mathematical Sciences	01		None
+311	pub.1134710486	Physical Sciences	02		None
+312	pub.1134710486	Engineering	09		None
+313	pub.1134712373	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+314	pub.1134712373	Medical and Health Sciences	11	Medical Physiology	1116
+315	pub.1134714744	Medical and Health Sciences	11	Clinical Sciences	1103
+316	pub.1134735838	Medical and Health Sciences	11		None
+317	pub.1134763789	Medical and Health Sciences	11		None
+318	pub.1134768505	Economics	14	Applied Economics	1402
+319	pub.1134768505	Commerce, Management, Tourism and Services	15	Business and Management	1503
+320	pub.1134768505	Studies in Human Society	16	Sociology	1608
+321	pub.1134814798	Economics	14		None
+322	pub.1134850501	Medical and Health Sciences	11	Public Health and Health Services	1117
+323	pub.1134912877	Medical and Health Sciences	11	Clinical Sciences	1103
+324	pub.1135031368	Medical and Health Sciences	11	Clinical Sciences	1103
+325	pub.1135031368	Medical and Health Sciences	11	Public Health and Health Services	1117
+326	pub.1135031387	Medical and Health Sciences	11	Public Health and Health Services	1117
+327	pub.1135063169	Biological Sciences	06	Biochemistry and Cell Biology	0601
+328	pub.1135073341	Education	13	Specialist Studies In Education	1303
+329	pub.1135073341	Language, Communication and Culture	20	Linguistics	2004
+330	pub.1135105436	Biological Sciences	06		None
+331	pub.1135105436	Technology	10		None
+332	pub.1135105436	Medical and Health Sciences	11		None
+333	pub.1135108392	Medical and Health Sciences	11	Medical Microbiology	1108
+334	pub.1135123398	Environmental Sciences	05	Environmental Science and Management	0502
+335	pub.1135164226	Economics	14	Applied Economics	1402
+336	pub.1135164226	Economics	14	Econometrics	1403
+337	pub.1135172186	Economics	14	Applied Economics	1402
+338	pub.1135271456	Medical and Health Sciences	11	Neurosciences	1109
+339	pub.1135271578	Agricultural and Veterinary Sciences	07	Animal Production	0702
+340	pub.1135276816	Medical and Health Sciences	11		None
+341	pub.1135323816	Physical Sciences	02		None
+342	pub.1135323816	Chemical Sciences	03		None
+343	pub.1135323816	Biological Sciences	06		None
+344	pub.1135329014	Medical and Health Sciences	11	Public Health and Health Services	1117
+345	pub.1135339377	Medical and Health Sciences	11	Medical Microbiology	1108
+346	pub.1135378390	Medical and Health Sciences	11	Clinical Sciences	1103
+347	pub.1135406918	Medical and Health Sciences	11	Clinical Sciences	1103
+348	pub.1135406918	Medical and Health Sciences	11	Public Health and Health Services	1117
+349	pub.1135432930	Medical and Health Sciences	11	Clinical Sciences	1103
+350	pub.1135432930	Medical and Health Sciences	11	Human Movement and Sports Science	1106
+351	pub.1135432930	Medical and Health Sciences	11	Neurosciences	1109
+352	pub.1135433039	Medical and Health Sciences	11	Public Health and Health Services	1117
+353	pub.1135437733	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+354	pub.1135468620	Mathematical Sciences	01	Applied Mathematics	0102
+355	pub.1135473918	Biological Sciences	06	Biochemistry and Cell Biology	0601
+356	pub.1135535167	Biological Sciences	06	Biochemistry and Cell Biology	0601
+357	pub.1135555952	Chemical Sciences	03	Macromolecular and Materials Chemistry	0303
+358	pub.1135568552	Medical and Health Sciences	11	Public Health and Health Services	1117
+359	pub.1135580850	Information and Computing Sciences	08	Information Systems	0806
+360	pub.1135580850	Information and Computing Sciences	08	Other Information and Computing Sciences	0899
+361	pub.1135580850	Commerce, Management, Tourism and Services	15	Marketing	1505
+362	pub.1135588381	Medical and Health Sciences	11	Medical Microbiology	1108
+363	pub.1135588428	Medical and Health Sciences	11	Medical Microbiology	1108
+364	pub.1135705494	Medical and Health Sciences	11	Immunology	1107
+365	pub.1135705504	Medical and Health Sciences	11	Clinical Sciences	1103
+366	pub.1135723446	Biological Sciences	06	Genetics	0604
+367	pub.1135827683	Medical and Health Sciences	11	Clinical Sciences	1103
+368	pub.1135827712	Medical and Health Sciences	11	Neurosciences	1109
+369	pub.1135837222	Education	13	Curriculum and Pedagogy	1302
+370	pub.1135837222	Education	13	Specialist Studies In Education	1303
+371	pub.1135841136	Medical and Health Sciences	11	Public Health and Health Services	1117
+372	pub.1135871907	Medical and Health Sciences	11	Clinical Sciences	1103
+373	pub.1135880058	Studies in Human Society	16	Human Geography	1604
+374	pub.1135880058	Studies in Human Society	16	Policy and Administration	1605
+375	pub.1135880058	Studies in Human Society	16	Political Science	1606
+376	pub.1135881976	Medical and Health Sciences	11	Public Health and Health Services	1117
+377	pub.1135906033	Psychology and Cognitive Sciences	17	Psychology	1701
+378	pub.1135906109	Medical and Health Sciences	11	Medical Microbiology	1108
+379	pub.1135906826	Biological Sciences	06	Biochemistry and Cell Biology	0601
+380	pub.1135914737	Medical and Health Sciences	11		None
+381	pub.1135914737	Psychology and Cognitive Sciences	17		None
+382	pub.1135930738	Medical and Health Sciences	11	Medical Microbiology	1108
+383	pub.1135934008	Medical and Health Sciences	11	Immunology	1107
+384	pub.1136045993	Medical and Health Sciences	11	Clinical Sciences	1103
+385	pub.1136046523	Medical and Health Sciences	11	Clinical Sciences	1103
+386	pub.1136050416	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+387	pub.1136223629	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+388	pub.1136306214	Medical and Health Sciences	11	Clinical Sciences	1103
+389	pub.1136325238	Medical and Health Sciences	11	Pharmacology and Pharmaceutical Sciences	1115
+390	pub.1136334210	Commerce, Management, Tourism and Services	15	Commercial Services	1504
+391	pub.1136334210	Commerce, Management, Tourism and Services	15	Marketing	1505
+392	pub.1136334210	Commerce, Management, Tourism and Services	15	Tourism	1506
+393	pub.1136334239	Education	13	Specialist Studies In Education	1303
+394	pub.1136401994	Agricultural and Veterinary Sciences	07	Forestry Sciences	0705
+395	pub.1136401994	Economics	14	Applied Economics	1402
+396	pub.1136401994	Studies in Human Society	16	Policy and Administration	1605
+397	pub.1136436630	Medical and Health Sciences	11	Clinical Sciences	1103
+398	pub.1136437147	Built Environment and Design	12		None
+399	pub.1136441164	Economics	14	Applied Economics	1402
+400	pub.1136441164	Studies in Human Society	16	Policy and Administration	1605
+401	pub.1136476074	Medical and Health Sciences	11	Pharmacology and Pharmaceutical Sciences	1115
+402	pub.1136478799	Earth Sciences	04	Geology	0403
+403	pub.1136478799	Environmental Sciences	05	Environmental Science and Management	0502
+404	pub.1136478799	Studies in Human Society	16	Human Geography	1604
+405	pub.1136498479	Medical and Health Sciences	11	Clinical Sciences	1103
+406	pub.1136498479	Medical and Health Sciences	11	Medical Microbiology	1108
+407	pub.1136498479	Medical and Health Sciences	11	Public Health and Health Services	1117
+408	pub.1136505816	Medical and Health Sciences	11	Immunology	1107
+409	pub.1136508450	Biological Sciences	06	Biochemistry and Cell Biology	0601
+410	pub.1136526569	Medical and Health Sciences	11	Medical Microbiology	1108
+411	pub.1136526908	Psychology and Cognitive Sciences	17	Psychology	1701
+412	pub.1136529050	Medical and Health Sciences	11	Nursing	1110
+413	pub.1136537040	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+414	pub.1136558966	Medical and Health Sciences	11	Public Health and Health Services	1117
+415	pub.1136581980	Environmental Sciences	05	Environmental Science and Management	0502
+416	pub.1136581980	Biological Sciences	06	Ecology	0602
+417	pub.1136617859	Economics	14	Applied Economics	1402
+418	pub.1136618433	Biological Sciences	06	Biochemistry and Cell Biology	0601
+419	pub.1136641442	Biological Sciences	06	Biochemistry and Cell Biology	0601
+420	pub.1136641442	Biological Sciences	06	Genetics	0604
+421	pub.1136656027	Medical and Health Sciences	11	Immunology	1107
+422	pub.1136661172	Medical and Health Sciences	11	Immunology	1107
+423	pub.1136701257	Medical and Health Sciences	11	Clinical Sciences	1103
+424	pub.1136730955	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+425	pub.1136738702	Medical and Health Sciences	11	Public Health and Health Services	1117
+426	pub.1136748837	Information and Computing Sciences	08	Artificial Intelligence and Image Processing	0801
+427	pub.1136751381	Education	13	Specialist Studies In Education	1303
+428	pub.1136784533	Medical and Health Sciences	11	Immunology	1107
+429	pub.1136790224	Medical and Health Sciences	11	Neurosciences	1109
+430	pub.1136841018	Economics	14	Applied Economics	1402
+431	pub.1136851721	Biological Sciences	06	Zoology	0608
+432	pub.1136851721	Studies in Human Society	16	Anthropology	1601
+433	pub.1136861767	Medical and Health Sciences	11	Clinical Sciences	1103
+434	pub.1136866727	Medical and Health Sciences	11	Immunology	1107
+435	pub.1136888783	Medical and Health Sciences	11	Medical Microbiology	1108
+436	pub.1136891936	Biological Sciences	06	Biochemistry and Cell Biology	0601
+437	pub.1136891936	Medical and Health Sciences	11	Pharmacology and Pharmaceutical Sciences	1115
+438	pub.1136950071	Biological Sciences	06	Biochemistry and Cell Biology	0601
+439	pub.1136950071	Medical and Health Sciences	11	Medical Microbiology	1108
+440	pub.1136951474	Economics	14		None
+441	pub.1136951474	Studies in Human Society	16		None
+442	pub.1136959204	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+443	pub.1136979230	Medical and Health Sciences	11	Immunology	1107
+444	pub.1136989857	Environmental Sciences	05	Environmental Science and Management	0502
+445	pub.1136989857	Biological Sciences	06	Ecology	0602
+446	pub.1136989857	Law and Legal Studies	18	Law	1801
+447	pub.1137013869	Medical and Health Sciences	11	Public Health and Health Services	1117
+448	pub.1137032166	Information and Computing Sciences	08	Data Format	0804
+449	pub.1137032166	Information and Computing Sciences	08	Information Systems	0806
+450	pub.1137038942	Earth Sciences	04	Geology	0403
+451	pub.1137110044	Education	13	Curriculum and Pedagogy	1302
+452	pub.1137110044	Studies in Creative Arts and Writing	19	Journalism and Professional Writing	1903
+453	pub.1137110044	Philosophy and Religious Studies	22	History and Philosophy of Specific Fields	2202
+454	pub.1137137562	Medical and Health Sciences	11	Clinical Sciences	1103
+455	pub.1137138582	Medical and Health Sciences	11	Public Health and Health Services	1117
+456	pub.1137139847	Physical Sciences	02		None
+457	pub.1137139847	Chemical Sciences	03		None
+458	pub.1137139847	Engineering	09		None
+459	pub.1137141470	Medical and Health Sciences	11		None
+460	pub.1137184285	Medical and Health Sciences	11	Clinical Sciences	1103
+461	pub.1137196694	Medical and Health Sciences	11	Public Health and Health Services	1117
+462	pub.1137257993	Physical Sciences	02	Astronomical and Space Sciences	0201
+463	pub.1137261840	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+464	pub.1137262430	Medical and Health Sciences	11	Immunology	1107
+465	pub.1137262438	Medical and Health Sciences	11	Immunology	1107
+466	pub.1137342596	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+467	pub.1137376134	Biological Sciences	06	Genetics	0604
+468	pub.1137386977	Biological Sciences	06	Genetics	0604
+469	pub.1137386977	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+470	pub.1137395524	Medical and Health Sciences	11	Clinical Sciences	1103
+471	pub.1137403043	Medical and Health Sciences	11	Medical Microbiology	1108
+472	pub.1137407494	Medical and Health Sciences	11		None
+473	pub.1137412678	Education	13	Specialist Studies In Education	1303
+474	pub.1137412748	Law and Legal Studies	18	Law	1801
+475	pub.1137449854	Economics	14	Applied Economics	1402
+476	pub.1137460892	Biological Sciences	06	Biochemistry and Cell Biology	0601
+477	pub.1137475309	Biological Sciences	06	Biochemistry and Cell Biology	0601
+478	pub.1137544713	Biological Sciences	06	Biochemistry and Cell Biology	0601
+479	pub.1137566649	Philosophy and Religious Studies	22	Philosophy	2203
+480	pub.1137610288	Medical and Health Sciences	11	Clinical Sciences	1103
+481	pub.1137610288	Medical and Health Sciences	11	Immunology	1107
+482	pub.1137658038	Biological Sciences	06	Biochemistry and Cell Biology	0601
+483	pub.1137658038	Biological Sciences	06	Genetics	0604
+484	pub.1137682113	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+485	pub.1137685786	Mathematical Sciences	01	Applied Mathematics	0102
+486	pub.1137710027	Medical and Health Sciences	11	Clinical Sciences	1103
+487	pub.1137710027	Medical and Health Sciences	11	Public Health and Health Services	1117
+488	pub.1137734005	Medical and Health Sciences	11		None
+489	pub.1137750244	Education	13	Curriculum and Pedagogy	1302
+490	pub.1137750244	Education	13	Specialist Studies In Education	1303
+491	pub.1137773317	Medical and Health Sciences	11	Immunology	1107
+492	pub.1137799816	Medical and Health Sciences	11	Clinical Sciences	1103
+493	pub.1137807644	Medical and Health Sciences	11	Public Health and Health Services	1117
+494	pub.1137808411	Medical and Health Sciences	11	Clinical Sciences	1103
+495	pub.1137808411	Medical and Health Sciences	11	Public Health and Health Services	1117
+496	pub.1137818272	Medical and Health Sciences	11	Medical Microbiology	1108
+497	pub.1137820700	Biological Sciences	06	Biochemistry and Cell Biology	0601
+498	pub.1137840479	Medical and Health Sciences	11		None
+499	pub.1137862454	Medical and Health Sciences	11	Immunology	1107
+500	pub.1137879065	Medical and Health Sciences	11	Medical Microbiology	1108
+501	pub.1137890676	Biological Sciences	06	Genetics	0604
+502	pub.1137903631	Chemical Sciences	03	Analytical Chemistry	0301
+503	pub.1137903631	Information and Computing Sciences	08	Distributed Computing	0805
+504	pub.1137903631	Engineering	09	Electrical and Electronic Engineering	0906
+505	pub.1137907340	Economics	14	Applied Economics	1402
+506	pub.1137907340	Studies in Human Society	16	Demography	1603
+507	pub.1137942097	Medical and Health Sciences	11	Medical Microbiology	1108
+508	pub.1137959368	Medical and Health Sciences	11	Neurosciences	1109
+509	pub.1137974868	Medical and Health Sciences	11	Clinical Sciences	1103
+510	pub.1137974868	Medical and Health Sciences	11	Immunology	1107
+511	pub.1137974868	Medical and Health Sciences	11	Public Health and Health Services	1117
+512	pub.1138129011	Biological Sciences	06	Biochemistry and Cell Biology	0601
+513	pub.1138145394	Information and Computing Sciences	08	Artificial Intelligence and Image Processing	0801
+514	pub.1138165160	Chemical Sciences	03	Medicinal and Biomolecular Chemistry	0304
+515	pub.1138165160	Chemical Sciences	03	Organic Chemistry	0305
+516	pub.1138165160	Chemical Sciences	03	Theoretical and Computational Chemistry	0307
+517	pub.1138165392	Built Environment and Design	12		None
+518	pub.1138182150	Medical and Health Sciences	11	Public Health and Health Services	1117
+519	pub.1138211450	Agricultural and Veterinary Sciences	07	Forestry Sciences	0705
+520	pub.1138214444	Economics	14	Applied Economics	1402
+521	pub.1138215135	Medical and Health Sciences	11	Clinical Sciences	1103
+522	pub.1138246422	Medical and Health Sciences	11	Cardiorespiratory Medicine and Haematology	1102
+523	pub.1138294730	Medical and Health Sciences	11	Clinical Sciences	1103
+524	pub.1138301879	Medical and Health Sciences	11	Public Health and Health Services	1117
+525	pub.1138306010	Medical and Health Sciences	11	Public Health and Health Services	1117
+526	pub.1138312427	Economics	14	Applied Economics	1402
+527	pub.1138312427	Economics	14	Econometrics	1403
+528	pub.1138327362	Medical and Health Sciences	11	Clinical Sciences	1103
+529	pub.1138368978	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+530	pub.1138370374	Language, Communication and Culture	20	Linguistics	2004
+531	pub.1138397961	Information and Computing Sciences	08	Information Systems	0806
+532	pub.1138398108	Medical and Health Sciences	11	Public Health and Health Services	1117
+533	pub.1138407537	Studies in Human Society	16	Sociology	1608
+534	pub.1138462607	Medical and Health Sciences	11	Public Health and Health Services	1117
+535	pub.1138469707	Medical and Health Sciences	11	Clinical Sciences	1103
+536	pub.1138470274	Medical and Health Sciences	11	Clinical Sciences	1103
+537	pub.1138475368	Medical and Health Sciences	11	Immunology	1107
+538	pub.1138475368	Medical and Health Sciences	11	Medical Microbiology	1108
+539	pub.1138494792	Medical and Health Sciences	11	Clinical Sciences	1103
+540	pub.1138527246	Medical and Health Sciences	11	Immunology	1107
+541	pub.1138562306	Built Environment and Design	12		None
+542	pub.1138562326	Built Environment and Design	12		None
+543	pub.1138562353	Medical and Health Sciences	11	Medical Microbiology	1108
+544	pub.1138581624	Medical and Health Sciences	11	Immunology	1107
+545	pub.1138608208	Medical and Health Sciences	11	Clinical Sciences	1103
+546	pub.1138619061	Medical and Health Sciences	11	Neurosciences	1109
+547	pub.1138646562	Medical and Health Sciences	11	Medical Microbiology	1108
+548	pub.1138655074	Commerce, Management, Tourism and Services	15	Banking, Finance and Investment	1502
+549	pub.1138721043	Medical and Health Sciences	11	Immunology	1107
+550	pub.1138721043	Medical and Health Sciences	11	Neurosciences	1109
+551	pub.1138721064	Earth Sciences	04	Physical Geography and Environmental Geoscience	0406
+552	pub.1138721064	Environmental Sciences	05	Environmental Science and Management	0502
+553	pub.1138770529	Philosophy and Religious Studies	22	Religion and Religious Studies	2204
+554	pub.1138828349	Medical and Health Sciences	11	Oncology and Carcinogenesis	1112
+555	pub.1138870053	Medical and Health Sciences	11	Immunology	1107
+556	pub.1138984850	Medical and Health Sciences	11	Immunology	1107
+557	pub.1139030810	Medical and Health Sciences	11	Neurosciences	1109
+558	pub.1139030810	Psychology and Cognitive Sciences	17	Psychology	1701
+559	pub.1139098537	Medical and Health Sciences	11	Immunology	1107
+560	pub.1139114552	Medical and Health Sciences	11	Public Health and Health Services	1117
+561	pub.1139207057	Biological Sciences	06	Genetics	0604
+562	pub.1139214874	Medical and Health Sciences	11	Immunology	1107
+563	pub.1139249926	Biological Sciences	06	Microbiology	0605
+564	pub.1139249926	Medical and Health Sciences	11	Medical Microbiology	1108
+565	pub.1139255456	Medical and Health Sciences	11	Medical Microbiology	1108
