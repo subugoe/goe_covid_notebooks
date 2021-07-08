@@ -1,0 +1,2984 @@
+	main_affiliation	category	category_count
+0	grid.6363.0	Medical and Health Sciences	30
+1	grid.10423.34	Medical and Health Sciences	24
+2	grid.5330.5	Medical and Health Sciences	18
+3	grid.4708.b	Medical and Health Sciences	14
+4	grid.17635.36	Medical and Health Sciences	14
+5	grid.13648.38	Medical and Health Sciences	14
+6	grid.275559.9	Medical and Health Sciences	13
+7	grid.411760.5	Medical and Health Sciences	13
+8	grid.5252.0	Medical and Health Sciences	12
+9	grid.13097.3c	Medical and Health Sciences	12
+10	grid.16149.3b	Medical and Health Sciences	12
+11	grid.4991.5	Medical and Health Sciences	11
+12	grid.4562.5	Medical and Health Sciences	11
+13	grid.10423.34	Immunology	11
+14	grid.452463.2	Medical and Health Sciences	10
+15	grid.5253.1	Medical and Health Sciences	10
+16	grid.34477.33	Medical and Health Sciences	10
+17	grid.22937.3d	Medical and Health Sciences	10
+18	grid.6363.0	Immunology	10
+19	grid.4488.0	Medical and Health Sciences	9
+20	grid.17635.36	Public Health and Health Services	9
+21	grid.11749.3a	Medical and Health Sciences	9
+22	grid.4708.b	Clinical Sciences	9
+23	grid.5330.5	Immunology	9
+24	grid.10423.34	Good Health and Well Being	9
+25	grid.412282.f	Medical and Health Sciences	8
+26	grid.239395.7	Medical and Health Sciences	8
+27	grid.5718.b	Medical and Health Sciences	8
+28	grid.38142.3c	Medical and Health Sciences	8
+29	grid.8991.9	Medical and Health Sciences	8
+30	grid.484013.a	Medical and Health Sciences	8
+31	grid.6936.a	Medical and Health Sciences	8
+32	grid.144767.7	Medical and Health Sciences	8
+33	grid.10423.34	Clinical Sciences	8
+34	grid.8379.5	Medical and Health Sciences	8
+35	grid.410712.1	Medical and Health Sciences	8
+36	grid.14778.3d	Medical and Health Sciences	8
+37	grid.410718.b	Medical and Health Sciences	8
+38	grid.7468.d	Medical and Health Sciences	7
+39	grid.5570.7	Medical and Health Sciences	7
+40	grid.461820.9	Medical and Health Sciences	7
+41	grid.415093.a	Medical and Health Sciences	7
+42	grid.4367.6	Medical and Health Sciences	7
+43	grid.7400.3	Medical and Health Sciences	7
+44	grid.489540.4	Medical and Health Sciences	7
+45	grid.5216.0	Medical and Health Sciences	7
+46	grid.17635.36	Clinical Sciences	7
+47	grid.275559.9	Clinical Sciences	7
+48	grid.13097.3c	Clinical Sciences	7
+49	grid.13097.3c	Public Health and Health Services	7
+50	grid.411097.a	Medical and Health Sciences	7
+51	grid.412004.3	Medical and Health Sciences	7
+52	grid.6363.0	Clinical Sciences	7
+53	grid.10253.35	Medical and Health Sciences	7
+54	grid.4562.5	Immunology	7
+55	grid.410607.4	Medical and Health Sciences	7
+56	grid.10493.3f	Medical and Health Sciences	7
+57	grid.418010.c	Medical and Health Sciences	7
+58	grid.452463.2	Medical Microbiology	6
+59	grid.5734.5	Medical and Health Sciences	6
+60	grid.411339.d	Medical and Health Sciences	6
+61	grid.412301.5	Medical and Health Sciences	6
+62	grid.62560.37	Medical and Health Sciences	6
+63	grid.462844.8	Medical and Health Sciences	6
+64	grid.34477.33	Immunology	6
+65	grid.21107.35	Medical and Health Sciences	6
+66	grid.508487.6	Medical and Health Sciences	6
+67	grid.475435.4	Medical and Health Sciences	6
+68	grid.83440.3b	Medical and Health Sciences	6
+69	grid.6363.0	Cardiorespiratory Medicine and Haematology	6
+70	grid.7637.5	Medical and Health Sciences	6
+71	grid.1957.a	Medical and Health Sciences	6
+72	grid.8664.c	Medical and Health Sciences	6
+73	grid.412581.b	Medical and Health Sciences	6
+74	grid.5253.1	Clinical Sciences	5
+75	grid.461820.9	Clinical Sciences	5
+76	grid.412468.d	Medical and Health Sciences	5
+77	grid.5603.0	Medical and Health Sciences	5
+78	grid.4367.6	Clinical Sciences	5
+79	grid.462844.8	Clinical Sciences	5
+80	grid.66875.3a	Medical and Health Sciences	5
+81	grid.239395.7	Clinical Sciences	5
+82	grid.11899.38	Medical and Health Sciences	5
+83	grid.410721.1	Medical and Health Sciences	5
+84	grid.4494.d	Medical and Health Sciences	5
+85	grid.452396.f	Medical and Health Sciences	5
+86	grid.18887.3e	Medical and Health Sciences	5
+87	grid.7048.b	Medical Microbiology	5
+88	grid.7048.b	Medical and Health Sciences	5
+89	grid.469999.2	Medical and Health Sciences	5
+90	grid.6190.e	Medical and Health Sciences	5
+91	grid.7708.8	Medical and Health Sciences	5
+92	grid.411327.2	Medical and Health Sciences	5
+93	grid.4708.b	Public Health and Health Services	5
+94	grid.12155.32	Medical and Health Sciences	5
+95	grid.5596.f	Medical and Health Sciences	5
+96	grid.4714.6	Medical and Health Sciences	5
+97	grid.4868.2	Medical and Health Sciences	5
+98	grid.7445.2	Medical and Health Sciences	5
+99	grid.459927.4	Medical and Health Sciences	5
+100	grid.10388.32	Medical and Health Sciences	5
+101	grid.6936.a	Immunology	5
+102	grid.4567.0	Immunology	5
+103	grid.4567.0	Medical and Health Sciences	5
+104	grid.150338.c	Medical and Health Sciences	5
+105	grid.22937.3d	Immunology	5
+106	grid.5949.1	Medical and Health Sciences	5
+107	grid.5963.9	Medical and Health Sciences	5
+108	grid.412966.e	Medical and Health Sciences	5
+109	grid.411760.5	Clinical Sciences	5
+110	grid.13648.38	Clinical Sciences	5
+111	grid.24827.3b	Medical and Health Sciences	5
+112	grid.411937.9	Medical and Health Sciences	5
+113	grid.452235.7	Medical and Health Sciences	5
+114	grid.411095.8	Medical and Health Sciences	5
+115	grid.32224.35	Medical and Health Sciences	5
+116	grid.5330.5	Medical Microbiology	5
+117	grid.9647.c	Medical and Health Sciences	5
+118	grid.7468.d	Biological Sciences	4
+119	grid.452463.2	Biological Sciences	4
+120	grid.7468.d	Medical Microbiology	4
+121	grid.35403.31	Medical and Health Sciences	4
+122	grid.13652.33	Medical and Health Sciences	4
+123	grid.5570.7	Medical Microbiology	4
+124	grid.267313.2	Medical and Health Sciences	4
+125	grid.5734.5	Medical Microbiology	4
+126	grid.5802.f	Medical and Health Sciences	4
+127	grid.412282.f	Clinical Sciences	4
+128	grid.411339.d	Clinical Sciences	4
+129	grid.62560.37	Clinical Sciences	4
+130	grid.16753.36	Medical and Health Sciences	4
+131	grid.239915.5	Medical and Health Sciences	4
+132	grid.430666.1	Clinical Sciences	4
+133	grid.430666.1	Medical and Health Sciences	4
+134	grid.1003.2	Medical and Health Sciences	4
+135	grid.4367.6	Public Health and Health Services	4
+136	grid.239578.2	Medical and Health Sciences	4
+137	grid.152326.1	Medical and Health Sciences	4
+138	grid.10392.39	Medical and Health Sciences	4
+139	grid.241167.7	Public Health and Health Services	4
+140	grid.241167.7	Medical and Health Sciences	4
+141	grid.38142.3c	Public Health and Health Services	4
+142	grid.275559.9	Public Health and Health Services	4
+143	grid.410721.1	Cardiorespiratory Medicine and Haematology	4
+144	grid.8756.c	Cardiorespiratory Medicine and Haematology	4
+145	grid.8756.c	Medical and Health Sciences	4
+146	grid.5216.0	Cardiorespiratory Medicine and Haematology	4
+147	grid.4494.d	Cardiorespiratory Medicine and Haematology	4
+148	grid.7637.5	Cardiorespiratory Medicine and Haematology	4
+149	grid.4495.c	Medical and Health Sciences	4
+150	grid.17063.33	Medical and Health Sciences	4
+151	grid.154185.c	Medical and Health Sciences	4
+152	grid.424247.3	Medical and Health Sciences	4
+153	grid.411097.a	Clinical Sciences	4
+154	grid.6582.9	Medical and Health Sciences	4
+155	grid.413225.3	Medical and Health Sciences	4
+156	grid.34477.33	Good Health and Well Being	4
+157	grid.144767.7	Clinical Sciences	4
+158	grid.6530.0	Medical and Health Sciences	4
+159	grid.4827.9	Medical and Health Sciences	4
+160	grid.419801.5	Medical and Health Sciences	4
+161	grid.440220.0	Medical and Health Sciences	4
+162	grid.411760.5	Immunology	4
+163	grid.10253.35	Immunology	4
+164	grid.411097.a	Immunology	4
+165	grid.411668.c	Biological Sciences	4
+166	grid.10493.3f	Biological Sciences	4
+167	grid.5330.5	Clinical Sciences	4
+168	grid.259828.c	Medical and Health Sciences	4
+169	grid.410567.1	Medical and Health Sciences	4
+170	grid.16149.3b	Clinical Sciences	4
+171	grid.11598.34	Medical and Health Sciences	4
+172	grid.144767.7	Cardiorespiratory Medicine and Haematology	4
+173	grid.411668.c	Medical and Health Sciences	4
+174	grid.412581.b	Clinical Sciences	4
+175	grid.11696.39	Medical and Health Sciences	4
+176	grid.411088.4	Medical and Health Sciences	4
+177	grid.8379.5	Medical Microbiology	4
+178	grid.8404.8	Medical and Health Sciences	4
+179	grid.4691.a	Medical and Health Sciences	4
+180	grid.13063.37	Medical and Health Sciences	4
+181	grid.10493.3f	Medical Microbiology	4
+182	grid.14778.3d	Clinical Sciences	4
+183	grid.413448.e	Medical and Health Sciences	4
+184	grid.10417.33	Medical and Health Sciences	4
+185	grid.5330.5	Good Health and Well Being	4
+186	grid.5252.0	Medical Microbiology	3
+187	grid.412970.9	Medical and Health Sciences	3
+188	grid.267313.2	Immunology	3
+189	grid.438536.f	Medical Microbiology	3
+190	grid.438536.f	Medical and Health Sciences	3
+191	grid.189504.1	Medical and Health Sciences	3
+192	grid.411482.a	Medical and Health Sciences	3
+193	grid.5603.0	Clinical Sciences	3
+194	grid.5603.0	Public Health and Health Services	3
+195	grid.34477.33	Clinical Sciences	3
+196	grid.16753.36	Clinical Sciences	3
+197	grid.66875.3a	Clinical Sciences	3
+198	grid.239915.5	Clinical Sciences	3
+199	grid.25073.33	Clinical Sciences	3
+200	grid.25073.33	Medical and Health Sciences	3
+201	grid.7836.a	Medical and Health Sciences	3
+202	grid.29980.3a	Medical and Health Sciences	3
+203	grid.239395.7	Public Health and Health Services	3
+204	grid.34477.33	Public Health and Health Services	3
+205	grid.168010.e	Medical and Health Sciences	3
+206	grid.462844.8	Public Health and Health Services	3
+207	grid.21107.35	Clinical Sciences	3
+208	grid.62560.37	Public Health and Health Services	3
+209	grid.239578.2	Clinical Sciences	3
+210	grid.4488.0	Public Health and Health Services	3
+211	grid.4989.c	Medical and Health Sciences	3
+212	grid.1002.3	Medical and Health Sciences	3
+213	grid.411702.1	Medical and Health Sciences	3
+214	grid.4991.5	Public Health and Health Services	3
+215	grid.489540.4	Public Health and Health Services	3
+216	grid.38142.3c	Clinical Sciences	3
+217	grid.9613.d	Medical and Health Sciences	3
+218	grid.11899.38	Cardiorespiratory Medicine and Haematology	3
+219	grid.452396.f	Cardiorespiratory Medicine and Haematology	3
+220	grid.8991.9	Cardiorespiratory Medicine and Haematology	3
+221	grid.4495.c	Cardiorespiratory Medicine and Haematology	3
+222	grid.154185.c	Medical Microbiology	3
+223	grid.465524.4	Medical Microbiology	3
+224	grid.465524.4	Medical and Health Sciences	3
+225	grid.4991.5	Medical Microbiology	3
+226	grid.414148.c	Medical Microbiology	3
+227	grid.414148.c	Medical and Health Sciences	3
+228	grid.28046.38	Medical Microbiology	3
+229	grid.28046.38	Medical and Health Sciences	3
+230	grid.5254.6	Medical Microbiology	3
+231	grid.5254.6	Medical and Health Sciences	3
+232	grid.21155.32	Medical Microbiology	3
+233	grid.21155.32	Medical and Health Sciences	3
+234	grid.452606.3	Medical Microbiology	3
+235	grid.452606.3	Medical and Health Sciences	3
+236	grid.6363.0	Neurosciences	3
+237	grid.484013.a	Neurosciences	3
+238	grid.11749.3a	Neurosciences	3
+239	grid.18887.3e	Public Health and Health Services	3
+240	grid.4488.0	Clinical Sciences	3
+241	grid.15485.3d	Medical and Health Sciences	3
+242	grid.10423.34	Biochemistry and Cell Biology	3
+243	grid.10423.34	Biological Sciences	3
+244	grid.10423.34	Artificial Intelligence and Image Processing	3
+245	grid.10423.34	Information and Computing Sciences	3
+246	grid.7177.6	Medical and Health Sciences	3
+247	grid.6292.f	Medical and Health Sciences	3
+248	grid.412004.3	Clinical Sciences	3
+249	grid.418230.c	Medical and Health Sciences	3
+250	grid.411544.1	Medical and Health Sciences	3
+251	grid.478712.f	Medical and Health Sciences	3
+252	grid.488779.d	Medical and Health Sciences	3
+253	grid.482283.7	Good Health and Well Being	3
+254	grid.482283.7	Immunology	3
+255	grid.482283.7	Medical and Health Sciences	3
+256	grid.415229.9	Good Health and Well Being	3
+257	grid.415229.9	Immunology	3
+258	grid.415229.9	Medical and Health Sciences	3
+259	grid.214007.0	Good Health and Well Being	3
+260	grid.214007.0	Immunology	3
+261	grid.214007.0	Medical and Health Sciences	3
+262	grid.194645.b	Good Health and Well Being	3
+263	grid.194645.b	Immunology	3
+264	grid.194645.b	Medical and Health Sciences	3
+265	grid.35403.31	Good Health and Well Being	3
+266	grid.35403.31	Immunology	3
+267	grid.419801.5	Clinical Sciences	3
+268	grid.459927.4	Clinical Sciences	3
+269	grid.433867.d	Medical and Health Sciences	3
+270	grid.411559.d	Medical and Health Sciences	3
+271	grid.13648.38	Immunology	3
+272	grid.10388.32	Immunology	3
+273	grid.411668.c	Biochemistry and Cell Biology	3
+274	grid.10493.3f	Biochemistry and Cell Biology	3
+275	grid.47100.32	Medical and Health Sciences	3
+276	grid.42327.30	Medical and Health Sciences	3
+277	grid.420451.6	Medical and Health Sciences	3
+278	grid.14095.39	Medical and Health Sciences	3
+279	grid.415093.a	Clinical Sciences	3
+280	grid.5155.4	Medical and Health Sciences	3
+281	grid.6936.a	Biological Sciences	3
+282	grid.8379.5	Biochemistry and Cell Biology	3
+283	grid.8379.5	Biological Sciences	3
+284	grid.4562.5	Biological Sciences	3
+285	grid.189967.8	Medical and Health Sciences	3
+286	grid.413225.3	Clinical Sciences	3
+287	grid.7839.5	Clinical Sciences	3
+288	grid.7839.5	Medical and Health Sciences	3
+289	grid.7708.8	Clinical Sciences	3
+290	grid.5335.0	Medical and Health Sciences	3
+291	grid.7841.a	Medical and Health Sciences	3
+292	grid.500035.3	Immunology	3
+293	grid.500035.3	Medical and Health Sciences	3
+294	grid.412282.f	Immunology	3
+295	grid.1957.a	Immunology	3
+296	grid.15474.33	Medical and Health Sciences	3
+297	grid.10392.39	Immunology	3
+298	grid.469999.2	Immunology	3
+299	grid.16149.3b	Immunology	3
+300	grid.8664.c	Immunology	3
+301	grid.410718.b	Immunology	3
+302	grid.7692.a	Medical and Health Sciences	3
+303	grid.410712.1	Immunology	3
+304	grid.419835.2	Medical and Health Sciences	3
+305	grid.411760.5	Public Health and Health Services	3
+306	grid.31501.36	Biological Sciences	3
+307	grid.4305.2	Medical and Health Sciences	3
+308	grid.26009.3d	Medical and Health Sciences	3
+309	grid.415093.a	Cardiorespiratory Medicine and Haematology	3
+310	grid.4708.b	Cardiorespiratory Medicine and Haematology	3
+311	grid.5330.5	Biological Sciences	3
+312	grid.411095.8	Clinical Sciences	3
+313	grid.6363.0	Good Health and Well Being	3
+314	grid.410718.b	Clinical Sciences	3
+315	grid.46699.34	Medical and Health Sciences	3
+316	grid.8267.b	Medical and Health Sciences	3
+317	grid.12136.37	Medical and Health Sciences	3
+318	grid.9026.d	Medical and Health Sciences	3
+319	grid.475756.2	Medical and Health Sciences	3
+320	grid.7700.0	Medical and Health Sciences	3
+321	grid.6363.0	Public Health and Health Services	3
+322	grid.410607.4	Public Health and Health Services	3
+323	grid.10493.3f	Good Health and Well Being	3
+324	grid.484678.1	Medical and Health Sciences	3
+325	grid.8647.d	Medical and Health Sciences	3
+326	grid.12847.38	Medical and Health Sciences	3
+327	grid.411778.c	Medical and Health Sciences	3
+328	grid.15090.3d	Medical and Health Sciences	3
+329	grid.13648.38	Public Health and Health Services	3
+330	grid.5718.b	Biochemistry and Cell Biology	3
+331	grid.5718.b	Biological Sciences	3
+332	grid.24827.3b	Biochemistry and Cell Biology	3
+333	grid.24827.3b	Biological Sciences	3
+334	grid.24381.3c	Medical and Health Sciences	3
+335	grid.410712.1	Good Health and Well Being	3
+336	grid.38142.3c	Biological Sciences	3
+337	grid.7776.1	Chemical Sciences	2
+338	grid.7468.d	Microbiology	2
+339	grid.412970.9	Biological Sciences	2
+340	grid.452463.2	Microbiology	2
+341	grid.452463.2	Biochemistry and Cell Biology	2
+342	grid.7468.d	Biochemistry and Cell Biology	2
+343	grid.469896.c	Medical and Health Sciences	2
+344	grid.412970.9	Medical Microbiology	2
+345	grid.13652.33	Medical Microbiology	2
+346	grid.13652.33	Biological Sciences	2
+347	grid.5570.7	Immunology	2
+348	grid.267313.2	Medical Microbiology	2
+349	grid.134907.8	Immunology	2
+350	grid.134907.8	Medical Microbiology	2
+351	grid.134907.8	Medical and Health Sciences	2
+352	grid.5734.5	Immunology	2
+353	grid.438536.f	Immunology	2
+354	grid.189504.1	Immunology	2
+355	grid.189504.1	Medical Microbiology	2
+356	grid.164971.c	Immunology	2
+357	grid.164971.c	Medical Microbiology	2
+358	grid.164971.c	Medical and Health Sciences	2
+359	grid.5802.f	Good Health and Well Being	2
+360	grid.5253.1	Good Health and Well Being	2
+361	grid.5253.1	Cardiorespiratory Medicine and Haematology	2
+362	grid.412301.5	Clinical Sciences	2
+363	grid.419802.6	Medical and Health Sciences	2
+364	grid.412468.d	Clinical Sciences	2
+365	grid.89336.37	Biochemistry and Cell Biology	2
+366	grid.89336.37	Biological Sciences	2
+367	grid.5342.0	Biochemistry and Cell Biology	2
+368	grid.5342.0	Biological Sciences	2
+369	grid.419681.3	Biochemistry and Cell Biology	2
+370	grid.419681.3	Biological Sciences	2
+371	grid.254880.3	Biochemistry and Cell Biology	2
+372	grid.254880.3	Biological Sciences	2
+373	grid.11486.3a	Biochemistry and Cell Biology	2
+374	grid.11486.3a	Biological Sciences	2
+375	grid.7563.7	Medical and Health Sciences	2
+376	grid.7836.a	Clinical Sciences	2
+377	grid.29980.3a	Clinical Sciences	2
+378	grid.38603.3e	Medical and Health Sciences	2
+379	grid.239395.7	Immunology	2
+380	grid.16753.36	Public Health and Health Services	2
+381	grid.462844.8	Immunology	2
+382	grid.66875.3a	Public Health and Health Services	2
+383	grid.29980.3a	Public Health and Health Services	2
+384	grid.21107.35	Immunology	2
+385	grid.21107.35	Public Health and Health Services	2
+386	grid.1003.2	Clinical Sciences	2
+387	grid.239915.5	Public Health and Health Services	2
+388	grid.430666.1	Immunology	2
+389	grid.430666.1	Public Health and Health Services	2
+390	grid.267313.2	Clinical Sciences	2
+391	grid.4367.6	Immunology	2
+392	grid.62560.37	Immunology	2
+393	grid.185648.6	Clinical Sciences	2
+394	grid.185648.6	Medical and Health Sciences	2
+395	grid.413561.4	Clinical Sciences	2
+396	grid.413561.4	Medical and Health Sciences	2
+397	grid.5386.8	Clinical Sciences	2
+398	grid.5386.8	Medical and Health Sciences	2
+399	grid.5718.b	Clinical Sciences	2
+400	grid.152326.1	Clinical Sciences	2
+401	grid.508487.6	Clinical Sciences	2
+402	grid.9024.f	Medical and Health Sciences	2
+403	grid.5608.b	Clinical Sciences	2
+404	grid.5608.b	Medical and Health Sciences	2
+405	grid.413558.e	Clinical Sciences	2
+406	grid.413558.e	Medical and Health Sciences	2
+407	grid.5603.0	Good Health and Well Being	2
+408	grid.412301.5	Good Health and Well Being	2
+409	grid.412301.5	Public Health and Health Services	2
+410	grid.22937.3d	Good Health and Well Being	2
+411	grid.440386.d	Medical and Health Sciences	2
+412	grid.414796.9	Medical and Health Sciences	2
+413	grid.254250.4	Medical and Health Sciences	2
+414	grid.10420.37	Medical and Health Sciences	2
+415	grid.8051.c	Public Health and Health Services	2
+416	grid.8051.c	Medical and Health Sciences	2
+417	grid.155956.b	Medical and Health Sciences	2
+418	grid.1005.4	Good Health and Well Being	2
+419	grid.1005.4	Medical and Health Sciences	2
+420	grid.1002.3	Public Health and Health Services	2
+421	grid.11899.38	Public Health and Health Services	2
+422	grid.419524.f	Medical and Health Sciences	2
+423	grid.22072.35	Public Health and Health Services	2
+424	grid.22072.35	Medical and Health Sciences	2
+425	grid.417778.a	Medical and Health Sciences	2
+426	grid.7400.3	Good Health and Well Being	2
+427	grid.239395.7	Good Health and Well Being	2
+428	grid.411702.1	Public Health and Health Services	2
+429	grid.4991.5	Good Health and Well Being	2
+430	grid.489540.4	Oncology and Carcinogenesis	2
+431	grid.9613.d	Clinical Sciences	2
+432	grid.261331.4	Cardiorespiratory Medicine and Haematology	2
+433	grid.261331.4	Medical and Health Sciences	2
+434	grid.39382.33	Medical and Health Sciences	2
+435	grid.189509.c	Cardiorespiratory Medicine and Haematology	2
+436	grid.189509.c	Medical and Health Sciences	2
+437	grid.266102.1	Medical and Health Sciences	2
+438	grid.17063.33	Cardiorespiratory Medicine and Haematology	2
+439	grid.7372.1	Medical and Health Sciences	2
+440	grid.168010.e	Genetics	2
+441	grid.168010.e	Biological Sciences	2
+442	grid.266102.1	Biological Sciences	2
+443	grid.17091.3e	Biochemistry and Cell Biology	2
+444	grid.17091.3e	Biological Sciences	2
+445	grid.13652.33	Neurosciences	2
+446	grid.7468.d	Neurosciences	2
+447	grid.452463.2	Neurosciences	2
+448	grid.18887.3e	Clinical Sciences	2
+449	grid.469999.2	Clinical Sciences	2
+450	grid.6936.a	Medical Microbiology	2
+451	grid.7737.4	Medical Microbiology	2
+452	grid.7737.4	Medical and Health Sciences	2
+453	grid.10939.32	Medical Microbiology	2
+454	grid.10939.32	Medical and Health Sciences	2
+455	grid.15485.3d	Medical Microbiology	2
+456	grid.14758.3f	Medical Microbiology	2
+457	grid.14758.3f	Medical and Health Sciences	2
+458	grid.1003.2	Medical Microbiology	2
+459	grid.7400.3	Medical Microbiology	2
+460	grid.424247.3	Medical Microbiology	2
+461	grid.424247.3	Biochemistry and Cell Biology	2
+462	grid.424247.3	Biological Sciences	2
+463	grid.13097.3c	Other Medical and Health Sciences	2
+464	grid.6190.e	Clinical Sciences	2
+465	grid.452286.f	Clinical Sciences	2
+466	grid.452286.f	Medical and Health Sciences	2
+467	grid.11749.3a	Clinical Sciences	2
+468	grid.475435.4	Clinical Sciences	2
+469	grid.7177.6	Clinical Sciences	2
+470	grid.7372.1	Statistics	2
+471	grid.7372.1	Mathematical Sciences	2
+472	grid.22937.3d	Statistics	2
+473	grid.22937.3d	Mathematical Sciences	2
+474	grid.417925.c	Statistics	2
+475	grid.417925.c	Mathematical Sciences	2
+476	grid.411327.2	Clinical Sciences	2
+477	grid.418230.c	Clinical Sciences	2
+478	grid.411544.1	Clinical Sciences	2
+479	grid.1008.9	Medical and Health Sciences	2
+480	grid.414271.5	Medical and Health Sciences	2
+481	grid.418248.3	Medical and Health Sciences	2
+482	grid.1009.8	Medical and Health Sciences	2
+483	grid.410543.7	Medical and Health Sciences	2
+484	grid.413262.0	Medical and Health Sciences	2
+485	grid.488779.d	Clinical Sciences	2
+486	grid.414382.8	Medical and Health Sciences	2
+487	grid.6363.0	Medical Microbiology	2
+488	grid.1957.a	Clinical Sciences	2
+489	grid.500048.9	Clinical Sciences	2
+490	grid.500048.9	Medical and Health Sciences	2
+491	grid.492033.f	Medical and Health Sciences	2
+492	grid.249335.a	Medical Microbiology	2
+493	grid.249335.a	Medical and Health Sciences	2
+494	grid.483420.9	Medical and Health Sciences	2
+495	grid.2515.3	Medical and Health Sciences	2
+496	grid.490185.1	Clinical Sciences	2
+497	grid.490185.1	Immunology	2
+498	grid.490185.1	Medical and Health Sciences	2
+499	grid.440220.0	Clinical Sciences	2
+500	grid.440220.0	Immunology	2
+501	grid.433867.d	Clinical Sciences	2
+502	grid.433867.d	Immunology	2
+503	grid.4488.0	Immunology	2
+504	grid.411559.d	Immunology	2
+505	grid.461820.9	Immunology	2
+506	grid.419801.5	Immunology	2
+507	grid.47100.32	Public Health and Health Services	2
+508	grid.265892.2	Medical and Health Sciences	2
+509	grid.4818.5	Zero Hunger	2
+510	grid.5253.1	Immunology	2
+511	grid.150338.c	Immunology	2
+512	grid.5949.1	Immunology	2
+513	grid.420451.6	Medical Microbiology	2
+514	grid.14095.39	Medical Microbiology	2
+515	grid.459873.4	Medical Microbiology	2
+516	grid.459873.4	Medical and Health Sciences	2
+517	grid.5949.1	Medical Microbiology	2
+518	grid.225279.9	Medical Microbiology	2
+519	grid.225279.9	Medical and Health Sciences	2
+520	grid.5949.1	Biological Sciences	2
+521	grid.470122.2	Medical and Health Sciences	2
+522	grid.411798.2	Medical and Health Sciences	2
+523	grid.491928.f	Medical and Health Sciences	2
+524	grid.7683.a	Biochemistry and Cell Biology	2
+525	grid.7683.a	Biological Sciences	2
+526	grid.6363.0	Biological Sciences	2
+527	grid.6190.e	Biological Sciences	2
+528	grid.4562.5	Biochemistry and Cell Biology	2
+529	grid.22937.3d	Biological Sciences	2
+530	grid.8664.c	Biochemistry and Cell Biology	2
+531	grid.8664.c	Biological Sciences	2
+532	grid.4562.5	Clinical Sciences	2
+533	grid.5949.1	Clinical Sciences	2
+534	grid.411559.d	Clinical Sciences	2
+535	grid.10253.35	Clinical Sciences	2
+536	grid.259828.c	Public Health and Health Services	2
+537	grid.189967.8	Public Health and Health Services	2
+538	grid.412726.4	Public Health and Health Services	2
+539	grid.412726.4	Medical and Health Sciences	2
+540	grid.26790.3a	Public Health and Health Services	2
+541	grid.26790.3a	Medical and Health Sciences	2
+542	grid.267301.1	Public Health and Health Services	2
+543	grid.267301.1	Medical and Health Sciences	2
+544	grid.268154.c	Public Health and Health Services	2
+545	grid.268154.c	Medical and Health Sciences	2
+546	grid.27755.32	Public Health and Health Services	2
+547	grid.27755.32	Medical and Health Sciences	2
+548	grid.267309.9	Public Health and Health Services	2
+549	grid.267309.9	Medical and Health Sciences	2
+550	grid.410567.1	Public Health and Health Services	2
+551	grid.24827.3b	Public Health and Health Services	2
+552	grid.5252.0	Clinical Sciences	2
+553	grid.241103.5	Medical and Health Sciences	2
+554	grid.7497.d	Medical and Health Sciences	2
+555	grid.7841.a	Clinical Sciences	2
+556	grid.7637.5	Clinical Sciences	2
+557	grid.477189.4	Medical and Health Sciences	2
+558	grid.42327.30	Immunology	2
+559	grid.410607.4	Immunology	2
+560	grid.7256.6	Medical and Health Sciences	2
+561	grid.420545.2	Medical and Health Sciences	2
+562	grid.473675.4	Immunology	2
+563	grid.473675.4	Medical and Health Sciences	2
+564	grid.11598.34	Immunology	2
+565	grid.6190.e	Immunology	2
+566	grid.15474.33	Immunology	2
+567	grid.14778.3d	Immunology	2
+568	grid.477805.9	Immunology	2
+569	grid.477805.9	Medical and Health Sciences	2
+570	grid.508487.6	Immunology	2
+571	grid.24827.3b	Medical Microbiology	2
+572	grid.5718.b	Medical Microbiology	2
+573	grid.489540.4	Medical Microbiology	2
+574	grid.411937.9	Medical Microbiology	2
+575	grid.5718.b	Pharmacology and Pharmaceutical Sciences	2
+576	grid.9122.8	Economics	2
+577	grid.10423.34	Public Health and Health Services	2
+578	grid.10493.3f	Immunology	2
+579	grid.452235.7	Immunology	2
+580	grid.51462.34	Biochemistry and Cell Biology	2
+581	grid.51462.34	Biological Sciences	2
+582	grid.419837.0	Medical and Health Sciences	2
+583	grid.440250.7	Medical and Health Sciences	2
+584	grid.411095.8	Cardiorespiratory Medicine and Haematology	2
+585	grid.6612.3	Medical and Health Sciences	2
+586	grid.1012.2	Medical and Health Sciences	2
+587	grid.15781.3a	Medical and Health Sciences	2
+588	grid.59734.3c	Medical and Health Sciences	2
+589	grid.433854.d	Medical and Health Sciences	2
+590	grid.7340.0	Medical and Health Sciences	2
+591	grid.144767.7	Good Health and Well Being	2
+592	grid.415093.a	Good Health and Well Being	2
+593	grid.412004.3	Cardiorespiratory Medicine and Haematology	2
+594	grid.4708.b	Good Health and Well Being	2
+595	grid.1957.a	Good Health and Well Being	2
+596	grid.13648.38	Good Health and Well Being	2
+597	grid.412581.b	Good Health and Well Being	2
+598	grid.411088.4	Immunology	2
+599	grid.418010.c	Immunology	2
+600	grid.448878.f	Medical and Health Sciences	2
+601	grid.469999.2	Good Health and Well Being	2
+602	grid.4488.0	Good Health and Well Being	2
+603	grid.410718.b	Medical Microbiology	2
+604	grid.8404.8	Clinical Sciences	2
+605	grid.4691.a	Clinical Sciences	2
+606	grid.21729.3f	Medical and Health Sciences	2
+607	grid.414818.0	Medical and Health Sciences	2
+608	grid.413396.a	Medical and Health Sciences	2
+609	grid.415751.3	Medical Microbiology	2
+610	grid.415751.3	Medical and Health Sciences	2
+611	grid.5596.f	Medical Microbiology	2
+612	grid.83440.3b	Cardiorespiratory Medicine and Haematology	2
+613	grid.46699.34	Cardiorespiratory Medicine and Haematology	2
+614	grid.8267.b	Cardiorespiratory Medicine and Haematology	2
+615	grid.467607.4	Cardiorespiratory Medicine and Haematology	2
+616	grid.467607.4	Medical and Health Sciences	2
+617	grid.17788.31	Cardiorespiratory Medicine and Haematology	2
+618	grid.17788.31	Medical and Health Sciences	2
+619	grid.412966.e	Cardiorespiratory Medicine and Haematology	2
+620	grid.10692.3c	Cardiorespiratory Medicine and Haematology	2
+621	grid.10692.3c	Medical and Health Sciences	2
+622	grid.412688.1	Cardiorespiratory Medicine and Haematology	2
+623	grid.412688.1	Medical and Health Sciences	2
+624	grid.411843.b	Cardiorespiratory Medicine and Haematology	2
+625	grid.411843.b	Medical and Health Sciences	2
+626	grid.489094.8	Cardiorespiratory Medicine and Haematology	2
+627	grid.489094.8	Medical and Health Sciences	2
+628	grid.411372.2	Cardiorespiratory Medicine and Haematology	2
+629	grid.411372.2	Medical and Health Sciences	2
+630	grid.7400.3	Cardiorespiratory Medicine and Haematology	2
+631	grid.419385.2	Cardiorespiratory Medicine and Haematology	2
+632	grid.419385.2	Medical and Health Sciences	2
+633	grid.22903.3a	Cardiorespiratory Medicine and Haematology	2
+634	grid.22903.3a	Medical and Health Sciences	2
+635	grid.413469.d	Cardiorespiratory Medicine and Haematology	2
+636	grid.413469.d	Medical and Health Sciences	2
+637	grid.411129.e	Cardiorespiratory Medicine and Haematology	2
+638	grid.411129.e	Medical and Health Sciences	2
+639	grid.414093.b	Cardiorespiratory Medicine and Haematology	2
+640	grid.414093.b	Medical and Health Sciences	2
+641	grid.12136.37	Cardiorespiratory Medicine and Haematology	2
+642	grid.424065.1	Pharmacology and Pharmaceutical Sciences	2
+643	grid.424065.1	Medical and Health Sciences	2
+644	grid.466493.a	Pharmacology and Pharmaceutical Sciences	2
+645	grid.466493.a	Medical and Health Sciences	2
+646	grid.18785.33	Pharmacology and Pharmaceutical Sciences	2
+647	grid.18785.33	Medical and Health Sciences	2
+648	grid.9026.d	Pharmacology and Pharmaceutical Sciences	2
+649	grid.434729.f	Pharmacology and Pharmaceutical Sciences	2
+650	grid.434729.f	Medical and Health Sciences	2
+651	grid.418481.0	Pharmacology and Pharmaceutical Sciences	2
+652	grid.418481.0	Medical and Health Sciences	2
+653	grid.419538.2	Pharmacology and Pharmaceutical Sciences	2
+654	grid.419538.2	Medical and Health Sciences	2
+655	grid.469852.4	Pharmacology and Pharmaceutical Sciences	2
+656	grid.469852.4	Medical and Health Sciences	2
+657	grid.7683.a	Pharmacology and Pharmaceutical Sciences	2
+658	grid.7683.a	Medical and Health Sciences	2
+659	grid.20861.3d	Pharmacology and Pharmaceutical Sciences	2
+660	grid.20861.3d	Medical and Health Sciences	2
+661	grid.418010.c	Pharmacology and Pharmaceutical Sciences	2
+662	grid.433620.0	Pharmacology and Pharmaceutical Sciences	2
+663	grid.433620.0	Medical and Health Sciences	2
+664	grid.475756.2	Pharmacology and Pharmaceutical Sciences	2
+665	grid.4562.5	Pharmacology and Pharmaceutical Sciences	2
+666	grid.457168.9	Pharmacology and Pharmaceutical Sciences	2
+667	grid.457168.9	Medical and Health Sciences	2
+668	grid.11375.31	Pharmacology and Pharmaceutical Sciences	2
+669	grid.11375.31	Medical and Health Sciences	2
+670	grid.9122.8	Pharmacology and Pharmaceutical Sciences	2
+671	grid.9122.8	Medical and Health Sciences	2
+672	grid.12155.32	Public Health and Health Services	2
+673	grid.5596.f	Public Health and Health Services	2
+674	grid.4827.9	Public Health and Health Services	2
+675	grid.478712.f	Public Health and Health Services	2
+676	grid.16149.3b	Neurosciences	2
+677	grid.7700.0	Neurosciences	2
+678	grid.412468.d	Immunology	2
+679	grid.9764.c	Medical and Health Sciences	2
+680	grid.5841.8	Public Health and Health Services	2
+681	grid.5841.8	Medical and Health Sciences	2
+682	grid.411339.d	Public Health and Health Services	2
+683	grid.4714.6	Genetics	2
+684	grid.4714.6	Biological Sciences	2
+685	grid.4488.0	Genetics	2
+686	grid.4488.0	Biological Sciences	2
+687	grid.419518.0	Genetics	2
+688	grid.419518.0	Biological Sciences	2
+689	grid.5216.0	Genetics	2
+690	grid.5216.0	Biological Sciences	2
+691	grid.424699.4	Information and Computing Sciences	2
+692	grid.412581.b	Public Health and Health Services	2
+693	grid.34477.33	Biological Sciences	2
+694	grid.4462.4	Medical and Health Sciences	2
+695	grid.15596.3e	Medical and Health Sciences	2
+696	grid.452396.f	Clinical Sciences	2
+697	grid.415033.0	Medical and Health Sciences	2
+698	grid.452235.7	Medical Microbiology	2
+699	grid.9647.c	Clinical Sciences	2
+700	grid.411778.c	Clinical Sciences	2
+701	grid.411067.5	Clinical Sciences	2
+702	grid.411067.5	Medical and Health Sciences	2
+703	grid.5963.9	Clinical Sciences	2
+704	grid.411088.4	Clinical Sciences	2
+705	grid.5155.4	Clinical Sciences	2
+706	grid.491861.3	Clinical Sciences	2
+707	grid.491861.3	Medical and Health Sciences	2
+708	grid.7605.4	Clinical Sciences	2
+709	grid.7605.4	Medical and Health Sciences	2
+710	grid.411941.8	Medical and Health Sciences	2
+711	grid.410607.4	Clinical Sciences	2
+712	grid.410712.1	Clinical Sciences	2
+713	grid.5330.5	Biochemistry and Cell Biology	2
+714	grid.21155.32	Environmental Science and Management	2
+715	grid.21155.32	Environmental Sciences	2
+716	grid.4488.0	Neurosciences	2
+717	grid.440220.0	Neurosciences	2
+718	grid.51462.34	Medical and Health Sciences	2
+719	grid.258799.8	Medical and Health Sciences	2
+720	grid.8982.b	Medical and Health Sciences	2
+721	grid.443984.6	Medical and Health Sciences	2
+722	grid.16872.3a	Medical and Health Sciences	2
+723	grid.8395.7	Medical and Health Sciences	2
+724	grid.12284.3d	Medical and Health Sciences	2
+725	grid.413562.7	Medical and Health Sciences	2
+726	grid.415535.3	Medical and Health Sciences	2
+727	grid.410843.a	Medical and Health Sciences	2
+728	grid.256342.4	Medical and Health Sciences	2
+729	grid.411628.8	Medical and Health Sciences	2
+730	grid.412750.5	Medical and Health Sciences	2
+731	grid.419035.a	Medical and Health Sciences	2
+732	grid.452490.e	Medical and Health Sciences	2
+733	grid.5685.e	Medical and Health Sciences	2
+734	grid.65499.37	Medical and Health Sciences	2
+735	grid.20515.33	Medical and Health Sciences	2
+736	grid.174567.6	Medical and Health Sciences	2
+737	grid.412311.4	Medical and Health Sciences	2
+738	grid.84393.35	Medical and Health Sciences	2
+739	grid.413575.1	Medical and Health Sciences	2
+740	grid.266100.3	Medical and Health Sciences	2
+741	grid.488779.d	Public Health and Health Services	2
+742	grid.459927.4	Good Health and Well Being	2
+743	grid.459927.4	Public Health and Health Services	2
+744	grid.11749.3a	Cardiorespiratory Medicine and Haematology	2
+745	grid.410712.1	Medical Microbiology	2
+746	grid.6582.9	Good Health and Well Being	2
+747	grid.6582.9	Medical Microbiology	2
+748	grid.4562.5	Medical Microbiology	2
+749	grid.15090.3d	Immunology	2
+750	grid.14778.3d	Good Health and Well Being	2
+751	grid.16149.3b	Good Health and Well Being	2
+752	grid.8664.c	Good Health and Well Being	2
+753	grid.470779.a	Medical and Health Sciences	2
+754	grid.416438.c	Medical and Health Sciences	2
+755	grid.6936.a	Genetics	2
+756	grid.16008.3f	Genetics	2
+757	grid.16008.3f	Biological Sciences	2
+758	grid.419495.4	Genetics	2
+759	grid.419495.4	Biological Sciences	2
+760	grid.12136.37	Genetics	2
+761	grid.12136.37	Biological Sciences	2
+762	grid.430387.b	Genetics	2
+763	grid.430387.b	Biological Sciences	2
+764	grid.415306.5	Genetics	2
+765	grid.415306.5	Biological Sciences	2
+766	grid.38142.3c	Genetics	2
+767	grid.4819.4	Genetics	2
+768	grid.4819.4	Biological Sciences	2
+769	grid.59734.3c	Genetics	2
+770	grid.59734.3c	Biological Sciences	2
+771	grid.31501.36	Genetics	2
+772	grid.11749.3a	Good Health and Well Being	2
+773	grid.13648.38	Neurosciences	2
+774	grid.9026.d	Biochemistry and Cell Biology	2
+775	grid.9026.d	Biological Sciences	2
+776	grid.21155.32	Biological Sciences	2
+777	grid.414852.e	Medical and Health Sciences	2
+778	grid.15895.30	Medical and Health Sciences	2
+779	grid.22058.3d	Medical and Health Sciences	2
+780	grid.411107.2	Medical and Health Sciences	2
+781	grid.413363.0	Medical and Health Sciences	2
+782	grid.416409.e	Medical and Health Sciences	2
+783	grid.425902.8	Medical and Health Sciences	2
+784	grid.412180.e	Medical and Health Sciences	2
+785	grid.454388.6	Medical and Health Sciences	2
+786	grid.24516.34	Medical and Health Sciences	2
+787	grid.415250.7	Medical and Health Sciences	2
+788	grid.476416.6	Medical and Health Sciences	2
+789	grid.452624.3	Good Health and Well Being	2
+790	grid.452624.3	Immunology	2
+791	grid.452624.3	Medical and Health Sciences	2
+792	grid.5252.0	Peace, Justice and Strong Institutions	2
+793	grid.469827.6	Built Environment and Design	2
+794	grid.5252.0	Public Health and Health Services	2
+795	grid.7776.1	Medicinal and Biomolecular Chemistry	1
+796	grid.7776.1	Biochemistry and Cell Biology	1
+797	grid.7776.1	Biological Sciences	1
+798	grid.418376.f	Medicinal and Biomolecular Chemistry	1
+799	grid.418376.f	Biochemistry and Cell Biology	1
+800	grid.418376.f	Chemical Sciences	1
+801	grid.418376.f	Biological Sciences	1
+802	grid.412970.9	Microbiology	1
+803	grid.469896.c	Biochemistry and Cell Biology	1
+804	grid.469896.c	Medical Microbiology	1
+805	grid.469896.c	Biological Sciences	1
+806	grid.5252.0	Biochemistry and Cell Biology	1
+807	grid.5252.0	Biological Sciences	1
+808	grid.412970.9	Biochemistry and Cell Biology	1
+809	grid.35403.31	Biochemistry and Cell Biology	1
+810	grid.35403.31	Medical Microbiology	1
+811	grid.35403.31	Biological Sciences	1
+812	grid.13652.33	Biochemistry and Cell Biology	1
+813	grid.5802.f	Cardiorespiratory Medicine and Haematology	1
+814	grid.5802.f	Clinical Sciences	1
+815	grid.488381.e	Good Health and Well Being	1
+816	grid.488381.e	Cardiorespiratory Medicine and Haematology	1
+817	grid.488381.e	Clinical Sciences	1
+818	grid.488381.e	Medical and Health Sciences	1
+819	grid.469896.c	Clinical Sciences	1
+820	grid.418303.d	Clinical Sciences	1
+821	grid.418303.d	Medical and Health Sciences	1
+822	grid.490718.3	Clinical Sciences	1
+823	grid.490718.3	Medical and Health Sciences	1
+824	grid.482867.7	Clinical Sciences	1
+825	grid.482867.7	Medical and Health Sciences	1
+826	grid.419842.2	Clinical Sciences	1
+827	grid.419842.2	Medical and Health Sciences	1
+828	grid.419802.6	Clinical Sciences	1
+829	grid.413327.0	Clinical Sciences	1
+830	grid.413327.0	Public Health and Health Services	1
+831	grid.413327.0	Medical and Health Sciences	1
+832	grid.38603.3e	Clinical Sciences	1
+833	grid.38603.3e	Human Movement and Sports Science	1
+834	grid.38603.3e	Neurosciences	1
+835	grid.16753.36	Immunology	1
+836	grid.168010.e	Clinical Sciences	1
+837	grid.168010.e	Immunology	1
+838	grid.168010.e	Public Health and Health Services	1
+839	grid.25073.33	Immunology	1
+840	grid.25073.33	Public Health and Health Services	1
+841	grid.66875.3a	Immunology	1
+842	grid.29980.3a	Immunology	1
+843	grid.498672.6	Clinical Sciences	1
+844	grid.498672.6	Immunology	1
+845	grid.498672.6	Public Health and Health Services	1
+846	grid.498672.6	Medical and Health Sciences	1
+847	grid.1003.2	Immunology	1
+848	grid.1003.2	Public Health and Health Services	1
+849	grid.239915.5	Immunology	1
+850	grid.267313.2	Public Health and Health Services	1
+851	grid.7468.d	Pharmacology and Pharmaceutical Sciences	1
+852	grid.452463.2	Pharmacology and Pharmaceutical Sciences	1
+853	grid.7490.a	Medical Microbiology	1
+854	grid.7490.a	Medical and Health Sciences	1
+855	grid.410711.2	Medical Microbiology	1
+856	grid.410711.2	Medical and Health Sciences	1
+857	grid.224260.0	Clinical Sciences	1
+858	grid.224260.0	Medical and Health Sciences	1
+859	grid.410821.e	Clinical Sciences	1
+860	grid.410821.e	Medical and Health Sciences	1
+861	grid.415960.f	Clinical Sciences	1
+862	grid.415960.f	Medical and Health Sciences	1
+863	grid.416905.f	Clinical Sciences	1
+864	grid.416905.f	Medical and Health Sciences	1
+865	grid.413780.9	Clinical Sciences	1
+866	grid.413780.9	Medical and Health Sciences	1
+867	grid.9024.f	Clinical Sciences	1
+868	grid.439338.6	Clinical Sciences	1
+869	grid.439338.6	Medical and Health Sciences	1
+870	grid.410569.f	Clinical Sciences	1
+871	grid.410569.f	Medical and Health Sciences	1
+872	grid.10392.39	Public Health and Health Services	1
+873	grid.470019.b	Public Health and Health Services	1
+874	grid.470019.b	Medical and Health Sciences	1
+875	grid.6289.5	Good Health and Well Being	1
+876	grid.6289.5	Public Health and Health Services	1
+877	grid.6289.5	Medical and Health Sciences	1
+878	grid.22937.3d	Public Health and Health Services	1
+879	grid.424065.1	Organic Chemistry	1
+880	grid.424065.1	Chemical Sciences	1
+881	grid.466493.a	Organic Chemistry	1
+882	grid.466493.a	Chemical Sciences	1
+883	grid.18785.33	Organic Chemistry	1
+884	grid.18785.33	Chemical Sciences	1
+885	grid.9026.d	Organic Chemistry	1
+886	grid.9026.d	Chemical Sciences	1
+887	grid.434729.f	Organic Chemistry	1
+888	grid.434729.f	Chemical Sciences	1
+889	grid.419538.2	Organic Chemistry	1
+890	grid.419538.2	Chemical Sciences	1
+891	grid.7683.a	Organic Chemistry	1
+892	grid.7683.a	Chemical Sciences	1
+893	grid.20861.3d	Organic Chemistry	1
+894	grid.20861.3d	Chemical Sciences	1
+895	grid.469852.4	Organic Chemistry	1
+896	grid.469852.4	Chemical Sciences	1
+897	grid.418010.c	Organic Chemistry	1
+898	grid.418010.c	Chemical Sciences	1
+899	grid.4562.5	Organic Chemistry	1
+900	grid.4562.5	Chemical Sciences	1
+901	grid.418481.0	Organic Chemistry	1
+902	grid.418481.0	Chemical Sciences	1
+903	grid.457168.9	Organic Chemistry	1
+904	grid.457168.9	Chemical Sciences	1
+905	grid.9122.8	Organic Chemistry	1
+906	grid.9122.8	Chemical Sciences	1
+907	grid.414796.9	Medical Microbiology	1
+908	grid.11348.3f	Medical Microbiology	1
+909	grid.11348.3f	Medical and Health Sciences	1
+910	grid.254250.4	Good Health and Well Being	1
+911	grid.254250.4	Public Health and Health Services	1
+912	grid.241167.7	Good Health and Well Being	1
+913	grid.15276.37	Good Health and Well Being	1
+914	grid.15276.37	Public Health and Health Services	1
+915	grid.15276.37	Medical and Health Sciences	1
+916	grid.17635.36	Good Health and Well Being	1
+917	grid.137628.9	Good Health and Well Being	1
+918	grid.137628.9	Public Health and Health Services	1
+919	grid.137628.9	Medical and Health Sciences	1
+920	grid.10420.37	Good Health and Well Being	1
+921	grid.10420.37	Public Health and Health Services	1
+922	grid.9008.1	Good Health and Well Being	1
+923	grid.9008.1	Public Health and Health Services	1
+924	grid.9008.1	Medical and Health Sciences	1
+925	grid.8051.c	Good Health and Well Being	1
+926	grid.411705.6	Good Health and Well Being	1
+927	grid.411705.6	Public Health and Health Services	1
+928	grid.411705.6	Medical and Health Sciences	1
+929	grid.411326.3	Good Health and Well Being	1
+930	grid.411326.3	Public Health and Health Services	1
+931	grid.411326.3	Medical and Health Sciences	1
+932	grid.155956.b	Good Health and Well Being	1
+933	grid.155956.b	Public Health and Health Services	1
+934	grid.4989.c	Good Health and Well Being	1
+935	grid.4989.c	Public Health and Health Services	1
+936	grid.38142.3c	Good Health and Well Being	1
+937	grid.411905.8	Good Health and Well Being	1
+938	grid.411905.8	Public Health and Health Services	1
+939	grid.411905.8	Medical and Health Sciences	1
+940	grid.1005.4	Public Health and Health Services	1
+941	grid.83440.3b	Good Health and Well Being	1
+942	grid.83440.3b	Public Health and Health Services	1
+943	grid.1002.3	Good Health and Well Being	1
+944	grid.412501.3	Good Health and Well Being	1
+945	grid.412501.3	Public Health and Health Services	1
+946	grid.412501.3	Medical and Health Sciences	1
+947	grid.11899.38	Good Health and Well Being	1
+948	grid.5110.5	Good Health and Well Being	1
+949	grid.5110.5	Public Health and Health Services	1
+950	grid.5110.5	Medical and Health Sciences	1
+951	grid.419524.f	Good Health and Well Being	1
+952	grid.419524.f	Public Health and Health Services	1
+953	grid.47716.33	Good Health and Well Being	1
+954	grid.47716.33	Public Health and Health Services	1
+955	grid.47716.33	Medical and Health Sciences	1
+956	grid.22072.35	Good Health and Well Being	1
+957	grid.251993.5	Good Health and Well Being	1
+958	grid.251993.5	Public Health and Health Services	1
+959	grid.251993.5	Medical and Health Sciences	1
+960	grid.412460.5	Good Health and Well Being	1
+961	grid.412460.5	Public Health and Health Services	1
+962	grid.412460.5	Medical and Health Sciences	1
+963	grid.417778.a	Good Health and Well Being	1
+964	grid.417778.a	Public Health and Health Services	1
+965	grid.412371.2	Good Health and Well Being	1
+966	grid.412371.2	Public Health and Health Services	1
+967	grid.412371.2	Medical and Health Sciences	1
+968	grid.5801.c	Good Health and Well Being	1
+969	grid.5801.c	Public Health and Health Services	1
+970	grid.5801.c	Medical and Health Sciences	1
+971	grid.465547.1	Good Health and Well Being	1
+972	grid.465547.1	Public Health and Health Services	1
+973	grid.465547.1	Medical and Health Sciences	1
+974	grid.7400.3	Public Health and Health Services	1
+975	grid.411702.1	Good Health and Well Being	1
+976	grid.16821.3c	Good Health and Well Being	1
+977	grid.16821.3c	Public Health and Health Services	1
+978	grid.16821.3c	Medical and Health Sciences	1
+979	grid.59053.3a	Good Health and Well Being	1
+980	grid.59053.3a	Public Health and Health Services	1
+981	grid.59053.3a	Medical and Health Sciences	1
+982	grid.417423.7	Good Health and Well Being	1
+983	grid.417423.7	Public Health and Health Services	1
+984	grid.417423.7	Medical and Health Sciences	1
+985	grid.5330.5	Medical Biotechnology	1
+986	grid.5330.5	Technology	1
+987	grid.411668.c	Medical Biotechnology	1
+988	grid.411668.c	Technology	1
+989	grid.489540.4	Medical Biotechnology	1
+990	grid.489540.4	Technology	1
+991	grid.458458.0	Medical Microbiology	1
+992	grid.458458.0	Medical and Health Sciences	1
+993	grid.275559.9	Oncology and Carcinogenesis	1
+994	grid.410458.c	Clinical Sciences	1
+995	grid.410458.c	Medical and Health Sciences	1
+996	grid.55602.34	Clinical Sciences	1
+997	grid.55602.34	Medical and Health Sciences	1
+998	grid.27530.33	Clinical Sciences	1
+999	grid.27530.33	Medical and Health Sciences	1
+1000	grid.22254.33	Clinical Sciences	1
+1001	grid.22254.33	Medical and Health Sciences	1
+1002	grid.411075.6	Clinical Sciences	1
+1003	grid.411075.6	Medical and Health Sciences	1
+1004	grid.411023.5	Clinical Sciences	1
+1005	grid.411023.5	Medical and Health Sciences	1
+1006	grid.413120.5	Cardiorespiratory Medicine and Haematology	1
+1007	grid.413120.5	Medical and Health Sciences	1
+1008	grid.10423.34	Cardiorespiratory Medicine and Haematology	1
+1009	grid.39382.33	Cardiorespiratory Medicine and Haematology	1
+1010	grid.38142.3c	Cardiorespiratory Medicine and Haematology	1
+1011	grid.459746.d	Cardiorespiratory Medicine and Haematology	1
+1012	grid.459746.d	Medical and Health Sciences	1
+1013	grid.17089.37	Cardiorespiratory Medicine and Haematology	1
+1014	grid.17089.37	Medical and Health Sciences	1
+1015	grid.412807.8	Cardiorespiratory Medicine and Haematology	1
+1016	grid.412807.8	Medical and Health Sciences	1
+1017	grid.62560.37	Cardiorespiratory Medicine and Haematology	1
+1018	grid.411588.1	Cardiorespiratory Medicine and Haematology	1
+1019	grid.411588.1	Medical and Health Sciences	1
+1020	grid.18887.3e	Cardiorespiratory Medicine and Haematology	1
+1021	grid.266102.1	Cardiorespiratory Medicine and Haematology	1
+1022	grid.177174.3	Cardiorespiratory Medicine and Haematology	1
+1023	grid.177174.3	Medical and Health Sciences	1
+1024	grid.437929.2	Cardiorespiratory Medicine and Haematology	1
+1025	grid.437929.2	Medical and Health Sciences	1
+1026	grid.29172.3f	Cardiorespiratory Medicine and Haematology	1
+1027	grid.29172.3f	Medical and Health Sciences	1
+1028	grid.415105.4	Cardiorespiratory Medicine and Haematology	1
+1029	grid.415105.4	Medical and Health Sciences	1
+1030	grid.419269.1	Cardiorespiratory Medicine and Haematology	1
+1031	grid.419269.1	Medical and Health Sciences	1
+1032	grid.7372.1	Cardiorespiratory Medicine and Haematology	1
+1033	grid.7872.a	Genetics	1
+1034	grid.7872.a	Biological Sciences	1
+1035	grid.223827.e	Genetics	1
+1036	grid.223827.e	Biological Sciences	1
+1037	grid.266102.1	Genetics	1
+1038	grid.418853.3	Genetics	1
+1039	grid.418853.3	Biological Sciences	1
+1040	grid.17091.3e	Microbiology	1
+1041	grid.17091.3e	Plant Biology	1
+1042	grid.9435.b	Biochemistry and Cell Biology	1
+1043	grid.9435.b	Microbiology	1
+1044	grid.9435.b	Plant Biology	1
+1045	grid.9435.b	Biological Sciences	1
+1046	grid.9435.b	Business and Management	1
+1047	grid.9435.b	Commerce, Management, Tourism and Services	1
+1048	grid.5330.5	Chemical Sciences	1
+1049	grid.418892.e	Chemical Sciences	1
+1050	grid.452396.f	Chemical Sciences	1
+1051	grid.10423.34	Medicinal and Biomolecular Chemistry	1
+1052	grid.10423.34	Chemical Sciences	1
+1053	grid.475435.4	Medicinal and Biomolecular Chemistry	1
+1054	grid.475435.4	Biochemistry and Cell Biology	1
+1055	grid.475435.4	Chemical Sciences	1
+1056	grid.475435.4	Biological Sciences	1
+1057	grid.5802.f	Public Health and Health Services	1
+1058	grid.13402.34	Human Geography	1
+1059	grid.13402.34	Studies in Human Society	1
+1060	grid.5252.0	Human Geography	1
+1061	grid.5252.0	Studies in Human Society	1
+1062	grid.7445.2	Human Geography	1
+1063	grid.7445.2	Studies in Human Society	1
+1064	grid.8756.c	Human Geography	1
+1065	grid.8756.c	Studies in Human Society	1
+1066	grid.411604.6	Human Geography	1
+1067	grid.411604.6	Studies in Human Society	1
+1068	grid.4991.5	Human Geography	1
+1069	grid.4991.5	Studies in Human Society	1
+1070	grid.4970.a	Urban and Regional Planning	1
+1071	grid.4970.a	Human Geography	1
+1072	grid.4970.a	Policy and Administration	1
+1073	grid.4970.a	Built Environment and Design	1
+1074	grid.4970.a	Studies in Human Society	1
+1075	grid.11835.3e	Urban and Regional Planning	1
+1076	grid.11835.3e	Human Geography	1
+1077	grid.11835.3e	Policy and Administration	1
+1078	grid.11835.3e	Built Environment and Design	1
+1079	grid.11835.3e	Studies in Human Society	1
+1080	grid.19873.34	Urban and Regional Planning	1
+1081	grid.19873.34	Human Geography	1
+1082	grid.19873.34	Policy and Administration	1
+1083	grid.19873.34	Built Environment and Design	1
+1084	grid.19873.34	Studies in Human Society	1
+1085	grid.7177.6	Urban and Regional Planning	1
+1086	grid.7177.6	Human Geography	1
+1087	grid.7177.6	Policy and Administration	1
+1088	grid.7177.6	Built Environment and Design	1
+1089	grid.7177.6	Studies in Human Society	1
+1090	grid.7836.a	Urban and Regional Planning	1
+1091	grid.7836.a	Human Geography	1
+1092	grid.7836.a	Policy and Administration	1
+1093	grid.7836.a	Built Environment and Design	1
+1094	grid.7836.a	Studies in Human Society	1
+1095	grid.14709.3b	Urban and Regional Planning	1
+1096	grid.14709.3b	Human Geography	1
+1097	grid.14709.3b	Policy and Administration	1
+1098	grid.14709.3b	Built Environment and Design	1
+1099	grid.14709.3b	Studies in Human Society	1
+1100	grid.4280.e	Urban and Regional Planning	1
+1101	grid.4280.e	Human Geography	1
+1102	grid.4280.e	Policy and Administration	1
+1103	grid.4280.e	Built Environment and Design	1
+1104	grid.4280.e	Studies in Human Society	1
+1105	grid.7683.a	Other Physical Sciences	1
+1106	grid.7683.a	Artificial Intelligence and Image Processing	1
+1107	grid.7683.a	Physical Sciences	1
+1108	grid.7683.a	Information and Computing Sciences	1
+1109	grid.410567.1	Other Physical Sciences	1
+1110	grid.410567.1	Artificial Intelligence and Image Processing	1
+1111	grid.410567.1	Physical Sciences	1
+1112	grid.410567.1	Information and Computing Sciences	1
+1113	grid.10423.34	Other Physical Sciences	1
+1114	grid.10423.34	Physical Sciences	1
+1115	grid.464353.3	Applied Economics	1
+1116	grid.464353.3	Economics	1
+1117	grid.411097.a	Oncology and Carcinogenesis	1
+1118	grid.6190.e	Oncology and Carcinogenesis	1
+1119	grid.452286.f	Oncology and Carcinogenesis	1
+1120	grid.416373.4	Clinical Sciences	1
+1121	grid.416373.4	Oncology and Carcinogenesis	1
+1122	grid.416373.4	Medical and Health Sciences	1
+1123	grid.413711.1	Clinical Sciences	1
+1124	grid.413711.1	Oncology and Carcinogenesis	1
+1125	grid.413711.1	Medical and Health Sciences	1
+1126	grid.6582.9	Clinical Sciences	1
+1127	grid.6582.9	Oncology and Carcinogenesis	1
+1128	grid.11749.3a	Oncology and Carcinogenesis	1
+1129	grid.475435.4	Oncology and Carcinogenesis	1
+1130	grid.413354.4	Clinical Sciences	1
+1131	grid.413354.4	Oncology and Carcinogenesis	1
+1132	grid.413354.4	Medical and Health Sciences	1
+1133	grid.7177.6	Oncology and Carcinogenesis	1
+1134	grid.413225.3	Public Health and Health Services	1
+1135	grid.7708.8	Public Health and Health Services	1
+1136	grid.476041.0	Public Health and Health Services	1
+1137	grid.476041.0	Medical and Health Sciences	1
+1138	grid.470768.a	Public Health and Health Services	1
+1139	grid.470768.a	Medical and Health Sciences	1
+1140	grid.16149.3b	Public Health and Health Services	1
+1141	grid.11480.3c	Public Health and Health Services	1
+1142	grid.11480.3c	Medical and Health Sciences	1
+1143	grid.410476.0	Public Health and Health Services	1
+1144	grid.410476.0	Medical and Health Sciences	1
+1145	grid.55325.34	Public Health and Health Services	1
+1146	grid.55325.34	Medical and Health Sciences	1
+1147	grid.5510.1	Public Health and Health Services	1
+1148	grid.5510.1	Medical and Health Sciences	1
+1149	grid.419481.1	Statistics	1
+1150	grid.419481.1	Mathematical Sciences	1
+1151	grid.414802.b	Statistics	1
+1152	grid.414802.b	Mathematical Sciences	1
+1153	grid.7704.4	Statistics	1
+1154	grid.7704.4	Mathematical Sciences	1
+1155	grid.9835.7	Statistics	1
+1156	grid.9835.7	Mathematical Sciences	1
+1157	grid.5253.1	Statistics	1
+1158	grid.5253.1	Mathematical Sciences	1
+1159	grid.1006.7	Statistics	1
+1160	grid.1006.7	Mathematical Sciences	1
+1161	grid.411327.2	Immunology	1
+1162	grid.411327.2	Public Health and Health Services	1
+1163	grid.239915.5	Good Health and Well Being	1
+1164	grid.4367.6	Good Health and Well Being	1
+1165	grid.462844.8	Good Health and Well Being	1
+1166	grid.66875.3a	Good Health and Well Being	1
+1167	grid.21107.35	Good Health and Well Being	1
+1168	grid.16753.36	Good Health and Well Being	1
+1169	grid.1003.2	Good Health and Well Being	1
+1170	grid.25073.33	Good Health and Well Being	1
+1171	grid.430666.1	Good Health and Well Being	1
+1172	grid.7836.a	Good Health and Well Being	1
+1173	grid.267313.2	Good Health and Well Being	1
+1174	grid.62560.37	Good Health and Well Being	1
+1175	grid.419548.5	Clinical Sciences	1
+1176	grid.419548.5	Neurosciences	1
+1177	grid.419548.5	Medical and Health Sciences	1
+1178	grid.6292.f	Clinical Sciences	1
+1179	grid.417007.5	Clinical Sciences	1
+1180	grid.417007.5	Medical and Health Sciences	1
+1181	grid.412725.7	Clinical Sciences	1
+1182	grid.412725.7	Medical and Health Sciences	1
+1183	grid.6530.0	Clinical Sciences	1
+1184	grid.411544.1	Neurosciences	1
+1185	grid.411544.1	Ophthalmology and Optometry	1
+1186	grid.12155.32	Clinical Sciences	1
+1187	grid.12155.32	Neurosciences	1
+1188	grid.5596.f	Clinical Sciences	1
+1189	grid.5596.f	Neurosciences	1
+1190	grid.1008.9	Clinical Sciences	1
+1191	grid.1008.9	Neurosciences	1
+1192	grid.414271.5	Clinical Sciences	1
+1193	grid.414271.5	Neurosciences	1
+1194	grid.4714.6	Clinical Sciences	1
+1195	grid.4714.6	Neurosciences	1
+1196	grid.478712.f	Clinical Sciences	1
+1197	grid.478712.f	Neurosciences	1
+1198	grid.4827.9	Clinical Sciences	1
+1199	grid.4827.9	Neurosciences	1
+1200	grid.4367.6	Neurosciences	1
+1201	grid.418248.3	Clinical Sciences	1
+1202	grid.418248.3	Neurosciences	1
+1203	grid.1002.3	Clinical Sciences	1
+1204	grid.1002.3	Neurosciences	1
+1205	grid.1009.8	Clinical Sciences	1
+1206	grid.1009.8	Neurosciences	1
+1207	grid.491957.7	Clinical Sciences	1
+1208	grid.491957.7	Neurosciences	1
+1209	grid.491957.7	Medical and Health Sciences	1
+1210	grid.239578.2	Neurosciences	1
+1211	grid.4868.2	Clinical Sciences	1
+1212	grid.4868.2	Neurosciences	1
+1213	grid.475435.4	Neurosciences	1
+1214	grid.410543.7	Clinical Sciences	1
+1215	grid.410543.7	Neurosciences	1
+1216	grid.413262.0	Clinical Sciences	1
+1217	grid.413262.0	Neurosciences	1
+1218	grid.7445.2	Clinical Sciences	1
+1219	grid.7445.2	Neurosciences	1
+1220	grid.488779.d	Neurosciences	1
+1221	grid.414382.8	Clinical Sciences	1
+1222	grid.414382.8	Neurosciences	1
+1223	grid.412220.7	Clinical Sciences	1
+1224	grid.412220.7	Neurosciences	1
+1225	grid.412220.7	Medical and Health Sciences	1
+1226	grid.462844.8	Neurosciences	1
+1227	grid.18887.3e	Neurosciences	1
+1228	grid.460019.a	Clinical Sciences	1
+1229	grid.460019.a	Medical and Health Sciences	1
+1230	grid.8379.5	Clinical Sciences	1
+1231	grid.419833.4	Clinical Sciences	1
+1232	grid.419833.4	Medical and Health Sciences	1
+1233	grid.492033.f	Clinical Sciences	1
+1234	grid.7048.b	Good Health and Well Being	1
+1235	grid.154185.c	Good Health and Well Being	1
+1236	grid.465524.4	Good Health and Well Being	1
+1237	grid.414148.c	Good Health and Well Being	1
+1238	grid.28046.38	Good Health and Well Being	1
+1239	grid.249335.a	Good Health and Well Being	1
+1240	grid.5254.6	Good Health and Well Being	1
+1241	grid.21155.32	Good Health and Well Being	1
+1242	grid.452606.3	Good Health and Well Being	1
+1243	grid.10388.32	Medical Microbiology	1
+1244	grid.420061.1	Statistics	1
+1245	grid.420061.1	Mathematical Sciences	1
+1246	grid.497524.9	Statistics	1
+1247	grid.497524.9	Mathematical Sciences	1
+1248	grid.5342.0	Statistics	1
+1249	grid.5342.0	Mathematical Sciences	1
+1250	grid.418424.f	Statistics	1
+1251	grid.418424.f	Mathematical Sciences	1
+1252	grid.420044.6	Statistics	1
+1253	grid.420044.6	Mathematical Sciences	1
+1254	grid.483420.9	Public Health and Health Services	1
+1255	grid.415044.0	Public Health and Health Services	1
+1256	grid.415044.0	Medical and Health Sciences	1
+1257	grid.2515.3	Public Health and Health Services	1
+1258	grid.490185.1	Quality Education	1
+1259	grid.440220.0	Quality Education	1
+1260	grid.433867.d	Quality Education	1
+1261	grid.4991.5	Applied Economics	1
+1262	grid.4991.5	Economics	1
+1263	grid.9835.7	Information Systems	1
+1264	grid.9835.7	Business and Management	1
+1265	grid.9835.7	Information and Computing Sciences	1
+1266	grid.9835.7	Commerce, Management, Tourism and Services	1
+1267	grid.221309.b	Information Systems	1
+1268	grid.221309.b	Business and Management	1
+1269	grid.221309.b	Information and Computing Sciences	1
+1270	grid.221309.b	Commerce, Management, Tourism and Services	1
+1271	grid.42327.30	Public Health and Health Services	1
+1272	grid.265892.2	Public Health and Health Services	1
+1273	grid.264727.2	Public Health and Health Services	1
+1274	grid.264727.2	Medical and Health Sciences	1
+1275	grid.253615.6	Public Health and Health Services	1
+1276	grid.253615.6	Medical and Health Sciences	1
+1277	grid.507621.7	Zero Hunger	1
+1278	grid.507621.7	Crop and Pasture Production	1
+1279	grid.507621.7	Food Sciences	1
+1280	grid.507621.7	Agricultural and Veterinary Sciences	1
+1281	grid.507621.7	Engineering	1
+1282	grid.4280.e	Zero Hunger	1
+1283	grid.4280.e	Crop and Pasture Production	1
+1284	grid.4280.e	Food Sciences	1
+1285	grid.4280.e	Agricultural and Veterinary Sciences	1
+1286	grid.4280.e	Engineering	1
+1287	grid.4818.5	Crop and Pasture Production	1
+1288	grid.4818.5	Food Sciences	1
+1289	grid.4818.5	Agricultural and Veterinary Sciences	1
+1290	grid.4818.5	Engineering	1
+1291	grid.49697.35	Zero Hunger	1
+1292	grid.49697.35	Crop and Pasture Production	1
+1293	grid.49697.35	Food Sciences	1
+1294	grid.49697.35	Agricultural and Veterinary Sciences	1
+1295	grid.49697.35	Engineering	1
+1296	grid.264601.7	Zero Hunger	1
+1297	grid.264601.7	Crop and Pasture Production	1
+1298	grid.264601.7	Food Sciences	1
+1299	grid.264601.7	Agricultural and Veterinary Sciences	1
+1300	grid.264601.7	Engineering	1
+1301	grid.470779.a	Political Science	1
+1302	grid.470779.a	Studies in Human Society	1
+1303	grid.7490.a	Genetics	1
+1304	grid.7490.a	Biological Sciences	1
+1305	grid.5949.1	Genetics	1
+1306	grid.5807.a	Genetics	1
+1307	grid.5807.a	Biological Sciences	1
+1308	grid.1957.a	Neurosciences	1
+1309	grid.410567.1	Biochemistry and Cell Biology	1
+1310	grid.410567.1	Biological Sciences	1
+1311	grid.10253.35	Biochemistry and Cell Biology	1
+1312	grid.10253.35	Biological Sciences	1
+1313	grid.500035.3	Biochemistry and Cell Biology	1
+1314	grid.500035.3	Biological Sciences	1
+1315	grid.6363.0	Biochemistry and Cell Biology	1
+1316	grid.11598.34	Biochemistry and Cell Biology	1
+1317	grid.11598.34	Biological Sciences	1
+1318	grid.10388.32	Biochemistry and Cell Biology	1
+1319	grid.10388.32	Biological Sciences	1
+1320	grid.410607.4	Biochemistry and Cell Biology	1
+1321	grid.410607.4	Biological Sciences	1
+1322	grid.6936.a	Biochemistry and Cell Biology	1
+1323	grid.1957.a	Biochemistry and Cell Biology	1
+1324	grid.1957.a	Biological Sciences	1
+1325	grid.6190.e	Biochemistry and Cell Biology	1
+1326	grid.5802.f	Biochemistry and Cell Biology	1
+1327	grid.5802.f	Biological Sciences	1
+1328	grid.15474.33	Biochemistry and Cell Biology	1
+1329	grid.15474.33	Biological Sciences	1
+1330	grid.4567.0	Biochemistry and Cell Biology	1
+1331	grid.4567.0	Biological Sciences	1
+1332	grid.10392.39	Biochemistry and Cell Biology	1
+1333	grid.10392.39	Biological Sciences	1
+1334	grid.412282.f	Biochemistry and Cell Biology	1
+1335	grid.412282.f	Biological Sciences	1
+1336	grid.469999.2	Biochemistry and Cell Biology	1
+1337	grid.469999.2	Biological Sciences	1
+1338	grid.16149.3b	Biochemistry and Cell Biology	1
+1339	grid.16149.3b	Biological Sciences	1
+1340	grid.476971.a	Biochemistry and Cell Biology	1
+1341	grid.476971.a	Biological Sciences	1
+1342	grid.22937.3d	Biochemistry and Cell Biology	1
+1343	grid.7400.3	Biochemistry and Cell Biology	1
+1344	grid.7400.3	Biological Sciences	1
+1345	grid.4495.c	Biochemistry and Cell Biology	1
+1346	grid.4495.c	Biological Sciences	1
+1347	grid.8515.9	Biochemistry and Cell Biology	1
+1348	grid.8515.9	Biological Sciences	1
+1349	grid.8591.5	Biochemistry and Cell Biology	1
+1350	grid.8591.5	Biological Sciences	1
+1351	grid.412004.3	Biochemistry and Cell Biology	1
+1352	grid.412004.3	Biological Sciences	1
+1353	grid.14778.3d	Biochemistry and Cell Biology	1
+1354	grid.14778.3d	Biological Sciences	1
+1355	grid.477805.9	Biochemistry and Cell Biology	1
+1356	grid.477805.9	Biological Sciences	1
+1357	grid.7307.3	Biochemistry and Cell Biology	1
+1358	grid.7307.3	Biological Sciences	1
+1359	grid.7429.8	Biochemistry and Cell Biology	1
+1360	grid.7429.8	Biological Sciences	1
+1361	grid.6936.a	Clinical Sciences	1
+1362	grid.4567.0	Clinical Sciences	1
+1363	grid.150338.c	Clinical Sciences	1
+1364	grid.22937.3d	Clinical Sciences	1
+1365	grid.10388.32	Clinical Sciences	1
+1366	grid.9763.b	Medical Microbiology	1
+1367	grid.9763.b	Medical and Health Sciences	1
+1368	grid.7269.a	Medical Microbiology	1
+1369	grid.7269.a	Medical and Health Sciences	1
+1370	grid.5155.4	Psychology	1
+1371	grid.5155.4	Psychology and Cognitive Sciences	1
+1372	grid.1374.1	Psychology	1
+1373	grid.1374.1	Psychology and Cognitive Sciences	1
+1374	grid.9464.f	Psychology	1
+1375	grid.9464.f	Psychology and Cognitive Sciences	1
+1376	grid.5253.1	Oncology and Carcinogenesis	1
+1377	grid.488877.c	Oncology and Carcinogenesis	1
+1378	grid.488877.c	Medical and Health Sciences	1
+1379	grid.418334.9	Public Health and Health Services	1
+1380	grid.418334.9	Medical and Health Sciences	1
+1381	grid.39382.33	Public Health and Health Services	1
+1382	grid.280776.c	Public Health and Health Services	1
+1383	grid.280776.c	Medical and Health Sciences	1
+1384	grid.262743.6	Public Health and Health Services	1
+1385	grid.262743.6	Medical and Health Sciences	1
+1386	grid.240684.c	Public Health and Health Services	1
+1387	grid.240684.c	Medical and Health Sciences	1
+1388	grid.240372.0	Public Health and Health Services	1
+1389	grid.240372.0	Medical and Health Sciences	1
+1390	grid.170693.a	Public Health and Health Services	1
+1391	grid.170693.a	Medical and Health Sciences	1
+1392	grid.417046.0	Public Health and Health Services	1
+1393	grid.417046.0	Medical and Health Sciences	1
+1394	grid.416387.f	Public Health and Health Services	1
+1395	grid.416387.f	Medical and Health Sciences	1
+1396	grid.427785.b	Public Health and Health Services	1
+1397	grid.427785.b	Medical and Health Sciences	1
+1398	grid.4563.4	Medical and Health Sciences	1
+1399	grid.4563.4	Psychology and Cognitive Sciences	1
+1400	grid.240404.6	Medical and Health Sciences	1
+1401	grid.240404.6	Psychology and Cognitive Sciences	1
+1402	grid.4827.9	Psychology and Cognitive Sciences	1
+1403	grid.5335.0	Psychology and Cognitive Sciences	1
+1404	grid.4868.2	Psychology and Cognitive Sciences	1
+1405	grid.420004.2	Medical and Health Sciences	1
+1406	grid.420004.2	Psychology and Cognitive Sciences	1
+1407	grid.412915.a	Medical and Health Sciences	1
+1408	grid.412915.a	Psychology and Cognitive Sciences	1
+1409	grid.419728.1	Medical and Health Sciences	1
+1410	grid.419728.1	Psychology and Cognitive Sciences	1
+1411	grid.412346.6	Medical and Health Sciences	1
+1412	grid.412346.6	Psychology and Cognitive Sciences	1
+1413	grid.241103.5	Psychology and Cognitive Sciences	1
+1414	grid.7445.2	Psychology and Cognitive Sciences	1
+1415	grid.7497.d	Cardiorespiratory Medicine and Haematology	1
+1416	grid.424247.3	Clinical Sciences	1
+1417	grid.477189.4	Clinical Sciences	1
+1418	grid.10825.3e	Immunology	1
+1419	grid.10825.3e	Medical and Health Sciences	1
+1420	grid.24704.35	Immunology	1
+1421	grid.24704.35	Medical and Health Sciences	1
+1422	grid.5120.6	Immunology	1
+1423	grid.5120.6	Medical and Health Sciences	1
+1424	grid.7256.6	Immunology	1
+1425	grid.4714.6	Immunology	1
+1426	grid.412004.3	Immunology	1
+1427	grid.420545.2	Immunology	1
+1428	grid.7763.5	Immunology	1
+1429	grid.7763.5	Medical and Health Sciences	1
+1430	grid.15485.3d	Immunology	1
+1431	grid.4795.f	Immunology	1
+1432	grid.4795.f	Medical and Health Sciences	1
+1433	grid.8379.5	Immunology	1
+1434	grid.5802.f	Immunology	1
+1435	grid.476971.a	Immunology	1
+1436	grid.476971.a	Medical and Health Sciences	1
+1437	grid.7400.3	Immunology	1
+1438	grid.8515.9	Immunology	1
+1439	grid.8515.9	Medical and Health Sciences	1
+1440	grid.8591.5	Immunology	1
+1441	grid.8591.5	Medical and Health Sciences	1
+1442	grid.418041.8	Immunology	1
+1443	grid.418041.8	Medical and Health Sciences	1
+1444	grid.7872.a	Immunology	1
+1445	grid.7872.a	Medical and Health Sciences	1
+1446	grid.7692.a	Immunology	1
+1447	grid.7429.8	Immunology	1
+1448	grid.7429.8	Medical and Health Sciences	1
+1449	grid.4495.c	Immunology	1
+1450	grid.428999.7	Immunology	1
+1451	grid.428999.7	Medical and Health Sciences	1
+1452	grid.5718.b	Immunology	1
+1453	grid.8379.5	Pharmacology and Pharmaceutical Sciences	1
+1454	grid.412970.9	Pharmacology and Pharmaceutical Sciences	1
+1455	grid.419835.2	Pharmacology and Pharmaceutical Sciences	1
+1456	grid.5570.7	Public Health and Health Services	1
+1457	grid.9122.8	Econometrics	1
+1458	grid.419481.1	Good Health and Well Being	1
+1459	grid.419481.1	Clinical Sciences	1
+1460	grid.419481.1	Medical and Health Sciences	1
+1461	grid.5155.4	Business and Management	1
+1462	grid.5155.4	Commerce, Management, Tourism and Services	1
+1463	grid.10493.3f	Microbiology	1
+1464	grid.6363.0	Microbiology	1
+1465	grid.452235.7	Microbiology	1
+1466	grid.452235.7	Biological Sciences	1
+1467	grid.10420.37	Environmental Science and Management	1
+1468	grid.10420.37	Environmental Sciences	1
+1469	grid.8379.5	Environmental Science and Management	1
+1470	grid.8379.5	Environmental Sciences	1
+1471	grid.38603.3e	Immunology	1
+1472	grid.224260.0	Biochemistry and Cell Biology	1
+1473	grid.224260.0	Biological Sciences	1
+1474	grid.257413.6	Biochemistry and Cell Biology	1
+1475	grid.257413.6	Biological Sciences	1
+1476	grid.261331.4	Biochemistry and Cell Biology	1
+1477	grid.261331.4	Biological Sciences	1
+1478	grid.264727.2	Biochemistry and Cell Biology	1
+1479	grid.264727.2	Biological Sciences	1
+1480	grid.31501.36	Biochemistry and Cell Biology	1
+1481	grid.486565.c	Environmental Science and Management	1
+1482	grid.486565.c	Environmental Sciences	1
+1483	grid.470666.5	Environmental Science and Management	1
+1484	grid.470666.5	Environmental Sciences	1
+1485	grid.443388.0	Environmental Science and Management	1
+1486	grid.443388.0	Environmental Sciences	1
+1487	grid.1008.9	Environmental Science and Management	1
+1488	grid.1008.9	Environmental Sciences	1
+1489	grid.458477.d	Environmental Science and Management	1
+1490	grid.458477.d	Environmental Sciences	1
+1491	grid.11875.3a	Environmental Science and Management	1
+1492	grid.11875.3a	Environmental Sciences	1
+1493	grid.1003.2	Environmental Science and Management	1
+1494	grid.1003.2	Environmental Sciences	1
+1495	grid.7922.e	Environmental Science and Management	1
+1496	grid.7922.e	Environmental Sciences	1
+1497	grid.412151.2	Environmental Science and Management	1
+1498	grid.412151.2	Environmental Sciences	1
+1499	grid.411189.4	Environmental Science and Management	1
+1500	grid.411189.4	Environmental Sciences	1
+1501	grid.10863.3c	Environmental Science and Management	1
+1502	grid.10863.3c	Environmental Sciences	1
+1503	grid.444644.2	Environmental Science and Management	1
+1504	grid.444644.2	Environmental Sciences	1
+1505	grid.444233.6	Environmental Science and Management	1
+1506	grid.444233.6	Environmental Sciences	1
+1507	grid.412660.7	Environmental Science and Management	1
+1508	grid.412660.7	Environmental Sciences	1
+1509	grid.440435.2	Environmental Science and Management	1
+1510	grid.440435.2	Environmental Sciences	1
+1511	grid.4562.5	Environmental Science and Management	1
+1512	grid.4562.5	Environmental Sciences	1
+1513	grid.419837.0	Cardiorespiratory Medicine and Haematology	1
+1514	grid.461820.9	Cardiorespiratory Medicine and Haematology	1
+1515	grid.459927.4	Cardiorespiratory Medicine and Haematology	1
+1516	grid.507576.6	Cardiorespiratory Medicine and Haematology	1
+1517	grid.507576.6	Medical and Health Sciences	1
+1518	grid.419835.2	Cardiorespiratory Medicine and Haematology	1
+1519	grid.492781.1	Cardiorespiratory Medicine and Haematology	1
+1520	grid.492781.1	Medical and Health Sciences	1
+1521	grid.418466.9	Cardiorespiratory Medicine and Haematology	1
+1522	grid.418466.9	Medical and Health Sciences	1
+1523	grid.419802.6	Cardiorespiratory Medicine and Haematology	1
+1524	grid.440250.7	Cardiorespiratory Medicine and Haematology	1
+1525	grid.492033.f	Cardiorespiratory Medicine and Haematology	1
+1526	grid.440206.4	Cardiorespiratory Medicine and Haematology	1
+1527	grid.440206.4	Medical and Health Sciences	1
+1528	grid.415600.6	Cardiorespiratory Medicine and Haematology	1
+1529	grid.415600.6	Medical and Health Sciences	1
+1530	grid.14778.3d	Cardiorespiratory Medicine and Haematology	1
+1531	grid.473452.3	Cardiorespiratory Medicine and Haematology	1
+1532	grid.473452.3	Medical and Health Sciences	1
+1533	grid.6936.a	Cardiorespiratory Medicine and Haematology	1
+1534	grid.5491.9	Medical and Health Sciences	1
+1535	grid.417895.6	Medical and Health Sciences	1
+1536	grid.451388.3	Medical and Health Sciences	1
+1537	grid.6572.6	Medical and Health Sciences	1
+1538	grid.5342.0	Zero Hunger	1
+1539	grid.5342.0	Applied Economics	1
+1540	grid.5342.0	Economics	1
+1541	grid.5801.c	Zero Hunger	1
+1542	grid.5801.c	Applied Economics	1
+1543	grid.5801.c	Economics	1
+1544	grid.34424.35	Zero Hunger	1
+1545	grid.34424.35	Applied Economics	1
+1546	grid.34424.35	Economics	1
+1547	grid.419346.d	Zero Hunger	1
+1548	grid.419346.d	Applied Economics	1
+1549	grid.419346.d	Economics	1
+1550	grid.419387.0	Zero Hunger	1
+1551	grid.419387.0	Applied Economics	1
+1552	grid.419387.0	Economics	1
+1553	grid.418348.2	Zero Hunger	1
+1554	grid.418348.2	Applied Economics	1
+1555	grid.418348.2	Economics	1
+1556	grid.4861.b	Zero Hunger	1
+1557	grid.4861.b	Applied Economics	1
+1558	grid.4861.b	Economics	1
+1559	grid.418873.1	Zero Hunger	1
+1560	grid.418873.1	Applied Economics	1
+1561	grid.418873.1	Economics	1
+1562	grid.7841.a	Good Health and Well Being	1
+1563	grid.7841.a	Cardiorespiratory Medicine and Haematology	1
+1564	grid.413480.a	Good Health and Well Being	1
+1565	grid.413480.a	Cardiorespiratory Medicine and Haematology	1
+1566	grid.413480.a	Medical and Health Sciences	1
+1567	grid.477189.4	Good Health and Well Being	1
+1568	grid.477189.4	Cardiorespiratory Medicine and Haematology	1
+1569	grid.412004.3	Good Health and Well Being	1
+1570	grid.418230.c	Good Health and Well Being	1
+1571	grid.418230.c	Cardiorespiratory Medicine and Haematology	1
+1572	grid.489540.4	Biological Sciences	1
+1573	grid.411482.a	Clinical Sciences	1
+1574	grid.450002.3	Clinical Sciences	1
+1575	grid.450002.3	Medical and Health Sciences	1
+1576	grid.254250.4	Clinical Sciences	1
+1577	grid.214431.1	Clinical Sciences	1
+1578	grid.214431.1	Medical and Health Sciences	1
+1579	grid.273271.2	Clinical Sciences	1
+1580	grid.273271.2	Medical and Health Sciences	1
+1581	grid.17063.33	Clinical Sciences	1
+1582	grid.155956.b	Clinical Sciences	1
+1583	grid.9657.d	Clinical Sciences	1
+1584	grid.9657.d	Medical and Health Sciences	1
+1585	grid.32224.35	Clinical Sciences	1
+1586	grid.259828.c	Clinical Sciences	1
+1587	grid.24827.3b	Clinical Sciences	1
+1588	grid.417778.a	Clinical Sciences	1
+1589	grid.5373.2	Clinical Sciences	1
+1590	grid.5373.2	Medical and Health Sciences	1
+1591	grid.412116.1	Clinical Sciences	1
+1592	grid.412116.1	Medical and Health Sciences	1
+1593	grid.15496.3f	Clinical Sciences	1
+1594	grid.15496.3f	Medical and Health Sciences	1
+1595	grid.416868.5	Clinical Sciences	1
+1596	grid.416868.5	Medical and Health Sciences	1
+1597	grid.11696.39	Clinical Sciences	1
+1598	grid.26009.3d	Clinical Sciences	1
+1599	grid.10438.3e	Clinical Sciences	1
+1600	grid.10438.3e	Medical and Health Sciences	1
+1601	grid.411702.1	Clinical Sciences	1
+1602	grid.411582.b	Clinical Sciences	1
+1603	grid.411582.b	Medical and Health Sciences	1
+1604	grid.416870.c	Clinical Sciences	1
+1605	grid.416870.c	Medical and Health Sciences	1
+1606	grid.7489.2	Clinical Sciences	1
+1607	grid.7489.2	Medical and Health Sciences	1
+1608	grid.428620.a	Clinical Sciences	1
+1609	grid.428620.a	Medical and Health Sciences	1
+1610	grid.5802.f	Pharmacology and Pharmaceutical Sciences	1
+1611	grid.216499.1	Pharmacology and Pharmaceutical Sciences	1
+1612	grid.216499.1	Medical and Health Sciences	1
+1613	grid.83440.3b	Pharmacology and Pharmaceutical Sciences	1
+1614	grid.419093.6	Pharmacology and Pharmaceutical Sciences	1
+1615	grid.419093.6	Medical and Health Sciences	1
+1616	grid.5252.0	Pharmacology and Pharmaceutical Sciences	1
+1617	grid.189509.c	Good Health and Well Being	1
+1618	grid.8756.c	Good Health and Well Being	1
+1619	grid.452396.f	Good Health and Well Being	1
+1620	grid.415739.d	Good Health and Well Being	1
+1621	grid.415739.d	Cardiorespiratory Medicine and Haematology	1
+1622	grid.415739.d	Medical and Health Sciences	1
+1623	grid.31410.37	Good Health and Well Being	1
+1624	grid.31410.37	Cardiorespiratory Medicine and Haematology	1
+1625	grid.31410.37	Medical and Health Sciences	1
+1626	grid.418905.1	Good Health and Well Being	1
+1627	grid.418905.1	Cardiorespiratory Medicine and Haematology	1
+1628	grid.418905.1	Medical and Health Sciences	1
+1629	grid.261331.4	Good Health and Well Being	1
+1630	grid.476904.8	Good Health and Well Being	1
+1631	grid.476904.8	Cardiorespiratory Medicine and Haematology	1
+1632	grid.476904.8	Medical and Health Sciences	1
+1633	grid.4991.5	Statistics	1
+1634	grid.4991.5	Mathematical Sciences	1
+1635	grid.425396.f	Immunology	1
+1636	grid.425396.f	Medical Microbiology	1
+1637	grid.425396.f	Medical and Health Sciences	1
+1638	grid.411088.4	Medical Microbiology	1
+1639	grid.418010.c	Medical Microbiology	1
+1640	grid.446166.7	Clinical Sciences	1
+1641	grid.446166.7	Medical and Health Sciences	1
+1642	grid.448878.f	Clinical Sciences	1
+1643	grid.465277.5	Clinical Sciences	1
+1644	grid.465277.5	Medical and Health Sciences	1
+1645	grid.446083.d	Clinical Sciences	1
+1646	grid.446083.d	Medical and Health Sciences	1
+1647	grid.275559.9	Good Health and Well Being	1
+1648	grid.491719.3	Public Health and Health Services	1
+1649	grid.491719.3	Medical and Health Sciences	1
+1650	grid.5963.9	Medical Microbiology	1
+1651	grid.411544.1	Medical Microbiology	1
+1652	grid.411327.2	Medical Microbiology	1
+1653	grid.8404.8	Other Physical Sciences	1
+1654	grid.8404.8	Physical Sciences	1
+1655	grid.8993.b	Other Physical Sciences	1
+1656	grid.8993.b	Clinical Sciences	1
+1657	grid.8993.b	Physical Sciences	1
+1658	grid.8993.b	Medical and Health Sciences	1
+1659	grid.508487.6	Other Physical Sciences	1
+1660	grid.508487.6	Physical Sciences	1
+1661	grid.410552.7	Other Physical Sciences	1
+1662	grid.410552.7	Clinical Sciences	1
+1663	grid.410552.7	Physical Sciences	1
+1664	grid.410552.7	Medical and Health Sciences	1
+1665	grid.4494.d	Other Physical Sciences	1
+1666	grid.4494.d	Clinical Sciences	1
+1667	grid.4494.d	Physical Sciences	1
+1668	grid.411149.8	Other Physical Sciences	1
+1669	grid.411149.8	Clinical Sciences	1
+1670	grid.411149.8	Physical Sciences	1
+1671	grid.411149.8	Medical and Health Sciences	1
+1672	grid.4691.a	Other Physical Sciences	1
+1673	grid.4691.a	Physical Sciences	1
+1674	grid.411299.6	Other Physical Sciences	1
+1675	grid.411299.6	Clinical Sciences	1
+1676	grid.411299.6	Physical Sciences	1
+1677	grid.411299.6	Medical and Health Sciences	1
+1678	grid.410718.b	Other Physical Sciences	1
+1679	grid.410718.b	Physical Sciences	1
+1680	grid.7177.6	Other Physical Sciences	1
+1681	grid.7177.6	Physical Sciences	1
+1682	grid.11598.34	Paediatrics and Reproductive Medicine	1
+1683	grid.11598.34	Public Health and Health Services	1
+1684	grid.17063.33	Paediatrics and Reproductive Medicine	1
+1685	grid.17063.33	Public Health and Health Services	1
+1686	grid.1013.3	Decent Work and Economic Growth	1
+1687	grid.1013.3	Applied Economics	1
+1688	grid.1013.3	Economics	1
+1689	grid.1002.3	Decent Work and Economic Growth	1
+1690	grid.1002.3	Applied Economics	1
+1691	grid.1002.3	Economics	1
+1692	grid.419765.8	Genetics	1
+1693	grid.419765.8	Immunology	1
+1694	grid.419765.8	Biological Sciences	1
+1695	grid.419765.8	Medical and Health Sciences	1
+1696	grid.270683.8	Genetics	1
+1697	grid.270683.8	Immunology	1
+1698	grid.270683.8	Biological Sciences	1
+1699	grid.270683.8	Medical and Health Sciences	1
+1700	grid.417570.0	Genetics	1
+1701	grid.417570.0	Immunology	1
+1702	grid.417570.0	Biological Sciences	1
+1703	grid.417570.0	Medical and Health Sciences	1
+1704	grid.5333.6	Genetics	1
+1705	grid.5333.6	Immunology	1
+1706	grid.5333.6	Biological Sciences	1
+1707	grid.5333.6	Medical and Health Sciences	1
+1708	grid.452494.a	Genetics	1
+1709	grid.452494.a	Immunology	1
+1710	grid.452494.a	Biological Sciences	1
+1711	grid.452494.a	Medical and Health Sciences	1
+1712	grid.9851.5	Genetics	1
+1713	grid.9851.5	Immunology	1
+1714	grid.9851.5	Biological Sciences	1
+1715	grid.9851.5	Medical and Health Sciences	1
+1716	grid.7497.d	Genetics	1
+1717	grid.7497.d	Immunology	1
+1718	grid.7497.d	Biological Sciences	1
+1719	grid.4991.5	Genetics	1
+1720	grid.4991.5	Immunology	1
+1721	grid.4991.5	Biological Sciences	1
+1722	grid.418158.1	Genetics	1
+1723	grid.418158.1	Immunology	1
+1724	grid.418158.1	Biological Sciences	1
+1725	grid.418158.1	Medical and Health Sciences	1
+1726	grid.412212.6	Clinical Sciences	1
+1727	grid.412212.6	Medical and Health Sciences	1
+1728	grid.411147.6	Clinical Sciences	1
+1729	grid.411147.6	Medical and Health Sciences	1
+1730	grid.266102.1	Clinical Sciences	1
+1731	grid.413756.2	Clinical Sciences	1
+1732	grid.413756.2	Medical and Health Sciences	1
+1733	grid.411784.f	Clinical Sciences	1
+1734	grid.411784.f	Medical and Health Sciences	1
+1735	grid.189967.8	Clinical Sciences	1
+1736	grid.25697.3f	Cardiorespiratory Medicine and Haematology	1
+1737	grid.25697.3f	Medical and Health Sciences	1
+1738	grid.430503.1	Cardiorespiratory Medicine and Haematology	1
+1739	grid.430503.1	Medical and Health Sciences	1
+1740	grid.21729.3f	Cardiorespiratory Medicine and Haematology	1
+1741	grid.414352.5	Cardiorespiratory Medicine and Haematology	1
+1742	grid.414352.5	Medical and Health Sciences	1
+1743	grid.17635.36	Cardiorespiratory Medicine and Haematology	1
+1744	grid.414244.3	Cardiorespiratory Medicine and Haematology	1
+1745	grid.414244.3	Medical and Health Sciences	1
+1746	grid.414818.0	Cardiorespiratory Medicine and Haematology	1
+1747	grid.50550.35	Cardiorespiratory Medicine and Haematology	1
+1748	grid.50550.35	Medical and Health Sciences	1
+1749	grid.413396.a	Cardiorespiratory Medicine and Haematology	1
+1750	grid.6734.6	Medical and Health Sciences	1
+1751	grid.12082.39	Medical and Health Sciences	1
+1752	grid.4830.f	Medical and Health Sciences	1
+1753	grid.5338.d	Medical and Health Sciences	1
+1754	grid.22448.38	Medical and Health Sciences	1
+1755	grid.11914.3c	Medical and Health Sciences	1
+1756	grid.8142.f	Medical and Health Sciences	1
+1757	grid.258518.3	Medical and Health Sciences	1
+1758	grid.420451.6	Cardiorespiratory Medicine and Haematology	1
+1759	grid.4708.b	Other Medical and Health Sciences	1
+1760	grid.17635.36	Other Medical and Health Sciences	1
+1761	grid.452463.2	Clinical Sciences	1
+1762	grid.5253.1	Specialist Studies In Education	1
+1763	grid.5253.1	Education	1
+1764	grid.461673.1	Specialist Studies In Education	1
+1765	grid.461673.1	Education	1
+1766	grid.7307.3	Specialist Studies In Education	1
+1767	grid.7307.3	Education	1
+1768	grid.10211.33	Specialist Studies In Education	1
+1769	grid.10211.33	Education	1
+1770	grid.5342.0	Public Health and Health Services	1
+1771	grid.5342.0	Medical and Health Sciences	1
+1772	grid.484519.5	Public Health and Health Services	1
+1773	grid.484519.5	Medical and Health Sciences	1
+1774	grid.503422.2	Public Health and Health Services	1
+1775	grid.503422.2	Medical and Health Sciences	1
+1776	grid.424247.3	Neurosciences	1
+1777	grid.5807.a	Neurosciences	1
+1778	grid.5807.a	Medical and Health Sciences	1
+1779	grid.18886.3f	Immunology	1
+1780	grid.18886.3f	Medical and Health Sciences	1
+1781	grid.9764.c	Immunology	1
+1782	grid.5252.0	Immunology	1
+1783	grid.15876.3d	Public Health and Health Services	1
+1784	grid.15876.3d	Medical and Health Sciences	1
+1785	grid.16477.33	Public Health and Health Services	1
+1786	grid.16477.33	Medical and Health Sciences	1
+1787	grid.442156.0	Public Health and Health Services	1
+1788	grid.442156.0	Medical and Health Sciences	1
+1789	grid.419034.b	Public Health and Health Services	1
+1790	grid.419034.b	Medical and Health Sciences	1
+1791	grid.7836.a	Public Health and Health Services	1
+1792	grid.411196.a	Public Health and Health Services	1
+1793	grid.411196.a	Medical and Health Sciences	1
+1794	grid.415310.2	Public Health and Health Services	1
+1795	grid.415310.2	Medical and Health Sciences	1
+1796	grid.412282.f	Public Health and Health Services	1
+1797	grid.63984.30	Public Health and Health Services	1
+1798	grid.63984.30	Medical and Health Sciences	1
+1799	grid.412388.4	Public Health and Health Services	1
+1800	grid.412388.4	Medical and Health Sciences	1
+1801	grid.410529.b	Public Health and Health Services	1
+1802	grid.410529.b	Medical and Health Sciences	1
+1803	grid.107891.6	Public Health and Health Services	1
+1804	grid.107891.6	Medical and Health Sciences	1
+1805	grid.416167.3	Public Health and Health Services	1
+1806	grid.416167.3	Medical and Health Sciences	1
+1807	grid.8399.b	Public Health and Health Services	1
+1808	grid.8399.b	Medical and Health Sciences	1
+1809	grid.241103.5	Public Health and Health Services	1
+1810	grid.8217.c	Public Health and Health Services	1
+1811	grid.8217.c	Medical and Health Sciences	1
+1812	grid.9601.e	Public Health and Health Services	1
+1813	grid.9601.e	Medical and Health Sciences	1
+1814	grid.5718.b	Public Health and Health Services	1
+1815	grid.14442.37	Public Health and Health Services	1
+1816	grid.14442.37	Medical and Health Sciences	1
+1817	grid.18919.38	Public Health and Health Services	1
+1818	grid.18919.38	Medical and Health Sciences	1
+1819	grid.411249.b	Public Health and Health Services	1
+1820	grid.411249.b	Medical and Health Sciences	1
+1821	grid.414818.0	Public Health and Health Services	1
+1822	grid.448878.f	Public Health and Health Services	1
+1823	grid.509540.d	Public Health and Health Services	1
+1824	grid.509540.d	Medical and Health Sciences	1
+1825	grid.31432.37	Public Health and Health Services	1
+1826	grid.31432.37	Medical and Health Sciences	1
+1827	grid.444604.6	Public Health and Health Services	1
+1828	grid.444604.6	Medical and Health Sciences	1
+1829	grid.420545.2	Public Health and Health Services	1
+1830	grid.412004.3	Public Health and Health Services	1
+1831	grid.268441.d	Public Health and Health Services	1
+1832	grid.268441.d	Medical and Health Sciences	1
+1833	grid.8664.c	Public Health and Health Services	1
+1834	grid.411728.9	Public Health and Health Services	1
+1835	grid.411728.9	Medical and Health Sciences	1
+1836	grid.460708.d	Public Health and Health Services	1
+1837	grid.460708.d	Medical and Health Sciences	1
+1838	grid.411484.c	Public Health and Health Services	1
+1839	grid.411484.c	Medical and Health Sciences	1
+1840	grid.10223.32	Public Health and Health Services	1
+1841	grid.10223.32	Medical and Health Sciences	1
+1842	grid.415131.3	Public Health and Health Services	1
+1843	grid.415131.3	Medical and Health Sciences	1
+1844	grid.4793.9	Public Health and Health Services	1
+1845	grid.4793.9	Medical and Health Sciences	1
+1846	grid.426108.9	Public Health and Health Services	1
+1847	grid.426108.9	Medical and Health Sciences	1
+1848	grid.5216.0	Public Health and Health Services	1
+1849	grid.5379.8	Public Health and Health Services	1
+1850	grid.5379.8	Medical and Health Sciences	1
+1851	grid.446122.7	Public Health and Health Services	1
+1852	grid.446122.7	Medical and Health Sciences	1
+1853	grid.488480.8	Public Health and Health Services	1
+1854	grid.488480.8	Medical and Health Sciences	1
+1855	grid.414775.4	Public Health and Health Services	1
+1856	grid.414775.4	Medical and Health Sciences	1
+1857	grid.10253.35	Public Health and Health Services	1
+1858	grid.414680.f	Public Health and Health Services	1
+1859	grid.414680.f	Medical and Health Sciences	1
+1860	grid.20736.30	Public Health and Health Services	1
+1861	grid.20736.30	Medical and Health Sciences	1
+1862	grid.412881.6	Public Health and Health Services	1
+1863	grid.412881.6	Medical and Health Sciences	1
+1864	grid.413396.a	Public Health and Health Services	1
+1865	grid.410570.7	Public Health and Health Services	1
+1866	grid.410570.7	Medical and Health Sciences	1
+1867	grid.410563.5	Public Health and Health Services	1
+1868	grid.410563.5	Medical and Health Sciences	1
+1869	grid.257022.0	Public Health and Health Services	1
+1870	grid.257022.0	Medical and Health Sciences	1
+1871	grid.6451.6	Public Health and Health Services	1
+1872	grid.6451.6	Medical and Health Sciences	1
+1873	grid.8536.8	Public Health and Health Services	1
+1874	grid.8536.8	Medical and Health Sciences	1
+1875	grid.5645.2	Public Health and Health Services	1
+1876	grid.5645.2	Medical and Health Sciences	1
+1877	grid.154185.c	Public Health and Health Services	1
+1878	grid.5330.5	Public Health and Health Services	1
+1879	grid.452702.6	Public Health and Health Services	1
+1880	grid.452702.6	Medical and Health Sciences	1
+1881	grid.412536.7	Public Health and Health Services	1
+1882	grid.412536.7	Medical and Health Sciences	1
+1883	grid.8267.b	Public Health and Health Services	1
+1884	grid.411472.5	Public Health and Health Services	1
+1885	grid.411472.5	Medical and Health Sciences	1
+1886	grid.9764.c	Genetics	1
+1887	grid.9764.c	Biological Sciences	1
+1888	grid.5254.6	Genetics	1
+1889	grid.5254.6	Biological Sciences	1
+1890	grid.10939.32	Genetics	1
+1891	grid.10939.32	Biological Sciences	1
+1892	grid.5947.f	Genetics	1
+1893	grid.5947.f	Biological Sciences	1
+1894	grid.412468.d	Genetics	1
+1895	grid.412468.d	Biological Sciences	1
+1896	grid.461852.c	Genetics	1
+1897	grid.461852.c	Biological Sciences	1
+1898	grid.154185.c	Genetics	1
+1899	grid.154185.c	Biological Sciences	1
+1900	grid.214458.e	Genetics	1
+1901	grid.214458.e	Biological Sciences	1
+1902	grid.22937.3d	Genetics	1
+1903	grid.5510.1	Genetics	1
+1904	grid.5510.1	Biological Sciences	1
+1905	grid.6190.e	Genetics	1
+1906	grid.45083.3a	Genetics	1
+1907	grid.45083.3a	Biological Sciences	1
+1908	grid.4562.5	Genetics	1
+1909	grid.13652.33	Genetics	1
+1910	grid.414625.0	Genetics	1
+1911	grid.414625.0	Biological Sciences	1
+1912	grid.416369.f	Genetics	1
+1913	grid.416369.f	Biological Sciences	1
+1914	grid.4973.9	Genetics	1
+1915	grid.4973.9	Biological Sciences	1
+1916	grid.5603.0	Genetics	1
+1917	grid.5603.0	Biological Sciences	1
+1918	grid.1002.3	Genetics	1
+1919	grid.1002.3	Biological Sciences	1
+1920	grid.6546.1	Good Health and Well Being	1
+1921	grid.6546.1	Artificial Intelligence and Image Processing	1
+1922	grid.6546.1	Computation Theory and Mathematics	1
+1923	grid.6546.1	Information and Computing Sciences	1
+1924	grid.5253.1	Artificial Intelligence and Image Processing	1
+1925	grid.5253.1	Computation Theory and Mathematics	1
+1926	grid.5253.1	Information and Computing Sciences	1
+1927	grid.4827.9	Good Health and Well Being	1
+1928	grid.4827.9	Artificial Intelligence and Image Processing	1
+1929	grid.4827.9	Computation Theory and Mathematics	1
+1930	grid.4827.9	Information and Computing Sciences	1
+1931	grid.424699.4	Good Health and Well Being	1
+1932	grid.424699.4	Artificial Intelligence and Image Processing	1
+1933	grid.424699.4	Computation Theory and Mathematics	1
+1934	grid.4488.0	Artificial Intelligence and Image Processing	1
+1935	grid.4488.0	Computation Theory and Mathematics	1
+1936	grid.4488.0	Information and Computing Sciences	1
+1937	grid.10423.34	Computation Theory and Mathematics	1
+1938	grid.10493.3f	Artificial Intelligence and Image Processing	1
+1939	grid.10493.3f	Computation Theory and Mathematics	1
+1940	grid.10493.3f	Information and Computing Sciences	1
+1941	grid.417109.a	Cardiorespiratory Medicine and Haematology	1
+1942	grid.417109.a	Medical and Health Sciences	1
+1943	grid.420072.3	Cardiorespiratory Medicine and Haematology	1
+1944	grid.420072.3	Medical and Health Sciences	1
+1945	grid.500058.8	Public Health and Health Services	1
+1946	grid.500058.8	Medical and Health Sciences	1
+1947	grid.478011.b	Public Health and Health Services	1
+1948	grid.478011.b	Medical and Health Sciences	1
+1949	grid.34477.33	Environmental Science and Management	1
+1950	grid.34477.33	Ecology	1
+1951	grid.34477.33	Environmental Sciences	1
+1952	grid.5522.0	Public Health and Health Services	1
+1953	grid.5522.0	Medical and Health Sciences	1
+1954	grid.9018.0	Public Health and Health Services	1
+1955	grid.9018.0	Medical and Health Sciences	1
+1956	grid.8954.0	Public Health and Health Services	1
+1957	grid.8954.0	Medical and Health Sciences	1
+1958	grid.451233.2	Public Health and Health Services	1
+1959	grid.451233.2	Medical and Health Sciences	1
+1960	grid.12136.37	Public Health and Health Services	1
+1961	grid.7256.6	Public Health and Health Services	1
+1962	grid.417390.8	Genetics	1
+1963	grid.417390.8	Biological Sciences	1
+1964	grid.418497.7	Genetics	1
+1965	grid.418497.7	Biological Sciences	1
+1966	grid.5386.8	Genetics	1
+1967	grid.5386.8	Biological Sciences	1
+1968	grid.11047.33	Genetics	1
+1969	grid.11047.33	Biological Sciences	1
+1970	grid.445630.0	Climate Action	1
+1971	grid.445630.0	Political Science	1
+1972	grid.445630.0	Studies in Human Society	1
+1973	grid.452413.5	Public Health and Health Services	1
+1974	grid.452413.5	Medical and Health Sciences	1
+1975	grid.413973.b	Good Health and Well Being	1
+1976	grid.413973.b	Immunology	1
+1977	grid.413973.b	Medical and Health Sciences	1
+1978	grid.1005.4	Immunology	1
+1979	grid.452919.2	Good Health and Well Being	1
+1980	grid.452919.2	Immunology	1
+1981	grid.452919.2	Medical and Health Sciences	1
+1982	grid.1013.3	Good Health and Well Being	1
+1983	grid.1013.3	Immunology	1
+1984	grid.1013.3	Medical and Health Sciences	1
+1985	grid.420118.e	Good Health and Well Being	1
+1986	grid.420118.e	Immunology	1
+1987	grid.420118.e	Medical and Health Sciences	1
+1988	grid.117476.2	Good Health and Well Being	1
+1989	grid.117476.2	Immunology	1
+1990	grid.117476.2	Medical and Health Sciences	1
+1991	grid.1029.a	Good Health and Well Being	1
+1992	grid.1029.a	Immunology	1
+1993	grid.1029.a	Medical and Health Sciences	1
+1994	grid.6363.0	Zero Hunger	1
+1995	grid.452396.f	Zero Hunger	1
+1996	grid.410721.1	Zero Hunger	1
+1997	grid.410721.1	Clinical Sciences	1
+1998	grid.7372.1	Zero Hunger	1
+1999	grid.7372.1	Clinical Sciences	1
+2000	grid.415033.0	Public Health and Health Services	1
+2001	grid.477277.6	Clinical Sciences	1
+2002	grid.477277.6	Medical and Health Sciences	1
+2003	grid.460088.2	Clinical Sciences	1
+2004	grid.460088.2	Medical and Health Sciences	1
+2005	grid.419835.2	Clinical Sciences	1
+2006	grid.459950.4	Clinical Sciences	1
+2007	grid.459950.4	Medical and Health Sciences	1
+2008	grid.470036.6	Clinical Sciences	1
+2009	grid.470036.6	Medical and Health Sciences	1
+2010	grid.29524.38	Clinical Sciences	1
+2011	grid.29524.38	Medical and Health Sciences	1
+2012	grid.491961.2	Clinical Sciences	1
+2013	grid.491961.2	Medical and Health Sciences	1
+2014	grid.488379.9	Clinical Sciences	1
+2015	grid.488379.9	Medical and Health Sciences	1
+2016	grid.7563.7	Clinical Sciences	1
+2017	grid.419557.b	Clinical Sciences	1
+2018	grid.419557.b	Medical and Health Sciences	1
+2019	grid.239395.7	Cardiorespiratory Medicine and Haematology	1
+2020	grid.411746.1	Cardiorespiratory Medicine and Haematology	1
+2021	grid.411746.1	Clinical Sciences	1
+2022	grid.411746.1	Medical and Health Sciences	1
+2023	grid.411495.c	Cardiorespiratory Medicine and Haematology	1
+2024	grid.411495.c	Clinical Sciences	1
+2025	grid.411495.c	Medical and Health Sciences	1
+2026	grid.11375.31	Physical Chemistry (incl. Structural)	1
+2027	grid.11375.31	Chemical Sciences	1
+2028	grid.4991.5	Physical Chemistry (incl. Structural)	1
+2029	grid.4991.5	Chemical Sciences	1
+2030	grid.411339.d	Analytical Chemistry	1
+2031	grid.411339.d	Other Chemical Sciences	1
+2032	grid.411339.d	Chemical Sciences	1
+2033	grid.9647.c	Analytical Chemistry	1
+2034	grid.9647.c	Other Chemical Sciences	1
+2035	grid.9647.c	Chemical Sciences	1
+2036	grid.418508.0	Analytical Chemistry	1
+2037	grid.418508.0	Other Chemical Sciences	1
+2038	grid.418508.0	Chemical Sciences	1
+2039	grid.7776.1	Analytical Chemistry	1
+2040	grid.7776.1	Other Chemical Sciences	1
+2041	grid.7269.a	Analytical Chemistry	1
+2042	grid.7269.a	Other Chemical Sciences	1
+2043	grid.7269.a	Chemical Sciences	1
+2044	grid.452463.2	Analytical Chemistry	1
+2045	grid.452463.2	Other Chemical Sciences	1
+2046	grid.452463.2	Chemical Sciences	1
+2047	grid.508234.8	Analytical Chemistry	1
+2048	grid.508234.8	Other Chemical Sciences	1
+2049	grid.508234.8	Chemical Sciences	1
+2050	grid.11348.3f	Analytical Chemistry	1
+2051	grid.11348.3f	Other Chemical Sciences	1
+2052	grid.11348.3f	Chemical Sciences	1
+2053	grid.6214.1	Mathematical Sciences	1
+2054	grid.6214.1	Physical Sciences	1
+2055	grid.6214.1	Engineering	1
+2056	grid.466750.6	Mathematical Sciences	1
+2057	grid.466750.6	Physical Sciences	1
+2058	grid.466750.6	Engineering	1
+2059	grid.16008.3f	Medical and Health Sciences	1
+2060	grid.452540.2	Medical and Health Sciences	1
+2061	grid.8127.c	Medical and Health Sciences	1
+2062	grid.12082.39	Good Health and Well Being	1
+2063	grid.12082.39	Industry, Innovation and Infrastructure	1
+2064	grid.12082.39	Economics	1
+2065	grid.5570.7	Clinical Sciences	1
+2066	grid.411941.8	Clinical Sciences	1
+2067	grid.412469.c	Clinical Sciences	1
+2068	grid.412469.c	Medical and Health Sciences	1
+2069	grid.411668.c	Clinical Sciences	1
+2070	grid.413108.f	Clinical Sciences	1
+2071	grid.413108.f	Medical and Health Sciences	1
+2072	grid.411937.9	Clinical Sciences	1
+2073	grid.15090.3d	Clinical Sciences	1
+2074	grid.15474.33	Clinical Sciences	1
+2075	grid.4709.a	Biological Sciences	1
+2076	grid.4709.a	Technology	1
+2077	grid.4709.a	Medical and Health Sciences	1
+2078	grid.418508.0	Good Health and Well Being	1
+2079	grid.418508.0	Medical Microbiology	1
+2080	grid.418508.0	Medical and Health Sciences	1
+2081	grid.22072.35	Environmental Science and Management	1
+2082	grid.22072.35	Environmental Sciences	1
+2083	grid.507636.1	Environmental Science and Management	1
+2084	grid.507636.1	Environmental Sciences	1
+2085	grid.8752.8	Environmental Science and Management	1
+2086	grid.8752.8	Environmental Sciences	1
+2087	grid.137628.9	Environmental Science and Management	1
+2088	grid.137628.9	Environmental Sciences	1
+2089	grid.421582.8	Environmental Science and Management	1
+2090	grid.421582.8	Environmental Sciences	1
+2091	grid.4305.2	Environmental Science and Management	1
+2092	grid.4305.2	Environmental Sciences	1
+2093	grid.418377.e	Environmental Science and Management	1
+2094	grid.418377.e	Environmental Sciences	1
+2095	grid.453420.4	Environmental Science and Management	1
+2096	grid.453420.4	Environmental Sciences	1
+2097	grid.417634.3	Environmental Science and Management	1
+2098	grid.417634.3	Environmental Sciences	1
+2099	grid.39382.33	Environmental Science and Management	1
+2100	grid.39382.33	Environmental Sciences	1
+2101	grid.5612.0	Environmental Science and Management	1
+2102	grid.5612.0	Environmental Sciences	1
+2103	grid.134907.8	Environmental Science and Management	1
+2104	grid.134907.8	Environmental Sciences	1
+2105	grid.419010.d	Environmental Science and Management	1
+2106	grid.419010.d	Environmental Sciences	1
+2107	grid.185669.5	Environmental Science and Management	1
+2108	grid.185669.5	Environmental Sciences	1
+2109	grid.425902.8	Environmental Science and Management	1
+2110	grid.425902.8	Environmental Sciences	1
+2111	grid.11478.3b	Environmental Science and Management	1
+2112	grid.11478.3b	Environmental Sciences	1
+2113	grid.47840.3f	Zero Hunger	1
+2114	grid.47840.3f	Applied Economics	1
+2115	grid.47840.3f	Economics	1
+2116	grid.479464.c	Zero Hunger	1
+2117	grid.479464.c	Applied Economics	1
+2118	grid.479464.c	Economics	1
+2119	grid.27860.3b	Zero Hunger	1
+2120	grid.27860.3b	Applied Economics	1
+2121	grid.27860.3b	Economics	1
+2122	grid.16753.36	Zero Hunger	1
+2123	grid.16753.36	Applied Economics	1
+2124	grid.16753.36	Economics	1
+2125	grid.1021.2	Zero Hunger	1
+2126	grid.1021.2	Applied Economics	1
+2127	grid.1021.2	Economics	1
+2128	grid.6612.3	Zero Hunger	1
+2129	grid.6612.3	Applied Economics	1
+2130	grid.6612.3	Economics	1
+2131	grid.10548.38	Zero Hunger	1
+2132	grid.10548.38	Applied Economics	1
+2133	grid.10548.38	Economics	1
+2134	grid.16750.35	Zero Hunger	1
+2135	grid.16750.35	Applied Economics	1
+2136	grid.16750.35	Economics	1
+2137	grid.168010.e	Zero Hunger	1
+2138	grid.168010.e	Applied Economics	1
+2139	grid.168010.e	Economics	1
+2140	grid.47100.32	Zero Hunger	1
+2141	grid.47100.32	Applied Economics	1
+2142	grid.47100.32	Economics	1
+2143	grid.13388.31	Zero Hunger	1
+2144	grid.13388.31	Applied Economics	1
+2145	grid.13388.31	Economics	1
+2146	grid.38142.3c	Zero Hunger	1
+2147	grid.38142.3c	Applied Economics	1
+2148	grid.38142.3c	Economics	1
+2149	grid.4818.5	Applied Economics	1
+2150	grid.4818.5	Economics	1
+2151	grid.46699.34	Neurosciences	1
+2152	grid.13097.3c	Neurosciences	1
+2153	grid.470122.2	Clinical Sciences	1
+2154	grid.24381.3c	Clinical Sciences	1
+2155	grid.4989.c	Clinical Sciences	1
+2156	grid.412966.e	Clinical Sciences	1
+2157	grid.411798.2	Clinical Sciences	1
+2158	grid.419837.0	Clinical Sciences	1
+2159	grid.440250.7	Clinical Sciences	1
+2160	grid.491928.f	Clinical Sciences	1
+2161	grid.411091.c	Good Health and Well Being	1
+2162	grid.411091.c	Clinical Sciences	1
+2163	grid.411091.c	Public Health and Health Services	1
+2164	grid.411091.c	Medical and Health Sciences	1
+2165	grid.416008.b	Good Health and Well Being	1
+2166	grid.416008.b	Clinical Sciences	1
+2167	grid.416008.b	Public Health and Health Services	1
+2168	grid.416008.b	Medical and Health Sciences	1
+2169	grid.488779.d	Good Health and Well Being	1
+2170	grid.458414.8	Public Health and Health Services	1
+2171	grid.458414.8	Medical and Health Sciences	1
+2172	grid.411941.8	Cardiorespiratory Medicine and Haematology	1
+2173	grid.5560.6	Climate Action	1
+2174	grid.5560.6	Macromolecular and Materials Chemistry	1
+2175	grid.5560.6	Chemical Sciences	1
+2176	grid.5603.0	Climate Action	1
+2177	grid.5603.0	Macromolecular and Materials Chemistry	1
+2178	grid.5603.0	Chemical Sciences	1
+2179	grid.7892.4	Climate Action	1
+2180	grid.7892.4	Macromolecular and Materials Chemistry	1
+2181	grid.7892.4	Chemical Sciences	1
+2182	grid.1008.9	Public Health and Health Services	1
+2183	grid.4714.6	Public Health and Health Services	1
+2184	grid.414271.5	Public Health and Health Services	1
+2185	grid.239578.2	Public Health and Health Services	1
+2186	grid.21200.31	Public Health and Health Services	1
+2187	grid.21200.31	Medical and Health Sciences	1
+2188	grid.413513.1	Public Health and Health Services	1
+2189	grid.413513.1	Medical and Health Sciences	1
+2190	grid.418248.3	Public Health and Health Services	1
+2191	grid.1009.8	Public Health and Health Services	1
+2192	grid.475435.4	Public Health and Health Services	1
+2193	grid.410543.7	Public Health and Health Services	1
+2194	grid.419432.9	Public Health and Health Services	1
+2195	grid.419432.9	Medical and Health Sciences	1
+2196	grid.413262.0	Public Health and Health Services	1
+2197	grid.7445.2	Public Health and Health Services	1
+2198	grid.414382.8	Public Health and Health Services	1
+2199	grid.7080.f	Public Health and Health Services	1
+2200	grid.7080.f	Medical and Health Sciences	1
+2201	grid.469827.6	Information Systems	1
+2202	grid.469827.6	Other Information and Computing Sciences	1
+2203	grid.469827.6	Marketing	1
+2204	grid.469827.6	Information and Computing Sciences	1
+2205	grid.469827.6	Commerce, Management, Tourism and Services	1
+2206	grid.448793.5	Information Systems	1
+2207	grid.448793.5	Other Information and Computing Sciences	1
+2208	grid.448793.5	Marketing	1
+2209	grid.448793.5	Information and Computing Sciences	1
+2210	grid.448793.5	Commerce, Management, Tourism and Services	1
+2211	grid.452463.2	Good Health and Well Being	1
+2212	grid.500035.3	Good Health and Well Being	1
+2213	grid.15090.3d	Good Health and Well Being	1
+2214	grid.477805.9	Good Health and Well Being	1
+2215	grid.412282.f	Good Health and Well Being	1
+2216	grid.4562.5	Good Health and Well Being	1
+2217	grid.6936.a	Good Health and Well Being	1
+2218	grid.15474.33	Good Health and Well Being	1
+2219	grid.4567.0	Good Health and Well Being	1
+2220	grid.10392.39	Good Health and Well Being	1
+2221	grid.412468.d	Good Health and Well Being	1
+2222	grid.470779.a	Good Health and Well Being	1
+2223	grid.470779.a	Immunology	1
+2224	grid.7307.3	Good Health and Well Being	1
+2225	grid.7307.3	Immunology	1
+2226	grid.7307.3	Medical and Health Sciences	1
+2227	grid.410567.1	Good Health and Well Being	1
+2228	grid.410567.1	Immunology	1
+2229	grid.416438.c	Clinical Sciences	1
+2230	grid.8664.c	Clinical Sciences	1
+2231	grid.483420.9	Good Health and Well Being	1
+2232	grid.483420.9	Clinical Sciences	1
+2233	grid.461820.9	Good Health and Well Being	1
+2234	grid.9764.c	Good Health and Well Being	1
+2235	grid.9764.c	Clinical Sciences	1
+2236	grid.7400.3	Clinical Sciences	1
+2237	grid.491865.7	Good Health and Well Being	1
+2238	grid.491865.7	Clinical Sciences	1
+2239	grid.491865.7	Medical and Health Sciences	1
+2240	grid.411095.8	Good Health and Well Being	1
+2241	grid.9026.d	Good Health and Well Being	1
+2242	grid.9026.d	Clinical Sciences	1
+2243	grid.506258.c	Good Health and Well Being	1
+2244	grid.506258.c	Clinical Sciences	1
+2245	grid.506258.c	Medical and Health Sciences	1
+2246	grid.8664.c	Neurosciences	1
+2247	grid.10253.35	Good Health and Well Being	1
+2248	grid.10253.35	Neurosciences	1
+2249	grid.484013.a	Good Health and Well Being	1
+2250	grid.412301.5	Neurosciences	1
+2251	grid.440967.8	Good Health and Well Being	1
+2252	grid.440967.8	Neurosciences	1
+2253	grid.440967.8	Medical and Health Sciences	1
+2254	grid.9764.c	Curriculum and Pedagogy	1
+2255	grid.9764.c	Specialist Studies In Education	1
+2256	grid.9764.c	Education	1
+2257	grid.15711.33	Human Geography	1
+2258	grid.15711.33	Policy and Administration	1
+2259	grid.15711.33	Political Science	1
+2260	grid.15711.33	Studies in Human Society	1
+2261	grid.5326.2	Human Geography	1
+2262	grid.5326.2	Policy and Administration	1
+2263	grid.5326.2	Political Science	1
+2264	grid.5326.2	Studies in Human Society	1
+2265	grid.470779.a	Public Health and Health Services	1
+2266	grid.411668.c	Public Health and Health Services	1
+2267	grid.215654.1	Psychology	1
+2268	grid.215654.1	Psychology and Cognitive Sciences	1
+2269	grid.7400.3	Psychology	1
+2270	grid.7400.3	Psychology and Cognitive Sciences	1
+2271	grid.10211.33	Psychology	1
+2272	grid.10211.33	Psychology and Cognitive Sciences	1
+2273	grid.10854.38	Psychology	1
+2274	grid.10854.38	Psychology and Cognitive Sciences	1
+2275	grid.421064.5	Psychology	1
+2276	grid.421064.5	Psychology and Cognitive Sciences	1
+2277	grid.5254.6	Psychology	1
+2278	grid.5254.6	Psychology and Cognitive Sciences	1
+2279	grid.1007.6	Psychology	1
+2280	grid.1007.6	Psychology and Cognitive Sciences	1
+2281	grid.10548.38	Psychology	1
+2282	grid.10548.38	Psychology and Cognitive Sciences	1
+2283	grid.461663.0	Psychology	1
+2284	grid.461663.0	Psychology and Cognitive Sciences	1
+2285	grid.134907.8	Psychology	1
+2286	grid.134907.8	Psychology and Cognitive Sciences	1
+2287	grid.433014.1	Psychology	1
+2288	grid.433014.1	Psychology and Cognitive Sciences	1
+2289	grid.5600.3	Psychology	1
+2290	grid.5600.3	Psychology and Cognitive Sciences	1
+2291	grid.12380.38	Psychology	1
+2292	grid.12380.38	Psychology and Cognitive Sciences	1
+2293	grid.418972.1	Psychology	1
+2294	grid.418972.1	Psychology and Cognitive Sciences	1
+2295	grid.4818.5	Psychology	1
+2296	grid.4818.5	Psychology and Cognitive Sciences	1
+2297	grid.5734.5	Psychology	1
+2298	grid.5734.5	Psychology and Cognitive Sciences	1
+2299	grid.418009.4	Medical Microbiology	1
+2300	grid.418009.4	Medical and Health Sciences	1
+2301	grid.10423.34	Medical Microbiology	1
+2302	grid.26790.3a	Biochemistry and Cell Biology	1
+2303	grid.26790.3a	Biological Sciences	1
+2304	grid.419524.f	Psychology and Cognitive Sciences	1
+2305	grid.6906.9	Medical and Health Sciences	1
+2306	grid.6906.9	Psychology and Cognitive Sciences	1
+2307	grid.419517.f	Medical Microbiology	1
+2308	grid.419517.f	Medical and Health Sciences	1
+2309	grid.28056.39	Medical Microbiology	1
+2310	grid.28056.39	Medical and Health Sciences	1
+2311	grid.452235.7	Good Health and Well Being	1
+2312	grid.412689.0	Clinical Sciences	1
+2313	grid.412689.0	Medical and Health Sciences	1
+2314	grid.412581.b	Oncology and Carcinogenesis	1
+2315	grid.7010.6	Clinical Sciences	1
+2316	grid.7010.6	Medical and Health Sciences	1
+2317	grid.11835.3e	Commercial Services	1
+2318	grid.11835.3e	Marketing	1
+2319	grid.11835.3e	Tourism	1
+2320	grid.11835.3e	Commerce, Management, Tourism and Services	1
+2321	grid.9481.4	Commercial Services	1
+2322	grid.9481.4	Marketing	1
+2323	grid.9481.4	Tourism	1
+2324	grid.9481.4	Commerce, Management, Tourism and Services	1
+2325	grid.266685.9	Commercial Services	1
+2326	grid.266685.9	Marketing	1
+2327	grid.266685.9	Tourism	1
+2328	grid.266685.9	Commerce, Management, Tourism and Services	1
+2329	grid.4488.0	Specialist Studies In Education	1
+2330	grid.4488.0	Education	1
+2331	grid.4808.4	Specialist Studies In Education	1
+2332	grid.4808.4	Education	1
+2333	grid.7645.0	Specialist Studies In Education	1
+2334	grid.7645.0	Education	1
+2335	grid.4488.0	Forestry Sciences	1
+2336	grid.4488.0	Applied Economics	1
+2337	grid.4488.0	Policy and Administration	1
+2338	grid.4488.0	Agricultural and Veterinary Sciences	1
+2339	grid.4488.0	Economics	1
+2340	grid.4488.0	Studies in Human Society	1
+2341	grid.8183.2	Forestry Sciences	1
+2342	grid.8183.2	Applied Economics	1
+2343	grid.8183.2	Policy and Administration	1
+2344	grid.8183.2	Agricultural and Veterinary Sciences	1
+2345	grid.8183.2	Economics	1
+2346	grid.8183.2	Studies in Human Society	1
+2347	grid.8201.b	Forestry Sciences	1
+2348	grid.8201.b	Applied Economics	1
+2349	grid.8201.b	Policy and Administration	1
+2350	grid.8201.b	Agricultural and Veterinary Sciences	1
+2351	grid.8201.b	Economics	1
+2352	grid.8201.b	Studies in Human Society	1
+2353	grid.414142.6	Good Health and Well Being	1
+2354	grid.414142.6	Clinical Sciences	1
+2355	grid.414142.6	Medical and Health Sciences	1
+2356	grid.497592.4	Good Health and Well Being	1
+2357	grid.497592.4	Clinical Sciences	1
+2358	grid.497592.4	Medical and Health Sciences	1
+2359	grid.414128.a	Good Health and Well Being	1
+2360	grid.414128.a	Clinical Sciences	1
+2361	grid.414128.a	Medical and Health Sciences	1
+2362	grid.203448.9	Good Health and Well Being	1
+2363	grid.203448.9	Clinical Sciences	1
+2364	grid.203448.9	Medical and Health Sciences	1
+2365	grid.267198.3	Good Health and Well Being	1
+2366	grid.267198.3	Clinical Sciences	1
+2367	grid.267198.3	Medical and Health Sciences	1
+2368	grid.9647.c	Good Health and Well Being	1
+2369	grid.4488.0	Built Environment and Design	1
+2370	grid.5570.7	Pharmacology and Pharmaceutical Sciences	1
+2371	grid.461714.1	Pharmacology and Pharmaceutical Sciences	1
+2372	grid.461714.1	Medical and Health Sciences	1
+2373	grid.411097.a	Pharmacology and Pharmaceutical Sciences	1
+2374	grid.489350.3	Zero Hunger	1
+2375	grid.489350.3	Geology	1
+2376	grid.489350.3	Environmental Science and Management	1
+2377	grid.489350.3	Human Geography	1
+2378	grid.489350.3	Earth Sciences	1
+2379	grid.489350.3	Environmental Sciences	1
+2380	grid.489350.3	Studies in Human Society	1
+2381	grid.5361.1	Immunology	1
+2382	grid.5361.1	Medical and Health Sciences	1
+2383	grid.410712.1	Biochemistry and Cell Biology	1
+2384	grid.410712.1	Biological Sciences	1
+2385	grid.6582.9	Biochemistry and Cell Biology	1
+2386	grid.6582.9	Biological Sciences	1
+2387	grid.419547.a	Biochemistry and Cell Biology	1
+2388	grid.419547.a	Biological Sciences	1
+2389	grid.410569.f	Biochemistry and Cell Biology	1
+2390	grid.410569.f	Biological Sciences	1
+2391	grid.11835.3e	Psychology	1
+2392	grid.11835.3e	Psychology and Cognitive Sciences	1
+2393	grid.9481.4	Psychology	1
+2394	grid.9481.4	Psychology and Cognitive Sciences	1
+2395	grid.266685.9	Psychology	1
+2396	grid.266685.9	Psychology and Cognitive Sciences	1
+2397	grid.412835.9	Cardiorespiratory Medicine and Haematology	1
+2398	grid.412835.9	Medical and Health Sciences	1
+2399	grid.5949.1	Environmental Science and Management	1
+2400	grid.5949.1	Ecology	1
+2401	grid.5949.1	Environmental Sciences	1
+2402	grid.420545.2	Environmental Science and Management	1
+2403	grid.420545.2	Ecology	1
+2404	grid.420545.2	Environmental Sciences	1
+2405	grid.420545.2	Biological Sciences	1
+2406	grid.493323.c	Environmental Science and Management	1
+2407	grid.493323.c	Ecology	1
+2408	grid.493323.c	Environmental Sciences	1
+2409	grid.493323.c	Biological Sciences	1
+2410	grid.437665.5	Environmental Science and Management	1
+2411	grid.437665.5	Ecology	1
+2412	grid.437665.5	Environmental Sciences	1
+2413	grid.437665.5	Biological Sciences	1
+2414	grid.13648.38	Biochemistry and Cell Biology	1
+2415	grid.13648.38	Biological Sciences	1
+2416	grid.17635.36	Biochemistry and Cell Biology	1
+2417	grid.17635.36	Biological Sciences	1
+2418	grid.416438.c	Immunology	1
+2419	grid.275559.9	Immunology	1
+2420	grid.506467.6	Clinical Sciences	1
+2421	grid.506467.6	Medical and Health Sciences	1
+2422	grid.250221.6	Clinical Sciences	1
+2423	grid.250221.6	Medical and Health Sciences	1
+2424	grid.47100.32	Clinical Sciences	1
+2425	grid.420085.b	Clinical Sciences	1
+2426	grid.420085.b	Medical and Health Sciences	1
+2427	grid.5611.3	Clinical Sciences	1
+2428	grid.5611.3	Medical and Health Sciences	1
+2429	grid.7644.1	Clinical Sciences	1
+2430	grid.7644.1	Medical and Health Sciences	1
+2431	grid.411778.c	Cardiorespiratory Medicine and Haematology	1
+2432	grid.11702.35	Cardiorespiratory Medicine and Haematology	1
+2433	grid.11702.35	Medical and Health Sciences	1
+2434	grid.449475.f	Public Health and Health Services	1
+2435	grid.449475.f	Medical and Health Sciences	1
+2436	grid.412570.5	Public Health and Health Services	1
+2437	grid.412570.5	Medical and Health Sciences	1
+2438	grid.487248.5	Public Health and Health Services	1
+2439	grid.487248.5	Medical and Health Sciences	1
+2440	grid.7468.d	Public Health and Health Services	1
+2441	grid.6374.6	Artificial Intelligence and Image Processing	1
+2442	grid.6374.6	Information and Computing Sciences	1
+2443	grid.508721.9	Artificial Intelligence and Image Processing	1
+2444	grid.508721.9	Information and Computing Sciences	1
+2445	grid.5132.5	Artificial Intelligence and Image Processing	1
+2446	grid.5132.5	Information and Computing Sciences	1
+2447	grid.411760.5	Specialist Studies In Education	1
+2448	grid.411760.5	Education	1
+2449	grid.411097.a	Specialist Studies In Education	1
+2450	grid.411097.a	Education	1
+2451	grid.475435.4	Immunology	1
+2452	grid.14778.3d	Neurosciences	1
+2453	grid.6190.e	Neurosciences	1
+2454	grid.9024.f	Neurosciences	1
+2455	grid.10388.32	Neurosciences	1
+2456	grid.475756.2	Neurosciences	1
+2457	grid.22072.35	Zoology	1
+2458	grid.22072.35	Anthropology	1
+2459	grid.22072.35	Biological Sciences	1
+2460	grid.22072.35	Studies in Human Society	1
+2461	grid.507636.1	Zoology	1
+2462	grid.507636.1	Anthropology	1
+2463	grid.507636.1	Biological Sciences	1
+2464	grid.507636.1	Studies in Human Society	1
+2465	grid.8752.8	Zoology	1
+2466	grid.8752.8	Anthropology	1
+2467	grid.8752.8	Biological Sciences	1
+2468	grid.8752.8	Studies in Human Society	1
+2469	grid.137628.9	Zoology	1
+2470	grid.137628.9	Anthropology	1
+2471	grid.137628.9	Biological Sciences	1
+2472	grid.137628.9	Studies in Human Society	1
+2473	grid.421582.8	Zoology	1
+2474	grid.421582.8	Anthropology	1
+2475	grid.421582.8	Biological Sciences	1
+2476	grid.421582.8	Studies in Human Society	1
+2477	grid.4305.2	Zoology	1
+2478	grid.4305.2	Anthropology	1
+2479	grid.4305.2	Biological Sciences	1
+2480	grid.4305.2	Studies in Human Society	1
+2481	grid.418377.e	Zoology	1
+2482	grid.418377.e	Anthropology	1
+2483	grid.418377.e	Biological Sciences	1
+2484	grid.418377.e	Studies in Human Society	1
+2485	grid.453420.4	Zoology	1
+2486	grid.453420.4	Anthropology	1
+2487	grid.453420.4	Biological Sciences	1
+2488	grid.453420.4	Studies in Human Society	1
+2489	grid.417634.3	Zoology	1
+2490	grid.417634.3	Anthropology	1
+2491	grid.417634.3	Biological Sciences	1
+2492	grid.417634.3	Studies in Human Society	1
+2493	grid.39382.33	Zoology	1
+2494	grid.39382.33	Anthropology	1
+2495	grid.39382.33	Biological Sciences	1
+2496	grid.39382.33	Studies in Human Society	1
+2497	grid.5612.0	Zoology	1
+2498	grid.5612.0	Anthropology	1
+2499	grid.5612.0	Biological Sciences	1
+2500	grid.5612.0	Studies in Human Society	1
+2501	grid.267852.c	Zoology	1
+2502	grid.267852.c	Anthropology	1
+2503	grid.267852.c	Biological Sciences	1
+2504	grid.267852.c	Studies in Human Society	1
+2505	grid.134907.8	Zoology	1
+2506	grid.134907.8	Anthropology	1
+2507	grid.134907.8	Biological Sciences	1
+2508	grid.134907.8	Studies in Human Society	1
+2509	grid.419010.d	Zoology	1
+2510	grid.419010.d	Anthropology	1
+2511	grid.419010.d	Biological Sciences	1
+2512	grid.419010.d	Studies in Human Society	1
+2513	grid.21155.32	Zoology	1
+2514	grid.21155.32	Anthropology	1
+2515	grid.21155.32	Studies in Human Society	1
+2516	grid.185669.5	Zoology	1
+2517	grid.185669.5	Anthropology	1
+2518	grid.185669.5	Biological Sciences	1
+2519	grid.185669.5	Studies in Human Society	1
+2520	grid.7080.f	Zoology	1
+2521	grid.7080.f	Anthropology	1
+2522	grid.7080.f	Biological Sciences	1
+2523	grid.7080.f	Studies in Human Society	1
+2524	grid.11478.3b	Zoology	1
+2525	grid.11478.3b	Anthropology	1
+2526	grid.11478.3b	Biological Sciences	1
+2527	grid.11478.3b	Studies in Human Society	1
+2528	grid.414852.e	Clinical Sciences	1
+2529	grid.15895.30	Clinical Sciences	1
+2530	grid.22058.3d	Clinical Sciences	1
+2531	grid.413448.e	Clinical Sciences	1
+2532	grid.411107.2	Clinical Sciences	1
+2533	grid.5216.0	Clinical Sciences	1
+2534	grid.413363.0	Clinical Sciences	1
+2535	grid.10417.33	Clinical Sciences	1
+2536	grid.484013.a	Clinical Sciences	1
+2537	grid.416409.e	Clinical Sciences	1
+2538	grid.5734.5	Clinical Sciences	1
+2539	grid.425902.8	Clinical Sciences	1
+2540	grid.412180.e	Clinical Sciences	1
+2541	grid.454388.6	Clinical Sciences	1
+2542	grid.424065.1	Biochemistry and Cell Biology	1
+2543	grid.424065.1	Biological Sciences	1
+2544	grid.466493.a	Biochemistry and Cell Biology	1
+2545	grid.466493.a	Biological Sciences	1
+2546	grid.18785.33	Biochemistry and Cell Biology	1
+2547	grid.18785.33	Biological Sciences	1
+2548	grid.434729.f	Biochemistry and Cell Biology	1
+2549	grid.434729.f	Biological Sciences	1
+2550	grid.418481.0	Biochemistry and Cell Biology	1
+2551	grid.418481.0	Biological Sciences	1
+2552	grid.419538.2	Biochemistry and Cell Biology	1
+2553	grid.419538.2	Biological Sciences	1
+2554	grid.469852.4	Biochemistry and Cell Biology	1
+2555	grid.469852.4	Biological Sciences	1
+2556	grid.20861.3d	Biochemistry and Cell Biology	1
+2557	grid.20861.3d	Biological Sciences	1
+2558	grid.418010.c	Biochemistry and Cell Biology	1
+2559	grid.418010.c	Biological Sciences	1
+2560	grid.433620.0	Biochemistry and Cell Biology	1
+2561	grid.433620.0	Biological Sciences	1
+2562	grid.475756.2	Biochemistry and Cell Biology	1
+2563	grid.475756.2	Biological Sciences	1
+2564	grid.457168.9	Biochemistry and Cell Biology	1
+2565	grid.457168.9	Biological Sciences	1
+2566	grid.11375.31	Biochemistry and Cell Biology	1
+2567	grid.11375.31	Biological Sciences	1
+2568	grid.9122.8	Biochemistry and Cell Biology	1
+2569	grid.9122.8	Biological Sciences	1
+2570	grid.440768.9	Economics	1
+2571	grid.440768.9	Studies in Human Society	1
+2572	grid.9122.8	Studies in Human Society	1
+2573	grid.24516.34	Good Health and Well Being	1
+2574	grid.24516.34	Cardiorespiratory Medicine and Haematology	1
+2575	grid.411937.9	Good Health and Well Being	1
+2576	grid.411937.9	Cardiorespiratory Medicine and Haematology	1
+2577	grid.415250.7	Good Health and Well Being	1
+2578	grid.415250.7	Cardiorespiratory Medicine and Haematology	1
+2579	grid.476416.6	Good Health and Well Being	1
+2580	grid.476416.6	Cardiorespiratory Medicine and Haematology	1
+2581	grid.411527.4	Life on Land	1
+2582	grid.411527.4	Environmental Science and Management	1
+2583	grid.411527.4	Ecology	1
+2584	grid.411527.4	Law	1
+2585	grid.411527.4	Environmental Sciences	1
+2586	grid.411527.4	Biological Sciences	1
+2587	grid.411527.4	Law and Legal Studies	1
+2588	grid.13402.34	Life on Land	1
+2589	grid.13402.34	Environmental Science and Management	1
+2590	grid.13402.34	Ecology	1
+2591	grid.13402.34	Law	1
+2592	grid.13402.34	Environmental Sciences	1
+2593	grid.13402.34	Biological Sciences	1
+2594	grid.13402.34	Law and Legal Studies	1
+2595	grid.21155.32	Life on Land	1
+2596	grid.21155.32	Ecology	1
+2597	grid.21155.32	Law	1
+2598	grid.21155.32	Law and Legal Studies	1
+2599	grid.66741.32	Life on Land	1
+2600	grid.66741.32	Environmental Science and Management	1
+2601	grid.66741.32	Ecology	1
+2602	grid.66741.32	Law	1
+2603	grid.66741.32	Environmental Sciences	1
+2604	grid.66741.32	Biological Sciences	1
+2605	grid.66741.32	Law and Legal Studies	1
+2606	grid.216938.7	Life on Land	1
+2607	grid.216938.7	Environmental Science and Management	1
+2608	grid.216938.7	Ecology	1
+2609	grid.216938.7	Law	1
+2610	grid.216938.7	Environmental Sciences	1
+2611	grid.216938.7	Biological Sciences	1
+2612	grid.216938.7	Law and Legal Studies	1
+2613	grid.7492.8	Life on Land	1
+2614	grid.7492.8	Environmental Science and Management	1
+2615	grid.7492.8	Ecology	1
+2616	grid.7492.8	Law	1
+2617	grid.7492.8	Environmental Sciences	1
+2618	grid.7492.8	Biological Sciences	1
+2619	grid.7492.8	Law and Legal Studies	1
+2620	grid.415105.4	Data Format	1
+2621	grid.415105.4	Information Systems	1
+2622	grid.415105.4	Information and Computing Sciences	1
+2623	grid.7492.8	Geology	1
+2624	grid.7492.8	Earth Sciences	1
+2625	grid.459983.a	Geology	1
+2626	grid.459983.a	Earth Sciences	1
+2627	grid.7644.1	Geology	1
+2628	grid.7644.1	Earth Sciences	1
+2629	grid.1012.2	Geology	1
+2630	grid.1012.2	Earth Sciences	1
+2631	grid.5326.2	Geology	1
+2632	grid.5326.2	Earth Sciences	1
+2633	grid.15756.30	Geology	1
+2634	grid.15756.30	Earth Sciences	1
+2635	grid.6862.a	Geology	1
+2636	grid.6862.a	Earth Sciences	1
+2637	grid.1957.a	Geology	1
+2638	grid.1957.a	Earth Sciences	1
+2639	grid.489338.d	Clinical Sciences	1
+2640	grid.489338.d	Medical and Health Sciences	1
+2641	grid.8664.c	Physical Sciences	1
+2642	grid.8664.c	Chemical Sciences	1
+2643	grid.8664.c	Engineering	1
+2644	grid.411067.5	Astronomical and Space Sciences	1
+2645	grid.411067.5	Physical Sciences	1
+2646	grid.419820.6	Cardiorespiratory Medicine and Haematology	1
+2647	grid.419820.6	Medical and Health Sciences	1
+2648	grid.411668.c	Immunology	1
+2649	grid.418008.5	Immunology	1
+2650	grid.418008.5	Medical and Health Sciences	1
+2651	grid.7727.5	Immunology	1
+2652	grid.7727.5	Medical and Health Sciences	1
+2653	grid.7445.2	Immunology	1
+2654	grid.414796.9	Immunology	1
+2655	grid.411760.5	Cardiorespiratory Medicine and Haematology	1
+2656	grid.419808.c	Cardiorespiratory Medicine and Haematology	1
+2657	grid.419808.c	Medical and Health Sciences	1
+2658	grid.412468.d	Cardiorespiratory Medicine and Haematology	1
+2659	grid.462046.2	Cardiorespiratory Medicine and Haematology	1
+2660	grid.462046.2	Medical and Health Sciences	1
+2661	grid.412301.5	Cardiorespiratory Medicine and Haematology	1
+2662	grid.473749.a	Cardiorespiratory Medicine and Haematology	1
+2663	grid.473749.a	Medical and Health Sciences	1
+2664	grid.492119.6	Cardiorespiratory Medicine and Haematology	1
+2665	grid.492119.6	Medical and Health Sciences	1
+2666	grid.419757.9	Cardiorespiratory Medicine and Haematology	1
+2667	grid.419757.9	Medical and Health Sciences	1
+2668	grid.7489.2	Genetics	1
+2669	grid.7489.2	Biological Sciences	1
+2670	grid.250820.d	Genetics	1
+2671	grid.250820.d	Biological Sciences	1
+2672	grid.66875.3a	Genetics	1
+2673	grid.66875.3a	Oncology and Carcinogenesis	1
+2674	grid.66875.3a	Biological Sciences	1
+2675	grid.6734.6	Specialist Studies In Education	1
+2676	grid.6734.6	Education	1
+2677	grid.1003.2	Peace, Justice and Strong Institutions	1
+2678	grid.1003.2	Applied Economics	1
+2679	grid.1003.2	Economics	1
+2680	grid.10420.37	Peace, Justice and Strong Institutions	1
+2681	grid.10420.37	Applied Economics	1
+2682	grid.10420.37	Economics	1
+2683	grid.5252.0	Applied Economics	1
+2684	grid.5252.0	Economics	1
+2685	grid.413885.3	Biochemistry and Cell Biology	1
+2686	grid.413885.3	Biological Sciences	1
+2687	grid.410718.b	Biochemistry and Cell Biology	1
+2688	grid.410718.b	Biological Sciences	1
+2689	grid.34477.33	Biochemistry and Cell Biology	1
+2690	grid.185648.6	Good Health and Well Being	1
+2691	grid.185648.6	Immunology	1
+2692	grid.413558.e	Good Health and Well Being	1
+2693	grid.413558.e	Immunology	1
+2694	grid.413561.4	Good Health and Well Being	1
+2695	grid.413561.4	Immunology	1
+2696	grid.239578.2	Good Health and Well Being	1
+2697	grid.239578.2	Immunology	1
+2698	grid.152326.1	Good Health and Well Being	1
+2699	grid.152326.1	Immunology	1
+2700	grid.419518.0	Biochemistry and Cell Biology	1
+2701	grid.5801.c	Biochemistry and Cell Biology	1
+2702	grid.5801.c	Genetics	1
+2703	grid.5801.c	Biological Sciences	1
+2704	grid.458449.0	Biochemistry and Cell Biology	1
+2705	grid.458449.0	Genetics	1
+2706	grid.458449.0	Biological Sciences	1
+2707	grid.508836.0	Biochemistry and Cell Biology	1
+2708	grid.508836.0	Genetics	1
+2709	grid.508836.0	Biological Sciences	1
+2710	grid.484013.a	Cardiorespiratory Medicine and Haematology	1
+2711	grid.32224.35	Cardiorespiratory Medicine and Haematology	1
+2712	grid.454388.6	Medical Microbiology	1
+2713	grid.414852.e	Medical Microbiology	1
+2714	grid.15895.30	Medical Microbiology	1
+2715	grid.13097.3c	Medical Microbiology	1
+2716	grid.484013.a	Medical Microbiology	1
+2717	grid.412180.e	Medical Microbiology	1
+2718	grid.9613.d	Medical Microbiology	1
+2719	grid.275559.9	Medical Microbiology	1
+2720	grid.411107.2	Medical Microbiology	1
+2721	grid.10417.33	Medical Microbiology	1
+2722	grid.22058.3d	Medical Microbiology	1
+2723	grid.5253.1	Medical Microbiology	1
+2724	grid.7177.6	Medical Microbiology	1
+2725	grid.413448.e	Medical Microbiology	1
+2726	grid.452531.4	Medical Microbiology	1
+2727	grid.452531.4	Medical and Health Sciences	1
+2728	grid.416409.e	Medical Microbiology	1
+2729	grid.425902.8	Medical Microbiology	1
+2730	grid.5216.0	Medical Microbiology	1
+2731	grid.413363.0	Medical Microbiology	1
+2732	grid.7548.e	Medical Microbiology	1
+2733	grid.7548.e	Medical and Health Sciences	1
+2734	grid.4367.6	Biochemistry and Cell Biology	1
+2735	grid.4367.6	Biological Sciences	1
+2736	grid.38142.3c	Biochemistry and Cell Biology	1
+2737	grid.266102.1	Biochemistry and Cell Biology	1
+2738	grid.266100.3	Biochemistry and Cell Biology	1
+2739	grid.266100.3	Biological Sciences	1
+2740	grid.4305.2	Medical Microbiology	1
+2741	grid.411439.a	Medical Microbiology	1
+2742	grid.411439.a	Medical and Health Sciences	1
+2743	grid.416651.1	Medical Microbiology	1
+2744	grid.416651.1	Medical and Health Sciences	1
+2745	grid.5164.6	Analytical Chemistry	1
+2746	grid.5164.6	Distributed Computing	1
+2747	grid.5164.6	Electrical and Electronic Engineering	1
+2748	grid.5164.6	Chemical Sciences	1
+2749	grid.5164.6	Information and Computing Sciences	1
+2750	grid.5164.6	Engineering	1
+2751	grid.451312.0	Applied Economics	1
+2752	grid.451312.0	Demography	1
+2753	grid.451312.0	Economics	1
+2754	grid.451312.0	Studies in Human Society	1
+2755	grid.420318.c	Applied Economics	1
+2756	grid.420318.c	Demography	1
+2757	grid.420318.c	Economics	1
+2758	grid.420318.c	Studies in Human Society	1
+2759	grid.264933.9	Applied Economics	1
+2760	grid.264933.9	Demography	1
+2761	grid.264933.9	Economics	1
+2762	grid.264933.9	Studies in Human Society	1
+2763	grid.452146.0	Neurosciences	1
+2764	grid.452146.0	Medical and Health Sciences	1
+2765	grid.418818.c	Neurosciences	1
+2766	grid.418818.c	Medical and Health Sciences	1
+2767	grid.5253.1	Neurosciences	1
+2768	grid.412603.2	Neurosciences	1
+2769	grid.412603.2	Medical and Health Sciences	1
+2770	grid.272458.e	Neurosciences	1
+2771	grid.272458.e	Medical and Health Sciences	1
+2772	grid.22939.33	Biochemistry and Cell Biology	1
+2773	grid.22939.33	Biological Sciences	1
+2774	grid.4905.8	Biochemistry and Cell Biology	1
+2775	grid.4905.8	Biological Sciences	1
+2776	grid.4562.5	Artificial Intelligence and Image Processing	1
+2777	grid.4562.5	Information and Computing Sciences	1
+2778	grid.465313.6	Medicinal and Biomolecular Chemistry	1
+2779	grid.465313.6	Organic Chemistry	1
+2780	grid.465313.6	Theoretical and Computational Chemistry	1
+2781	grid.465313.6	Chemical Sciences	1
+2782	grid.448793.5	Built Environment and Design	1
+2783	grid.412563.7	Public Health and Health Services	1
+2784	grid.412563.7	Medical and Health Sciences	1
+2785	grid.14095.39	Public Health and Health Services	1
+2786	grid.8379.5	Public Health and Health Services	1
+2787	grid.9647.c	Public Health and Health Services	1
+2788	grid.7700.0	Public Health and Health Services	1
+2789	grid.433867.d	Public Health and Health Services	1
+2790	grid.452271.7	Public Health and Health Services	1
+2791	grid.452271.7	Medical and Health Sciences	1
+2792	grid.476313.4	Public Health and Health Services	1
+2793	grid.476313.4	Medical and Health Sciences	1
+2794	grid.5734.5	Applied Economics	1
+2795	grid.5734.5	Economics	1
+2796	grid.17091.3e	Good Health and Well Being	1
+2797	grid.17091.3e	Clinical Sciences	1
+2798	grid.17091.3e	Medical and Health Sciences	1
+2799	grid.411327.2	Good Health and Well Being	1
+2800	grid.273335.3	Public Health and Health Services	1
+2801	grid.273335.3	Medical and Health Sciences	1
+2802	grid.412966.e	Public Health and Health Services	1
+2803	grid.427918.1	Public Health and Health Services	1
+2804	grid.427918.1	Medical and Health Sciences	1
+2805	grid.214458.e	Public Health and Health Services	1
+2806	grid.214458.e	Medical and Health Sciences	1
+2807	grid.6363.0	Oncology and Carcinogenesis	1
+2808	grid.11598.34	Oncology and Carcinogenesis	1
+2809	grid.4444.0	Oncology and Carcinogenesis	1
+2810	grid.4444.0	Medical and Health Sciences	1
+2811	grid.484013.a	Oncology and Carcinogenesis	1
+2812	grid.1003.2	Life on Land	1
+2813	grid.1003.2	Linguistics	1
+2814	grid.1003.2	Language, Communication and Culture	1
+2815	grid.5335.0	Life on Land	1
+2816	grid.5335.0	Linguistics	1
+2817	grid.5335.0	Language, Communication and Culture	1
+2818	grid.136594.c	Life on Land	1
+2819	grid.136594.c	Linguistics	1
+2820	grid.136594.c	Language, Communication and Culture	1
+2821	grid.424945.a	Life on Land	1
+2822	grid.424945.a	Linguistics	1
+2823	grid.424945.a	Language, Communication and Culture	1
+2824	grid.7605.4	Life on Land	1
+2825	grid.7605.4	Linguistics	1
+2826	grid.7605.4	Language, Communication and Culture	1
+2827	grid.452927.f	Life on Land	1
+2828	grid.452927.f	Linguistics	1
+2829	grid.452927.f	Language, Communication and Culture	1
+2830	grid.31501.36	Life on Land	1
+2831	grid.31501.36	Linguistics	1
+2832	grid.31501.36	Language, Communication and Culture	1
+2833	grid.435540.3	Life on Land	1
+2834	grid.435540.3	Linguistics	1
+2835	grid.435540.3	Language, Communication and Culture	1
+2836	grid.1002.3	Life on Land	1
+2837	grid.1002.3	Linguistics	1
+2838	grid.1002.3	Language, Communication and Culture	1
+2839	grid.9026.d	Life on Land	1
+2840	grid.9026.d	Linguistics	1
+2841	grid.9026.d	Language, Communication and Culture	1
+2842	grid.450925.f	Life on Land	1
+2843	grid.450925.f	Linguistics	1
+2844	grid.450925.f	Language, Communication and Culture	1
+2845	grid.15876.3d	Life on Land	1
+2846	grid.15876.3d	Linguistics	1
+2847	grid.15876.3d	Language, Communication and Culture	1
+2848	grid.26999.3d	Life on Land	1
+2849	grid.26999.3d	Linguistics	1
+2850	grid.26999.3d	Language, Communication and Culture	1
+2851	grid.7362.0	Life on Land	1
+2852	grid.7362.0	Linguistics	1
+2853	grid.7362.0	Language, Communication and Culture	1
+2854	grid.9435.b	Life on Land	1
+2855	grid.9435.b	Linguistics	1
+2856	grid.9435.b	Language, Communication and Culture	1
+2857	grid.507516.0	Life on Land	1
+2858	grid.507516.0	Linguistics	1
+2859	grid.507516.0	Language, Communication and Culture	1
+2860	grid.7445.2	Life on Land	1
+2861	grid.7445.2	Linguistics	1
+2862	grid.7445.2	Language, Communication and Culture	1
+2863	grid.466790.a	Life on Land	1
+2864	grid.466790.a	Linguistics	1
+2865	grid.466790.a	Language, Communication and Culture	1
+2866	grid.412352.3	Life on Land	1
+2867	grid.412352.3	Linguistics	1
+2868	grid.412352.3	Language, Communication and Culture	1
+2869	grid.411959.1	Life on Land	1
+2870	grid.411959.1	Linguistics	1
+2871	grid.411959.1	Language, Communication and Culture	1
+2872	grid.189504.1	Life on Land	1
+2873	grid.189504.1	Linguistics	1
+2874	grid.189504.1	Language, Communication and Culture	1
+2875	grid.418275.d	Life on Land	1
+2876	grid.418275.d	Linguistics	1
+2877	grid.418275.d	Language, Communication and Culture	1
+2878	grid.9983.b	Life on Land	1
+2879	grid.9983.b	Linguistics	1
+2880	grid.9983.b	Language, Communication and Culture	1
+2881	grid.433534.6	Life on Land	1
+2882	grid.433534.6	Linguistics	1
+2883	grid.433534.6	Language, Communication and Culture	1
+2884	grid.17089.37	Life on Land	1
+2885	grid.17089.37	Linguistics	1
+2886	grid.17089.37	Language, Communication and Culture	1
+2887	grid.267625.2	Life on Land	1
+2888	grid.267625.2	Linguistics	1
+2889	grid.267625.2	Language, Communication and Culture	1
+2890	grid.4991.5	Life on Land	1
+2891	grid.4991.5	Linguistics	1
+2892	grid.4991.5	Language, Communication and Culture	1
+2893	grid.7122.6	Life on Land	1
+2894	grid.7122.6	Linguistics	1
+2895	grid.7122.6	Language, Communication and Culture	1
+2896	grid.35915.3b	Life on Land	1
+2897	grid.35915.3b	Linguistics	1
+2898	grid.35915.3b	Language, Communication and Culture	1
+2899	grid.1021.2	Life on Land	1
+2900	grid.1021.2	Linguistics	1
+2901	grid.1021.2	Language, Communication and Culture	1
+2902	grid.411269.9	Life on Land	1
+2903	grid.411269.9	Linguistics	1
+2904	grid.411269.9	Language, Communication and Culture	1
+2905	grid.12981.33	Life on Land	1
+2906	grid.12981.33	Linguistics	1
+2907	grid.12981.33	Language, Communication and Culture	1
+2908	grid.434729.f	Information Systems	1
+2909	grid.434729.f	Information and Computing Sciences	1
+2910	grid.9647.c	Information Systems	1
+2911	grid.9647.c	Information and Computing Sciences	1
+2912	grid.418465.a	Information Systems	1
+2913	grid.418465.a	Information and Computing Sciences	1
+2914	grid.424699.4	Information Systems	1
+2915	grid.63984.30	Information Systems	1
+2916	grid.63984.30	Information and Computing Sciences	1
+2917	grid.484013.a	Information Systems	1
+2918	grid.484013.a	Information and Computing Sciences	1
+2919	grid.484013.a	Public Health and Health Services	1
+2920	grid.440943.e	Public Health and Health Services	1
+2921	grid.440943.e	Medical and Health Sciences	1
+2922	grid.6738.a	Sociology	1
+2923	grid.6738.a	Studies in Human Society	1
+2924	grid.10772.33	Public Health and Health Services	1
+2925	grid.10772.33	Medical and Health Sciences	1
+2926	grid.263906.8	Good Health and Well Being	1
+2927	grid.263906.8	Immunology	1
+2928	grid.263906.8	Medical Microbiology	1
+2929	grid.263906.8	Medical and Health Sciences	1
+2930	grid.20561.30	Good Health and Well Being	1
+2931	grid.20561.30	Immunology	1
+2932	grid.20561.30	Medical Microbiology	1
+2933	grid.20561.30	Medical and Health Sciences	1
+2934	grid.458449.0	Good Health and Well Being	1
+2935	grid.458449.0	Immunology	1
+2936	grid.458449.0	Medical Microbiology	1
+2937	grid.458449.0	Medical and Health Sciences	1
+2938	grid.10493.3f	Clinical Sciences	1
+2939	grid.452235.7	Clinical Sciences	1
+2940	grid.6582.9	Immunology	1
+2941	grid.469827.6	Affordable and Clean Energy	1
+2942	grid.469827.6	Climate Action	1
+2943	grid.443245.0	Sustainable Cities and Communities	1
+2944	grid.443245.0	Built Environment and Design	1
+2945	grid.411760.5	Medical Microbiology	1
+2946	grid.48769.34	Neurosciences	1
+2947	grid.48769.34	Medical and Health Sciences	1
+2948	grid.6612.3	Neurosciences	1
+2949	grid.410567.1	Neurosciences	1
+2950	grid.433220.4	Neurosciences	1
+2951	grid.433220.4	Medical and Health Sciences	1
+2952	grid.50956.3f	Neurosciences	1
+2953	grid.50956.3f	Medical and Health Sciences	1
+2954	grid.21107.35	Neurosciences	1
+2955	grid.461772.1	Banking, Finance and Investment	1
+2956	grid.461772.1	Commerce, Management, Tourism and Services	1
+2957	grid.5963.9	Immunology	1
+2958	grid.5963.9	Neurosciences	1
+2959	grid.7708.8	Immunology	1
+2960	grid.7708.8	Neurosciences	1
+2961	grid.7700.0	Immunology	1
+2962	grid.418217.9	Immunology	1
+2963	grid.418217.9	Neurosciences	1
+2964	grid.418217.9	Medical and Health Sciences	1
+2965	grid.417834.d	Immunology	1
+2966	grid.417834.d	Neurosciences	1
+2967	grid.417834.d	Medical and Health Sciences	1
+2968	grid.5155.4	Physical Geography and Environmental Geoscience	1
+2969	grid.5155.4	Environmental Science and Management	1
+2970	grid.5155.4	Earth Sciences	1
+2971	grid.5155.4	Environmental Sciences	1
+2972	grid.461644.5	Physical Geography and Environmental Geoscience	1
+2973	grid.461644.5	Environmental Science and Management	1
+2974	grid.461644.5	Earth Sciences	1
+2975	grid.461644.5	Environmental Sciences	1
+2976	grid.415033.0	Oncology and Carcinogenesis	1
+2977	grid.16149.3b	Oncology and Carcinogenesis	1
+2978	grid.5734.5	Oncology and Carcinogenesis	1
+2979	grid.459693.4	Immunology	1
+2980	grid.459693.4	Medical and Health Sciences	1
+2981	grid.452463.2	Peace, Justice and Strong Institutions	1
+2982	grid.452463.2	Public Health and Health Services	1

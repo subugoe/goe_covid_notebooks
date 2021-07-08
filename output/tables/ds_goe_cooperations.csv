@@ -1,0 +1,851 @@
+	affiliation_name	affiliation_city	affiliation_country	nr_of_cooperations
+0	Charité - University Medicine Berlin	Berlin	Germany	37
+1	Hannover Medical School	Hanover	Germany	37
+2	University of Erlangen-Nuremberg	Erlangen	Germany	23
+3	Ludwig-Maximilians-Universität München	Munich	Germany	18
+4	Jena University Hospital	Jena	Germany	18
+5	University of Lübeck	Lübeck	Germany	17
+6	University Hospital Heidelberg	Heidelberg	Germany	16
+7	University Medical Center Hamburg-Eppendorf	Hamburg	Germany	16
+8	TU Dresden	Dresden	Germany	16
+9	Technical University of Munich	Munich	Germany	16
+10	University of Oxford	Oxford	United Kingdom	16
+11	University Hospital Münster	Münster	Germany	16
+12	University Hospital Carl Gustav Carus	Dresden	Germany	15
+13	University of Minnesota	Minneapolis	United States	15
+14	Medical University of Vienna	Vienna	Austria	15
+15	University Hospital Würzburg	Wurzburg	Germany	15
+16	University of Milan	Milan	Italy	14
+17	German Center for Infection Research	Braunschweig	Germany	13
+18	King's College London	London	United Kingdom	13
+19	University Hospital Cologne	Cologne	Germany	13
+20	University of Giessen	Giessen	Germany	13
+21	University of Washington	Seattle	United States	12
+22	University of Duisburg-Essen	Essen	Germany	12
+23	Harvard University	Cambridge	United States	12
+24	University Hospital Ulm	Ulm	Germany	12
+25	Saarland University	Saarbrücken	Germany	12
+26	University Hospital Leipzig	Leipzig	Germany	11
+27	University of Zurich	Zurich	Switzerland	11
+28	Philipp University of Marburg	Marburg	Germany	11
+29	University of Würzburg	Wurzburg	Germany	11
+30	University of Rostock	Rostock	Germany	11
+31	Ruhr University Bochum	Bochum	Germany	10
+32	University Hospital in Halle	Halle	Germany	10
+33	Düsseldorf University Hospital	Düsseldorf	Germany	10
+34	Humboldt-Universität zu Berlin	Berlin	Germany	9
+35	German Cancer Society	Berlin	Germany	9
+36	National and Kapodistrian University of Athens	Athens	Greece	9
+37	University Medical Center of the Johannes Gutenberg University Mainz	Mainz	Germany	9
+38	RWTH Aachen University	Aachen	Germany	9
+39	University of Cologne	Cologne	Germany	9
+40	University Hospital of Zurich	Zurich	Switzerland	9
+41	Berlin Institute of Health at Charité - Universitätsmedizin Berlin	Berlin	Germany	9
+42	Essen University Hospital	Essen	Germany	9
+43	University of Bern	Bern	Switzerland	8
+44	LMU Klinikum	Munich	Germany	8
+45	Witten/Herdecke University	Witten	Germany	8
+46	University Hospital Schleswig-Holstein	Kiel	Germany	8
+47	Washington University in St. Louis	St Louis	United States	8
+48	Beth Israel Deaconess Medical Center	Boston	United States	8
+49	University of Tübingen	Tübingen	Germany	8
+50	Fraunhofer Institute for Molecular Biology and Applied Ecology	Schmallenberg	Germany	8
+51	Universitätsklinikum Erlangen	Erlangen	Germany	8
+52	London School of Hygiene & Tropical Medicine	London	United Kingdom	8
+53	Schwarzwald-Baar Klinikum	Villingen-Schwenningen	Germany	8
+54	University Hospital of Basel	Basel	Switzerland	8
+55	Luigi Sacco Hospital	Milan	Italy	8
+56	University of Freiburg	Freiburg	Germany	8
+57	University of Kassel	Kassel	Germany	8
+58	University of Cincinnati	Cincinnati	United States	8
+59	Universitätsklinikum Aachen	Aachen	Germany	7
+60	Ospedale San Paolo	Milan	Italy	7
+61	University of Greifswald	Greifswald	Germany	7
+62	Stanford University	Stanford	United States	7
+63	University of Queensland	Brisbane	Australia	7
+64	University College London	London	United Kingdom	7
+65	Rigshospitalet	Copenhagen	Denmark	7
+66	Zentrum für Rhinologie und Allergologie	Wiesbaden	Germany	7
+67	University of Bonn	Bonn	Germany	7
+68	Helmholtz Zentrum München	Munich	Germany	7
+69	Imperial College London	London	United Kingdom	7
+70	Karolinska Institute	Stockholm	Sweden	7
+71	University of Münster	Münster	Germany	7
+72	Leipzig University	Leipzig	Germany	7
+73	Robert Koch Institute	Berlin	Germany	6
+74	University Hospital Bonn	Bonn	Germany	6
+75	Johannes Gutenberg University of Mainz	Mainz	Germany	6
+76	Brigham and Women's Hospital	Boston	United States	6
+77	Sorbonne University	Paris	France	6
+78	Johns Hopkins University	Baltimore	United States	6
+79	KU Leuven	Leuven	Belgium	6
+80	University of Paris	Paris	France	6
+81	Universität Hamburg	Hamburg	Germany	6
+82	University of Vienna	Vienna	Austria	6
+83	Monash University	Melbourne	Australia	6
+84	University Hospital Augsburg	Augsburg	Germany	6
+85	University Hospital Frankfurt	Frankfurt am Main	Germany	6
+86	University of Brescia	Brescia	Italy	6
+87	German Centre for Cardiovascular Research	Berlin	Germany	6
+88	Wrocław Medical University	Wrocław	Poland	6
+89	BGI Group (China)	Shenzhen	China	6
+90	Medical University of Graz	Graz	Austria	6
+91	University of Augsburg	Augsburg	Germany	6
+92	German Center for Neurodegenerative Diseases	Bonn	Germany	6
+93	Sankt-Antonius-Hospital Eschweiler	Eschweiler	Germany	6
+94	University of Edinburgh	Edinburgh	United Kingdom	6
+95	Maastricht University Medical Centre	Maastricht	Netherlands	6
+96	Rockefeller University	New York	United States	5
+97	Boston University	Boston	United States	5
+98	University Hospital Regensburg	Regensburg	Germany	5
+99	Ghent University	Ghent	Belgium	5
+100	Northwestern University	Evanston	United States	5
+101	Mayo Clinic	Rochester	United States	5
+102	Radboud University Nijmegen Medical Centre	Nijmegen	Netherlands	5
+103	University of Amsterdam	Amsterdam	Netherlands	5
+104	Deutsches Elektronen-Synchrotron DESY	Hamburg	Germany	5
+105	Leibniz University Hannover	Hanover	Germany	5
+106	Universidade de São Paulo	São Paulo	Brazil	5
+107	Kiel University	Kiel	Germany	5
+108	Universitätsklinikum Tübingen	Tübingen	Germany	5
+109	University of Mississippi Medical Center	Jackson	United States	5
+110	University of Glasgow	Glasgow	United Kingdom	5
+111	University Medical Center Groningen	Groningen	Netherlands	5
+112	San Raffaele Hospital	Milan	Italy	5
+113	Aarhus University	Aarhus	Denmark	5
+114	Aarhus University Hospital	Aarhus	Denmark	5
+115	University of Copenhagen	Copenhagen	Denmark	5
+116	Rechts der Isar Hospital	Munich	Germany	5
+117	University of Michigan–Ann Arbor	Ann Arbor	United States	5
+118	University of Ulm	Ulm	Germany	5
+119	University Medical Center Freiburg	Freiburg	Germany	5
+120	Heinrich Heine University Düsseldorf	Düsseldorf	Germany	5
+121	Hasselt University	Hasselt	Belgium	5
+122	Swansea University	Swansea	United Kingdom	5
+123	Queen Mary University of London	London	United Kingdom	5
+124	Paracelsus Elena Klinik Kassel	Kassel	Germany	5
+125	University Hospital of Geneva	Geneva	Switzerland	5
+126	Universitätsklinikum des Saarlandes	Homburg	Germany	5
+127	Bundeswehrkrankenhaus	Hamburg	Germany	5
+128	Massachusetts General Hospital	Boston	United States	5
+129	Tel Aviv University	Tel Aviv	Israel	5
+130	University of Veterinary Medicine Hannover, Foundation	Hanover	Germany	4
+131	University of Illinois Urbana-Champaign	Urbana	United States	4
+132	The University of Texas Southwestern Medical Center	Dallas	United States	4
+133	Vivantes Klinikum	Berlin	Germany	4
+134	Nuremberg Hospital	Nuremberg	Germany	4
+135	Universitätsklinikum Gießen und Marburg	Giessen	Germany	4
+136	Hospital for Special Surgery	New York	United States	4
+137	Scientific University of the South	Lima	Peru	4
+138	University of Cape Town	Rondebosch	South Africa	4
+139	University of Melbourne	Melbourne	Australia	4
+140	Cleveland Clinic	Cleveland	United States	4
+141	Vanderbilt University	Nashville	United States	4
+142	European X-Ray Free-Electron Laser	Hamburg	Germany	4
+143	Wake Forest University	Winston-Salem	United States	4
+144	Université Libre de Bruxelles	Brussels	Belgium	4
+145	University of Calgary	Calgary	Canada	4
+146	Baylor College of Medicine	Houston	United States	4
+147	University of California, San Francisco	San Francisco	United States	4
+148	University of Toronto	Toronto	Canada	4
+149	University of Warwick	Coventry	United Kingdom	4
+150	Ruhrlandklinik	Essen	Germany	4
+151	University of British Columbia	Vancouver	Canada	4
+152	Klinikum Ludwigshafen	Ludwigshafen am Rhein	Germany	4
+153	University of Rome Tor Vergata	Rome	Italy	4
+154	Wageningen University & Research	Wageningen	Netherlands	4
+155	Yale University	New Haven	United States	4
+156	Klinikum Görlitz	Görlitz	Germany	4
+157	Medical University of South Carolina	Charleston	United States	4
+158	University of Cambridge	Cambridge	United Kingdom	4
+159	Seoul National University	Seoul	South Korea	4
+160	Memorial Sloan Kettering Cancer Center	New York	United States	4
+161	Icahn School of Medicine at Mount Sinai	New York	United States	4
+162	University of Trento	Trento	Italy	4
+163	University of Florence	Florence	Italy	4
+164	University of Naples Federico II	Naples	Italy	4
+165	London School of Economics and Political Science	London	United Kingdom	4
+166	Technical University of Berlin	Berlin	Germany	4
+167	Karolinska University Hospital	Stockholm	Sweden	4
+168	Instituto de Salud Carlos III	Madrid	Spain	4
+169	Federal Food Safety and Veterinary Office	Bern	Switzerland	3
+170	Ospedale di Parma	Parma	Italy	3
+171	McMaster University	Hamilton	Canada	3
+172	University of Otago	Dunedin	New Zealand	3
+173	Cornell University	Ithaca	United States	3
+174	Bernhard Nocht Institute for Tropical Medicine	Hamburg	Germany	3
+175	Center for Free-Electron Laser Science	Hamburg	Germany	3
+176	Diamond Light Source	Didcot	United Kingdom	3
+177	Max Planck Institute for Molecular Genetics	Berlin	Germany	3
+178	California Institute of Technology	Pasadena	United States	3
+179	Max Planck Institute for the Structure and Dynamics of Matter	Hamburg	Germany	3
+180	Heinrich-Pette-Institute	Hamburg	Germany	3
+181	Centre of Excellence for Integrated Approaches in Chemistry and Biology of Proteins	Ljubljana	Slovenia	3
+182	New York University	New York	United States	3
+183	ETH Zurich	Zurich	Switzerland	3
+184	Bispebjerg Hospital	Copenhagen	Denmark	3
+185	Klinik und Poliklinik für Neurologie	Cologne	Germany	3
+186	Friedrich Schiller University Jena	Jena	Germany	3
+187	The Ohio State University	Columbus	United States	3
+188	Centro de Biología Molecular Severo Ochoa	Madrid	Spain	3
+189	Children's Hospital of Eastern Ontario	Ottawa	Canada	3
+190	University of Ottawa	Ottawa	Canada	3
+191	Istituto Pasteur	Rome	Italy	3
+192	Allergiezentrum Wien West	Vienna	Austria	3
+193	University Hospital of Lausanne	Lausanne	Switzerland	3
+194	University of Geneva	Geneva	Switzerland	3
+195	Inserm	Paris	France	3
+196	University of Reading	Reading	United Kingdom	3
+197	University of Tartu	Tartu	Estonia	3
+198	Helsinki University Hospital	Helsinki	Finland	3
+199	University of Sheffield	Sheffield	United Kingdom	3
+200	University of Bologna	Bologna	Italy	3
+201	Centro Cardiologico Monzino	Milan	Italy	3
+202	Deutsche Multiple Sklerose Gesellschaft	Hanover	Germany	3
+203	Deutsche Gesellschaft für Gefäßchirurgie und Gefäßmedizin	Berlin	Germany	3
+204	HKU-Pasteur Research Pole	Hong Kong	China	3
+205	Princess Margaret Hospital	Hong Kong	China	3
+206	Scripps Research Institute	San Diego	United States	3
+207	University of Hong Kong	Hong Kong	China	3
+208	Helmholtz Centre for Environmental Research	Leipzig	Germany	3
+209	Helios Universitätsklinikum Wuppertal	Wuppertal	Germany	3
+210	University Hospital Magdeburg	Magdeburg	Germany	3
+211	Hospital for Sick Children	Toronto	Canada	3
+212	Google (United States)	Mountain View	United States	3
+213	Freie Universität Berlin	Berlin	Germany	3
+214	Deutsche Gesellschaft für Urologie	Düsseldorf	Germany	3
+215	General University Hospital in Prague	Prague	Czechia	3
+216	Emory University	Atlanta	United States	3
+217	University of Miami	Coral Gables	United States	3
+218	Goethe University Frankfurt	Frankfurt am Main	Germany	3
+219	Sapienza University of Rome	Rome	Italy	3
+220	Guy's and St Thomas' NHS Foundation Trust	London	United Kingdom	3
+221	University Medical Center Utrecht	Utrecht	Netherlands	3
+222	Sana Klinikum Offenbach	Offenbach	Germany	3
+223	University of Basel	Basel	Switzerland	3
+224	University of Western Australia	Perth	Australia	3
+225	Duke University	Durham	United States	3
+226	King's College Hospital	London	United Kingdom	3
+227	Medical University of Lodz	Łódź	Poland	3
+228	European Molecular Biology Laboratory	Hamburg	Germany	3
+229	Jožef Stefan Institute	Ljubljana	Slovenia	3
+230	Heidelberg University	Heidelberg	Germany	3
+231	Complexity Science Hub Vienna	Vienna	Austria	3
+232	University of Maribor	Maribor	Slovenia	3
+233	University of Warsaw	Warsaw	Poland	3
+234	University Medical Centre Mannheim	Mannheim	Germany	3
+235	University of Turin	Turin	Italy	3
+236	University of Luxembourg	Luxembourg	Luxembourg	3
+237	Institució Catalana de Recerca i Estudis Avançats	Barcelona	Spain	3
+238	University of California, San Diego	San Diego	United States	3
+239	Fraunhofer Institute for Material Flow and Logistics	Dortmund	Germany	3
+240	Cairo University	Giza	Egypt	2
+241	Berufsgenossenschaftliche Unfallklinik Murnau	Murnau am Staffelsee	Germany	2
+242	Loyola University Chicago	Chicago	United States	2
+243	Greifswald University Hospital	Greifswald	Germany	2
+244	Sozialstiftung Bamberg	Bamberg	Germany	2
+245	The University of Texas at Austin	Austin	United States	2
+246	National Institute of Allergy and Infectious Diseases	Bethesda	United States	2
+247	Dartmouth College	Hanover	United States	2
+248	Vlaams Instituut voor Biotechnologie	Ghent	Belgium	2
+249	University of Milano-Bicocca	Milan	Italy	2
+250	University of Split	Split	Croatia	2
+251	University of Nottingham	Nottingham	United Kingdom	2
+252	University of Southern Denmark	Odense	Denmark	2
+253	University of Cagliari	Cagliari	Italy	2
+254	Helmholtz Centre for Infection Research	Braunschweig	Germany	2
+255	University of Illinois at Chicago	Chicago	United States	2
+256	Virginia Commonwealth University	Richmond	United States	2
+257	University of Cincinnati Medical Center	Cincinnati	United States	2
+258	University of Siena	Siena	Italy	2
+259	University of Padua	Padova	Italy	2
+260	Universitair Ziekenhuis Leuven	Leuven	Belgium	2
+261	Albany Medical Center Hospital	Albany	United States	2
+262	Kinderkrankenhaus auf der Bult	Hanover	Germany	2
+263	Bundeswehr Medical Service Academy	Munich	Germany	2
+264	University of Potsdam	Potsdam	Germany	2
+265	City College of New York	New York	United States	2
+266	University of Coimbra	Coimbra	Portugal	2
+267	Centre for Addiction and Mental Health	Toronto	Canada	2
+268	UNSW Sydney	Sydney	Australia	2
+269	Max Planck Institute for Human Cognitive and Brain Sciences	Leipzig	Germany	2
+270	Fondazione Santa Lucia	Rome	Italy	2
+271	BG University Hospital Bergmannsheil GmbH	Bochum	Germany	2
+272	Hermann-Josef-Krankenhaus Erkelenz	Erkelenz	Germany	2
+273	University of Alberta	Edmonton	Canada	2
+274	Duke University Hospital	Durham	United States	2
+275	Fu Wai Hospital	Beijing	China	2
+276	University College Cork	Cork	Ireland	2
+277	University of Helsinki	Helsinki	Finland	2
+278	Finnish Institute for Health and Welfare	Helsinki	Finland	2
+279	Zhejiang University	Hangzhou	China	2
+280	National University of Singapore	Singapore	Singapore	2
+281	Kantonsspital Graubünden	Chur	Switzerland	2
+282	University of Oslo	Oslo	Norway	2
+283	Novartis (Switzerland)	Basel	Switzerland	2
+284	Lancaster University	Lancaster	United Kingdom	2
+285	Centre de Recherche des Cordeliers	Paris	France	2
+286	l'Hôpital Pontchaillou	Rennes	France	2
+287	Centro de Educación Médica e Investigaciones Clínicas Norberto Quirno	Buenos Aires	Argentina	2
+288	University of Tasmania	Hobart	Australia	2
+289	São Paulo State University	São Paulo	Brazil	2
+290	Hospital Ramos Mejía	Buenos Aires	Argentina	2
+291	Hospital Británico de Buenos Aires	Buenos Aires	Argentina	2
+292	Kliniken Maria Hilf	Mönchengladbach	Germany	2
+293	Klinikum Ingolstadt	Ingolstadt	Germany	2
+294	Fox Chase Cancer Center	Philadelphia	United States	2
+295	Medizin Campus Bodensee	Friedrichshafen	Germany	2
+296	Boston Children's Hospital	Boston	United States	2
+297	University of Alabama at Birmingham	Birmingham	United States	2
+298	Temple University	Philadelphia	United States	2
+299	Ono Pharmaceutical (Japan)	Osaka	Japan	2
+300	Cold Spring Harbor Laboratory	Cold Spring Harbor	United States	2
+301	Otto-von-Guericke University Magdeburg	Magdeburg	Germany	2
+302	Marienkrankenhaus Hamburg	Hamburg	Germany	2
+303	Ain Shams University	Cairo	Egypt	2
+304	Thomas Jefferson University Hospital	Philadelphia	United States	2
+305	University of Tennessee Health Science Center	Memphis	United States	2
+306	West Virginia University	Morgantown	United States	2
+307	University of Virginia	Charlottesville	United States	2
+308	The University of Texas Health Science Center at San Antonio	San Antonio	United States	2
+309	University Hospital of Wales	Cardiff	United Kingdom	2
+310	German Cancer Research Center	Heidelberg	Germany	2
+311	Humanitas Gavazzeni	Bergamo	Italy	2
+312	Ankara University	Ankara	Turkey	2
+313	Kepler Universitätsklinikum	Linz	Austria	2
+314	St. Josefs Hospital	Wiesbaden	Germany	2
+315	Paul Sabatier University	Toulouse	France	2
+316	Federation of American Scientists	Washington D.C.	United States	2
+317	University of Bath	Bath	United Kingdom	2
+318	Ben-Gurion University of the Negev	Beersheba	Israel	2
+319	Sechenov University	Moscow	Russia	2
+320	University of Sydney	Sydney	Australia	2
+321	Columbia University	New York	United States	2
+322	Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico	Milan	Italy	2
+323	Hospital de Sant Pau	Barcelona	Spain	2
+324	University of Sussex	Brighton	United Kingdom	2
+325	Rega Institute for Medical Research	Leuven	Belgium	2
+326	Vifor Pharma (Switzerland)	Glattbrugg	Switzerland	2
+327	Hadassah Medical Center	Jerusalem	Israel	2
+328	National University of Córdoba	Córdoba	Argentina	2
+329	University Hospital Centre Zagreb	Zagreb	Croatia	2
+330	Skåne University Hospital	Lund	Sweden	2
+331	"National Scientific Center ""M.D. Strazhesko Institute of Cardiology"""	Kyiv	Ukraine	2
+332	Hospital Universitario Virgen de la Arrixaca	Murcia	Spain	2
+333	National Heart Centre Singapore	Singapore	Singapore	2
+334	American University of Beirut	Beirut	Lebanon	2
+335	Carmel Medical Center	Haifa	Israel	2
+336	Bellvitge University Hospital	Barcelona	Spain	2
+337	Hôpital Européen Georges-Pompidou	Paris	France	2
+338	Dompé (Italy)	Milan	Italy	2
+339	Leuphana University of Lüneburg	Lüneburg	Germany	2
+340	Karlsruhe Institute of Technology	Karlsruhe	Germany	2
+341	Technische Universität Braunschweig	Braunschweig	Germany	2
+342	Koç University	Istanbul	Turkey	2
+343	McGill University Health Centre	Montreal	Canada	2
+344	University of Barcelona	Barcelona	Spain	2
+345	Max Planck Institute for Evolutionary Anthropology	Leipzig	Germany	2
+346	Heidelberg Institute for Theoretical Studies	Heidelberg	Germany	2
+347	Südharz Klinikum	Nordhausen	Germany	2
+348	Städtisches Klinikum Solingen	Solingen	Germany	2
+349	University of Malta	Imsida	Malta	2
+350	Dublin City University	Dublin	Ireland	2
+351	Francis Hospital	Bielefeld	Germany	2
+352	Helios Dr. Horst Schmidt Kliniken Wiesbaden	Wiesbaden	Germany	2
+353	Institut Pasteur de Dakar	Dakar	Senegal	2
+354	Alb Fils Kliniken	Göppingen	Germany	2
+355	Universitätskliniken Salzburg	Salzburg	Austria	2
+356	University Hospital of Bern	Bern	Switzerland	2
+357	St. Marien-Hospital Bonn	Bonn	Germany	2
+358	Universitätsmedizin Rostock	Rostock	Germany	2
+359	Institute of Evolutionary Biology	Barcelona	Spain	2
+360	University of Salford	Salford	United Kingdom	2
+361	North Carolina Museum of Natural Sciences	Raleigh	United States	2
+362	Genome Institute of Singapore	Singapore	Singapore	2
+363	SingHealth	Singapore	Singapore	2
+364	Centre for Cellular and Molecular Biology	Hyderabad	India	2
+365	Pompeu Fabra University	Barcelona	Spain	2
+366	Kunming Institute of Zoology	Kunming	China	2
+367	Illumina (United States)	San Diego	United States	2
+368	Centre for Genomic Regulation	Barcelona	Spain	2
+369	Deakin University	Geelong	Australia	2
+370	Stockholm University	Stockholm	Sweden	2
+371	Kyoto University	Kyoto	Japan	2
+372	University of Pavia	Pavia	Italy	2
+373	St James's University Hospital	Leeds	United Kingdom	2
+374	VU University Medical Center	Amsterdam	Netherlands	2
+375	Universidade Federal do Ceará	Fortaleza	Brazil	2
+376	Democritus University of Thrace	Komotini	Greece	2
+377	Hospital Israelita Albert Einstein	São Paulo	Brazil	2
+378	Gifu Municipal Hospital	Gifu City	Japan	2
+379	Kobe City Medical Center General Hospital	Kobe	Japan	2
+380	Gifu University	Gifu City	Japan	2
+381	King Chulalongkorn Memorial Hospital	Bangkok	Thailand	2
+382	University of Rochester Medical Center	Rochester	United States	2
+383	Institute of Haematology and Blood Transfusion	Prague	Czechia	2
+384	Humanitas University	Rozzano	Italy	2
+385	University of York	York	United Kingdom	2
+386	Dana-Farber Cancer Institute	Boston	United States	2
+387	University of Tsukuba	Tsukuba	Japan	2
+388	Nagasaki University	Nagasaki	Japan	2
+389	Policlinico S.Orsola-Malpighi	Bologna	Italy	2
+390	Hospital Universitari i Politècnic La Fe	Valencia	Spain	2
+391	Howard Hughes Medical Institute	Chevy Chase	United States	2
+392	Autonomous University of Barcelona	Cerdanyola del Vallès	Spain	2
+393	FOM University of Applied Sciences for Economics and Management	Essen	Germany	2
+394	St Josef Hospital	Bochum	Germany	2
+395	Max Planck Institute for Developmental Biology	Tübingen	Germany	2
+396	Rutgers, The State University of New Jersey	New Brunswick	United States	2
+397	Garvan Institute of Medical Research	Darlinghurst	Australia	2
+398	Weihenstephan-Triesdorf University of Applied Sciences	Freising	Germany	2
+399	National Research Council	Rome	Italy	2
+400	University of Hull	Hull	United Kingdom	2
+401	University of Massachusetts Boston	Boston	United States	2
+402	University of Bari Aldo Moro	Bari	Italy	2
+403	Centrum Medyczne Kształcenia Podyplomowego	Warsaw	Poland	2
+404	Örebro University	Örebro	Sweden	2
+405	Agence Nationale de la Recherche	Paris	France	2
+406	Hospital Infantil Universitario Niño Jesús	Madrid	Spain	2
+407	Policlinico di Modena	Modena	Italy	2
+408	St. James's Hospital	Dublin	Ireland	2
+409	Hôpital Édouard-Herriot	Lyon	France	2
+410	Ludwig Boltzmann Institute for Experimental and Clinical Traumatology	Vienna	Austria	2
+411	Tongji University	Shanghai	China	2
+412	Meir Medical Center	Kfar Saba	Israel	2
+413	Kamada (Israel)	Ness Ziona	Israel	2
+414	German Center for Lung Research	Giessen	Germany	2
+415	Institute of Subtropical Agriculture	Changsha	China	2
+416	Agricultural Research Center	Giza	Egypt	1
+417	Helios Klinikum Erfurt	Erfurt	Germany	1
+418	Klinikum Oldenburg	Oldenburg	Germany	1
+419	Knappschaftskrankenhaus Recklinghausen	Recklinghausen	Germany	1
+420	Klinikum Ernst von Bergmann	Potsdam	Germany	1
+421	München Klinik	Munich	Germany	1
+422	Marien Hospital Wesel	Wesel	Germany	1
+423	Berufsgenossenschaftliche Unfallklinik Ludwigshafen	Ludwigshafen am Rhein	Germany	1
+424	SRH Klinikum Karlsbad-Langensteinbach	Baden-Baden	Germany	1
+425	BG Klinik Tübingen	Tübingen	Germany	1
+426	Klinikum Stuttgart	Stuttgart	Germany	1
+427	Canisius-Wilhelmina Ziekenhuis	Nijmegen	Netherlands	1
+428	Canadian Arthritis Patient Alliance	Neuville	Canada	1
+429	Central Institute of Mental Health	Mannheim	Germany	1
+430	National Health Service	London	United Kingdom	1
+431	Hôpital Robert-Debré	Paris	France	1
+432	The University of Texas Health Science Center at Houston	Houston	United States	1
+433	University of North Carolina System	Chapel Hill	United States	1
+434	Nippon Medical School	Tokyo	Japan	1
+435	St. Antonius Ziekenhuis	Nieuwegein	Netherlands	1
+436	Zuyderland Medisch Centrum	Sittard	Netherlands	1
+437	Hôpital Avicenne	Bobigny	France	1
+438	Royal Brompton Hospital	London	United Kingdom	1
+439	Augenklinik Heidelberg	Heidelberg	Germany	1
+440	University of Western Brittany	Brest	France	1
+441	University of Florida	Gainesville	United States	1
+442	University of Szeged	Szeged	Hungary	1
+443	Tehran University of Medical Sciences	Tehran	Iran	1
+444	Universitair Ziekenhuis Brussel	Brussels	Belgium	1
+445	Hvidovre Hospital	Hvidovre	Denmark	1
+446	Shahed University	Tehran	Iran	1
+447	University of Graz	Graz	Austria	1
+448	Nagoya Institute of Technology	Nagoya	Japan	1
+449	Albert Einstein College of Medicine	The Bronx	United States	1
+450	First Pavlov State Medical University of St. Petersburg	Saint Petersburg	Russia	1
+451	Universidade Federal do Espírito Santo	Vitória	Brazil	1
+452	Kasturba Medical College	Manipal	India	1
+453	Shanghai Jiao Tong University	Shanghai	China	1
+454	University of Science and Technology of China	Hefei	China	1
+455	Laureate Institute for Brain Research	Tulsa	United States	1
+456	Hans Knöll Institute	Jena	Germany	1
+457	Institute of Zoology	Beijing	China	1
+458	Hospital Clínic de Barcelona	Barcelona	Spain	1
+459	Dalhousie University	Halifax	Canada	1
+460	Aalborg University Hospital	Aalborg	Denmark	1
+461	Poznan University of Medical Sciences	Poznań	Poland	1
+462	Agostino Gemelli University Polyclinic	Rome	Italy	1
+463	SUNY Upstate Medical University	Syracuse	United States	1
+464	John H. Stroger, Jr. Hospital of Cook County	Chicago	United States	1
+465	Max Super Speciality Hospital	Delhi	India	1
+466	Vanderbilt University Medical Center	Nashville	United States	1
+467	Baylor University Medical Center	Dallas	United States	1
+468	Kyushu University	Fukuoka	Japan	1
+469	Statistics Collaborative	Washington D.C.	United States	1
+470	University of Lorraine	Nancy	France	1
+471	Serbian Academy of Sciences and Arts	Belgrade	Serbia	1
+472	University of Utah	Salt Lake City	United States	1
+473	Institute of Bioorganic Chemistry	Moscow	Russia	1
+474	Institute of Organic Chemistry and Biochemistry	Prague	Czechia	1
+475	Pennsylvania State University	State College	United States	1
+476	Stellenbosch University	Stellenbosch	South Africa	1
+477	Universidade Federal de Goiás	Goiânia	Brazil	1
+478	University of Oregon	Eugene	United States	1
+479	American Museum of Natural History	New York	United States	1
+480	Pace University	New York	United States	1
+481	University of Colorado Boulder	Boulder	United States	1
+482	State University of Campinas	Campinas	Brazil	1
+483	University of Montana	Missoula	United States	1
+484	Fuzhou University	Fuzhou	China	1
+485	Royal Holloway University of London	Egham	United Kingdom	1
+486	Staffordshire University	Stoke-on-Trent	United Kingdom	1
+487	McGill University	Montreal	Canada	1
+488	Jilin Agricultural University	Changchun	China	1
+489	Elisabeth-TweeSteden Ziekenhuis	Tilburg	Netherlands	1
+490	Amphia Ziekenhuis	Breda	Netherlands	1
+491	Luzerner Kantonsspital	Lucerne	Switzerland	1
+492	Augenklinik Universitätsallee	Bremen	Germany	1
+493	Deutsche Ophthalmologische Gesellschaft	Munich	Germany	1
+494	University of the Basque Country	Leioa	Spain	1
+495	Universidad Publica De Navarra	Pamplona	Spain	1
+496	Oslo University Hospital	Oslo	Norway	1
+497	Federal Institute for Drugs and Medical Devices	Bonn	Germany	1
+498	University of Bremen	Bremen	Germany	1
+499	Newcastle University	Newcastle upon Tyne	United Kingdom	1
+500	Max Planck Institute of Psychiatry	Munich	Germany	1
+501	Policlinico Umberto I	Rome	Italy	1
+502	Spedali Civili di Brescia	Brescia	Italy	1
+503	Hôpitaux Universitaires de Strasbourg	Strasbourg	France	1
+504	St. Bernward Krankenhaus	Hildesheim	Germany	1
+505	Klinikum Ludwigsburg	Ludwigsburg	Germany	1
+506	Westlake University	Hangzhou	China	1
+507	CGIAR	Montpellier	France	1
+508	National University of Río Negro	Viedma	Argentina	1
+509	Durham University	Durham	United Kingdom	1
+510	State University of Santa Cruz	Ilhéus	Brazil	1
+511	Boehringer Ingelheim (Germany)	Ingelheim am Rhein	Germany	1
+512	Janssen (Germany)	Neuss	Germany	1
+513	Novartis (United States)	New York	United States	1
+514	Bayer (Germany)	Leverkusen	Germany	1
+515	Ospedale San Giovanni Bosco	Turin	Italy	1
+516	University of Maryland, Baltimore	Baltimore	United States	1
+517	University of New Mexico	Albuquerque	United States	1
+518	Hong Kong Baptist University	Hong Kong	China	1
+519	George Washington University	Washington D.C.	United States	1
+520	National Research Institute for Agriculture, Food and Environment	Paris	France	1
+521	University of Pretoria	Pretoria	South Africa	1
+522	Tarleton State University	Stephenville	United States	1
+523	Klinikum Mittelbaden	Baden-Baden	Germany	1
+524	University of Khartoum	Khartoum	Sudan	1
+525	University of Turku	Turku	Finland	1
+526	University of Hohenheim	Stuttgart	Germany	1
+527	Institute of Clinical Cancer Research	Frankfurt am Main	Germany	1
+528	Centro Hospitalar de Lisboa Central	Lisbon	Portugal	1
+529	Geisinger Health System	Danville	United States	1
+530	Rush University	Chicago	United States	1
+531	Rush University Medical Center	Chicago	United States	1
+532	NorthShore University HealthSystem	Evanston	United States	1
+533	University of South Florida	Tampa	United States	1
+534	Allegheny Health Network	Pittsburgh	United States	1
+535	St. Francis Hospital	Roslyn	United States	1
+536	Barrow Neurological Institute	Phoenix	United States	1
+537	Nottingham University Hospitals NHS Trust	Nottingham	United Kingdom	1
+538	Newcastle upon Tyne Hospitals NHS Foundation Trust	Newcastle upon Tyne	United Kingdom	1
+539	Belfast Health and Social Care Trust	Belfast	United Kingdom	1
+540	Swansea Bay University Health Board	Swansea	United Kingdom	1
+541	Salford Royal NHS Foundation Trust	Salford	United Kingdom	1
+542	Azienda Ospedaliero-Universitaria Careggi	Florence	Italy	1
+543	Transylvania University of Brașov	Brasov	Romania	1
+544	Complutense University of Madrid	Madrid	Spain	1
+545	Centre Hospitalier de Luxembourg	Luxembourg	Luxembourg	1
+546	Institut Pasteur	Paris	France	1
+547	Indiana University – Purdue University Indianapolis	Indianapolis	United States	1
+548	Society for Conservation Biology	Washington D.C.	United States	1
+549	University of Battambang	Battambang	Cambodia	1
+550	Nasional University	Jakarta	Indonesia	1
+551	Xishuangbanna Tropical Botanical Garden	Mengla	China	1
+552	Universiti Sains Malaysia	George Town	Malaysia	1
+553	Chulalongkorn University	Bangkok	Thailand	1
+554	King Mongkut's University of Technology Thonburi	Bangkok	Thailand	1
+555	University of Kurdistan	Sanandij	Iran	1
+556	University of Oviedo	Oviedo	Spain	1
+557	Amity University	Noida	India	1
+558	Kyrgyz National University	Bishkek	Kyrgyzstan	1
+559	Ramkhamhaeng University	Bangkok	Thailand	1
+560	University of Nottingham Malaysia Campus	Semenyih	Malaysia	1
+561	München Klinik Harlaching	Munich	Germany	1
+562	Klinikum Frankfurt Höchst	Frankfurt am Main	Germany	1
+563	Universitäts-Herzzentrum Freiburg-Bad Krozingen	Bad Krozingen	Germany	1
+564	Kreiskliniken Reutlingen	Reutlingen	Germany	1
+565	Bundeswehrkrankenhaus	Ulm	Germany	1
+566	Medizinische Hochschule Brandenburg Theodor Fontane	Neuruppin	Germany	1
+567	University of Southampton	Southampton	United Kingdom	1
+568	Imperial College Healthcare NHS Trust	London	United Kingdom	1
+569	The Francis Crick Institute	London	United Kingdom	1
+570	University of Birmingham	Birmingham	United Kingdom	1
+571	Donald Danforth Plant Science Center	St Louis	United States	1
+572	International Food Policy Research Institute	Washington D.C.	United States	1
+573	International Rice Research Institute	Los Baños	Philippines	1
+574	Centro Internacional de Agricultura Tropical	Santiago de Cali	Colombia	1
+575	University of Liège	Liège	Belgium	1
+576	Biotechnology Research Institute	Beijing	China	1
+577	Dartmouth–Hitchcock Medical Center	Lebanon	United States	1
+578	Wellcome Centre for Human Neuroimaging	London	United Kingdom	1
+579	National Institute on Deafness and Other Communication Disorders	Bethesda	United States	1
+580	Butler Hospital	Providence	United States	1
+581	Università Campus Bio-Medico	Rome	Italy	1
+582	Aalto University	Helsinki	Finland	1
+583	Hôpitaux Universitaires Henri-Mondor	Créteil	France	1
+584	Vita-Salute San Raffaele University	Milan	Italy	1
+585	National Institute of Mental Health	Bethesda	United States	1
+586	University of Messina	Messina	Italy	1
+587	Fukushima Medical University	Fukushima	Japan	1
+588	National Institute of Neurological Disorders and Stroke	Bethesda	United States	1
+589	Hertie Institute for Clinical Brain Research	Tübingen	Germany	1
+590	Jadavpur University	Kolkata	India	1
+591	Shanghai Institute of Materia Medica	Pudong	China	1
+592	Rebecca Sieff Hospital	Safed	Israel	1
+593	Sheffield Teaching Hospitals NHS Foundation Trust	Sheffield	United Kingdom	1
+594	Boston Scientific (United States)	Marlborough	United States	1
+595	Cardiovascular Center Frankfurt	Frankfurt am Main	Germany	1
+596	Paul Ehrlich Institut	Langen	Germany	1
+597	Moscow Witte University	Moscow	Russia	1
+598	Federal Medical-Biological Agency	Moscow	Russia	1
+599	Moscow State University of Medicine and Dentistry	Moscow	Russia	1
+600	Evangelisches Krankenhaus Göttingen-Weende	Göttingen	Germany	1
+601	Uppsala University	Uppsala	Sweden	1
+602	Turku University Hospital	Turku	Finland	1
+603	Centre Hospitalier Universitaire de Caen	Caen	France	1
+604	University Hospital of Larissa	Larissa	Greece	1
+605	Swiss Institute of Bioinformatics	Geneva	Switzerland	1
+606	Wellcome Centre for Human Genetics	Oxford	United Kingdom	1
+607	Roche (Switzerland)	Basel	Switzerland	1
+608	École Polytechnique Fédérale de Lausanne	Lausanne	Switzerland	1
+609	Institute for Molecular Medicine Finland	Helsinki	Finland	1
+610	University of Lausanne	Lausanne	Switzerland	1
+611	Roche (United States)	San Francisco	United States	1
+612	Caritas-Krankenhaus St. Josef	Regensburg	Germany	1
+613	Hôpital Universitaire Dupuytren	Limoges	France	1
+614	Centre Hospitalier Universitaire d'Angers	Angers	France	1
+615	Hôpital Ambroise-Paré	Boulogne-Billancourt	France	1
+616	Hôpital Cochin	Paris	France	1
+617	University of Lyon System	Lyon	France	1
+618	University of Colorado Anschutz Medical Campus	Aurora	United States	1
+619	Hôpital Saint Eloi	Montpellier	France	1
+620	Hôpital Nord	Marseille	France	1
+621	Assistance Publique – Hôpitaux de Paris	Paris	France	1
+622	University of Groningen	Groningen	Netherlands	1
+623	University of Valencia	Valencia	Spain	1
+624	George Mason University	Fairfax	United States	1
+625	University of St Andrews	St Andrews	United Kingdom	1
+626	Catholic University of the Sacred Heart	Milan	Italy	1
+627	Kent State University	Kent	United States	1
+628	Heilbronn University	Heilbronn	Germany	1
+629	Amsterdam Neuroscience	Amsterdam	Netherlands	1
+630	University of Lille	Lille	France	1
+631	Max Planck Institute of Biophysics	Frankfurt am Main	Germany	1
+632	Institute of Cancer Research	London	United Kingdom	1
+633	Marmara University	Istanbul	Turkey	1
+634	Universidad de Especialidades Espíritu Santo	Guayaquil	Ecuador	1
+635	Faculdade de Medicina do ABC	Santo André	Brazil	1
+636	Kuwait University	Kuwait City	Kuwait	1
+637	King Faisal Specialist Hospital & Research Centre	Riyadh	Saudi Arabia	1
+638	University Clinic of Pulmonary and Allergic Diseases Golnik	Golnik	Slovenia	1
+639	Centre Hospitalier Universitaire de Grenoble	Grenoble	France	1
+640	Opole University	Opole	Poland	1
+641	Mount Sinai Hospital	New York	United States	1
+642	Federal University of Bahia	Salvador	Brazil	1
+643	Trinity College Dublin	Dublin	Ireland	1
+644	Istanbul University	Istanbul	Turkey	1
+645	Hacettepe University	Ankara	Turkey	1
+646	Kurchatov Institute	Moscow	Russia	1
+647	Federal University of São Paulo	São Paulo	Brazil	1
+648	Amsterdam University Medical Centers	Amsterdam	Netherlands	1
+649	Kobe University	Kobe	Japan	1
+650	D.Y. Patil University	Navi Mumbai	India	1
+651	Yokohama City University	Yokohama	Japan	1
+652	Medical University of Silesia	Katowice	Poland	1
+653	Camden and Campbelltown Hospitals	Campbelltown	Australia	1
+654	Medical University of Lublin	Lublin	Poland	1
+655	Mahidol University	Bangkok	Thailand	1
+656	Post Graduate Institute of Medical Education and Research	Chandigarh	India	1
+657	Aristotle University of Thessaloniki	Thessaloniki	Greece	1
+658	The Royal Free Hospital	London	United Kingdom	1
+659	University of Manchester	Manchester	United Kingdom	1
+660	Smolensk State Medical University	Smolensk	Russia	1
+661	Hospital Universitário Lauro Wanderley	João Pessoa	Brazil	1
+662	Hospital Italiano de Buenos Aires	Buenos Aires	Argentina	1
+663	Hospital Español	Mexico City	Mexico	1
+664	Federal University of Paraná	Curitiba	Brazil	1
+665	University of Antioquia	Medellín	Colombia	1
+666	Army Medical University	Chongqing	China	1
+667	Medical University of Sofia	Sofia	Bulgaria	1
+668	Hiroshima University	Hiroshima	Japan	1
+669	Technion – Israel Institute of Technology	Haifa	Israel	1
+670	Federal University of Rio de Janeiro	Rio de Janeiro	Brazil	1
+671	Erasmus MC	Rotterdam	Netherlands	1
+672	Second Hospital of Hebei Medical University	Shijiazhuang	China	1
+673	Sun Yat-sen Memorial Hospital	Guangzhou	China	1
+674	Peking University First Hospital	Beijing	China	1
+675	Norwegian University of Science and Technology	Trondheim	Norway	1
+676	Krankenhaus Oberndorf	Oberndorf bei Salzburg	Austria	1
+677	Lithuanian University of Health Sciences	Kaunas	Lithuania	1
+678	Levanger Hospital	Levanger	Norway	1
+679	Næstved Sygehus	Næstved	Denmark	1
+680	Copenhagen University Hospital	Copenhagen	Denmark	1
+681	Max Planck Institute for Infection Biology	Berlin	Germany	1
+682	Helios Klinikum Emil von Behring	Berlin	Germany	1
+683	TU Darmstadt	Darmstadt	Germany	1
+684	Wilhelminen Hospital	Vienna	Austria	1
+685	Wiener Krankenanstaltenverbund	Vienna	Austria	1
+686	Jagiellonian University	Krakow	Poland	1
+687	Martin Luther University Halle-Wittenberg	Halle	Germany	1
+688	University of Ljubljana	Ljubljana	Slovenia	1
+689	Royal College of General Practitioners	London	United Kingdom	1
+690	Danish Cancer Society	Copenhagen	Denmark	1
+691	Pasteur Hellenic Institute	Athens	Greece	1
+692	University of Patras	Pátrai	Greece	1
+693	Andrássy University Budapest	Budapest	Hungary	1
+694	Fundação Getulio Vargas	Rio de Janeiro	Brazil	1
+695	Children's Hospital at Westmead	Sydney	Australia	1
+696	Westmead Institute for Medical Research	Sydney	Australia	1
+697	Australian Red Cross Lifeblood	Sydney	Australia	1
+698	University of Technology Sydney	Sydney	Australia	1
+699	Western Sydney University	Richmond	Australia	1
+700	Elisabeth-Krankenhaus Essen	Essen	Germany	1
+701	Unfallkrankenhaus Berlin	Berlin	Germany	1
+702	St.-Johannes-Hospital Dortmund	Dortmund	Germany	1
+703	Zentralklinik Bad Berka	Bad Berka	Germany	1
+704	Ljubljana University Medical Centre	Ljubljana	Slovenia	1
+705	Leipzig Heart Institute	Leipzig	Germany	1
+706	Stiftung Institut für Herzinfarktforschung	Ludwigshafen am Rhein	Germany	1
+707	Policlinico San Donato	San Donato Milanese	Italy	1
+708	Iran University of Medical Sciences	Tehran	Iran	1
+709	Babol University of Medical Sciences	Babol	Iran	1
+710	TIB Molbiol (Germany)	Berlin	Germany	1
+711	University of Twente	Enschede	Netherlands	1
+712	Gran Sasso Science Institute	L’Aquila	Italy	1
+713	Minerva Foundation	Helsinki	Finland	1
+714	University of Crete	Rethymno	Greece	1
+715	European Molecular Biology Laboratory	Heidelberg	Germany	1
+716	University of California, Berkeley	Berkeley	United States	1
+717	Innovations for Poverty Action	New Haven	United States	1
+718	University of California, Davis	Davis	United States	1
+719	Princeton University	Princeton	United States	1
+720	Social Science Research Center Berlin	Berlin	Germany	1
+721	University Hospitals of the Ruhr-University of Bochum	Bochum	Germany	1
+722	Robert Bosch Hospital	Stuttgart	Germany	1
+723	Klinik für Psychosomatik	Aalen	Germany	1
+724	Association of Schools of Public Health in the European Region	Brussels	Belgium	1
+725	Carl von Ossietzky University of Oldenburg	Oldenburg	Germany	1
+726	Dokuz Eylül University	Izmir	Turkey	1
+727	Amiri Hospital	Kuwait City	Kuwait	1
+728	Irmandade da Santa Casa de Misericórdia de São Paulo	São Paulo	Brazil	1
+729	Klinik Bavaria	Kreischa	Germany	1
+730	Helios Klinikum Krefeld	Krefeld	Germany	1
+731	Technische Hochschule Mittelhessen	Giessen	Germany	1
+732	European University Institute	Florence	Italy	1
+733	Arizona State University	Tempe	United States	1
+734	Osnabrück University	Osnabrück	Germany	1
+735	German Center for Integrative Biodiversity Research	Leipzig	Germany	1
+736	University of Wollongong	Wollongong	Australia	1
+737	Eberswalde University for Sustainable Development	Eberswalde	Germany	1
+738	Leibniz Centre for Agricultural Landscape Research	Müncheberg	Germany	1
+739	Cardiff University	Cardiff	United Kingdom	1
+740	VU Amsterdam	Amsterdam	Netherlands	1
+741	Institute of Soil Science and Plant Cultivation	Puławy	Poland	1
+742	Fraunhofer Institute for Toxicology and Experimental Medicine	Hanover	Germany	1
+743	Erasmus University Rotterdam	Rotterdam	Netherlands	1
+744	Max Planck Institute for Dynamics of Complex Technical Systems	Magdeburg	Germany	1
+745	East China University of Science and Technology	Shanghai	China	1
+746	University of Pittsburgh Medical Center	Pittsburgh	United States	1
+747	Marche Polytechnic University	Ancona	Italy	1
+748	University of Zagreb	Zagreb	Croatia	1
+749	University of Kaiserslautern	Kaiserslautern	Germany	1
+750	Centre de Coopération Internationale en Recherche Agronomique pour le Développement	Paris	France	1
+751	Université de Dschang	Dschang	Cameroon	1
+752	International Centre for Diarrhoeal Disease Research	Dhaka	Bangladesh	1
+753	Program for Appropriate Technology in Health	New Delhi	India	1
+754	B.P. Koirala Institute of Health Sciences	Dharān	Nepal	1
+755	Rajendra Memorial Research Institute of Medical Sciences	Patna	India	1
+756	University of Sri Jayewardenepura	Colombo	Sri Lanka	1
+757	Kliniken Essen-Mitte	Essen	Germany	1
+758	Joint Research Center	Seville	Spain	1
+759	Innsbruck Medical University	Innsbruck	Austria	1
+760	Max Planck Institute for Polymer Research	Mainz	Germany	1
+761	Stavanger University Hospital	Stavanger	Norway	1
+762	Institute of Biological Problems of the North	Magadan	Russia	1
+763	Severtsov Institute of Ecology and Evolution	Moscow	Russia	1
+764	Leibniz-Institute for Food Systems Biology at the Technical University of Munich	Freising	Germany	1
+765	Monell Chemical Senses Center	Philadelphia	United States	1
+766	National Institute on Alcohol Abuse and Alcoholism	Bethesda	United States	1
+767	University of Verona	Verona	Italy	1
+768	Roskilde University	Roskilde	Denmark	1
+769	RheinMain University of Applied Sciences	Wiesbaden	Germany	1
+770	University Hospital Coventry	Coventry	United Kingdom	1
+771	Karl Landsteiner Society	Sankt Pölten	Austria	1
+772	University of Wolverhampton	Wolverhampton	United Kingdom	1
+773	Federal University of Toulouse Midi-Pyrénées	Toulouse	France	1
+774	Leiden University	Leiden	Netherlands	1
+775	Vietnam National University, Hanoi	Hanoi	Vietnam	1
+776	Syiah Kuala University	Banda Aceh	Indonesia	1
+777	China West Normal University	Nanchong	China	1
+778	Beijing Forestry University	Beijing	China	1
+779	Nankai University	Tianjin	China	1
+780	Springer Nature (Germany)	Berlin	Germany	1
+781	University of the West of Scotland	Paisley	United Kingdom	1
+782	TU Bergakademie Freiberg	Freiberg	Germany	1
+783	Wissenschaftliches Institut der AOK	Berlin	Germany	1
+784	Saint Luke's Health System	Kansas City	United States	1
+785	Fraunhofer Institute for Cell Therapy and Immunology	Leipzig	Germany	1
+786	University of Regensburg	Regensburg	Germany	1
+787	Klinikum Coburg	Coburg	Germany	1
+788	B. Braun (Germany)	Melsungen	Germany	1
+789	Städtische Kliniken Mönchengladbach	Mönchengladbach	Germany	1
+790	Regio Kliniken	Elmshorn	Germany	1
+791	Kerckhoff Klinik	Bad Nauheim	Germany	1
+792	Stowers Institute for Medical Research	Kansas City	United States	1
+793	Hôpital Corentin-Celton	Issy-les-Moulineaux	France	1
+794	Institute of Molecular and Clinical Ophthalmology Basel	Basel	Switzerland	1
+795	Instituto de Investigación Biomédica de Salamanca	Salamanca	Spain	1
+796	University of Modena and Reggio Emilia	Modena	Italy	1
+797	Pitié-Salpêtrière Hospital	Paris	France	1
+798	Istituto Superiore di Sanità	Rome	Italy	1
+799	Clausthal University of Technology	Clausthal-Zellerfeld	Germany	1
+800	Save the Children	London	United Kingdom	1
+801	United Nations Children's Fund	New York	United States	1
+802	New School	New York	United States	1
+803	Hamad bin Khalifa University	Doha	Qatar	1
+804	Qatar Foundation	Doha	Qatar	1
+805	Qatar University	Doha	Qatar	1
+806	Kyoto Prefectural University of Medicine	Kyoto	Japan	1
+807	University of Rijeka	Rijeka	Croatia	1
+808	Rudjer Boskovic Institute	Zagreb	Croatia	1
+809	Photochemistry Center	Moscow	Russia	1
+810	University Hospitals Birmingham NHS Foundation Trust	Birmingham	United Kingdom	1
+811	Asklepios Klinik Altona	Hamburg	Germany	1
+812	Alfried Krupp Hospital	Essen	Germany	1
+813	University at Buffalo, State University of New York	Buffalo	United States	1
+814	Beaumont Hospital	Royal Oak	United States	1
+815	French National Centre for Scientific Research	Paris	France	1
+816	Tokyo University of Agriculture and Technology	Tokyo	Japan	1
+817	Institute of Ecology and Botany	Budapest	Hungary	1
+818	Science and Technology Commission of Shanghai Municipality	Shanghai	China	1
+819	Joint Nature Conservation Committee	Peterborough	United Kingdom	1
+820	Institute of Nature Conservation	Krakow	Poland	1
+821	University of Tokyo	Tokyo	Japan	1
+822	Bangor University	Bangor	United Kingdom	1
+823	Max Planck Institute of Animal Behavior	Radolfzell	Germany	1
+824	Alexander von Humboldt Biological Resources Research Institute	Bogotá	Colombia	1
+825	Federal University of Mato Grosso do Sul	Campo Grande	Brazil	1
+826	Acadia University	Wolfville	Canada	1
+827	Instituto Politécnico Nacional	Mexico City	Mexico	1
+828	University of Lisbon	Lisbon	Portugal	1
+829	Centre d'Écologie Fonctionnelle et Évolutive	Montpellier	France	1
+830	University of the Ryukyus	Okinawa	Japan	1
+831	University of Debrecen	Debrecen	Hungary	1
+832	ITMO University	Saint Petersburg	Russia	1
+833	Federal University of Lavras	Lavras	Brazil	1
+834	Sun Yat-sen University	Guangzhou	China	1
+835	Leibniz Institute for Prevention Research and Epidemiology - BIPS	Bremen	Germany	1
+836	Hochschule Niederrhein	Krefeld	Germany	1
+837	Universidade Nova de Lisboa	Lisbon	Portugal	1
+838	Southwest University	Chongqing	China	1
+839	South China Agricultural University	Guangzhou	China	1
+840	Beijing Foreign Studies University	Beijing	China	1
+841	Cliniques Universitaires Saint-Luc	Brussels	Belgium	1
+842	Centre d'Imagerie BioMedicale	Lausanne	Switzerland	1
+843	Cedars-Sinai Medical Center	Los Angeles	United States	1
+844	Ostfalia University of Applied Sciences	Wolfenbüttel	Germany	1
+845	German Rheumatism Research Centre	Berlin	Germany	1
+846	Friedrich-Loeffler-Institut	Greifswald	Germany	1
+847	University of Applied Sciences and Arts University of Applied Sciences and Arts Hildesheim/Holzminden/Göttingen	Hildesheim	Germany	1
+848	Karl Landsteiner University of Health Sciences	Krems	Austria	1
+849	Max Planck Society	Munich	Germany	1
