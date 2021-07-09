@@ -31,6 +31,8 @@ If you want to create custom tables that are not available  in `./output/tables/
 #### `./jupyter/analysis/`
 If you're interested in using the pre-compiled tables, you can find some example analyses inside the notebooks in this folder. All of them can be executed using [Binder](https://mybinder.org/v2/gh/subugoe/goe_covid_notebooks/HEAD). Here, no connection to  Google BigQuery is necessary.
 
+The Jupyter notebook `dashboard.ipynb` illustrates how a simple dashboard can be create using the Göttingen Campus COVID-19 publication data.
+
 
 More documentation can be found inside the notebooks themselves.
 
